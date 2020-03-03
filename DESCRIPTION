@@ -1,6 +1,6 @@
 Package: HTData
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Provides data for HjerteTal
 Version: 0.1.0
 Author: Matthew Phelps
 Maintainer: Matthew Phelps <mphelps@hjerteforeningen.dk>
@@ -13,5 +13,5 @@ RoxygenNote: 7.0.2
 Depends: R (>= 3.4)
 Imports:
   data.table,
-  magrittr,
-  devtools
+  magrittr
+  
