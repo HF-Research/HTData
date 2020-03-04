@@ -1,7 +1,7 @@
 Package: HTData
 Type: Package
 Title: Provides data for HjerteTal
-Version: 0.1.0
+Version: 0.1.1
 Author: Matthew Phelps
 Maintainer: Matthew Phelps <mphelps@hjerteforeningen.dk>
 Description: More about what it does (maybe more than one line)
