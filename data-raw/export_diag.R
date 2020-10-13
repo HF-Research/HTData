@@ -4,6 +4,7 @@ data_files <-
              pattern = "export_diag",
              full.names = TRUE)
 export_diag <-
-  lapply(data_files, data.table::fread, encoding = "UTF-8") %>% data.table::rbindlist()
+  lapply(data_files, data.table::fread, encoding = "UTF-8")
+export_diag <- data.table::rbindlist(export_diag)
 
 usethis::use_data(export_diag, overwrite = TRUE)
