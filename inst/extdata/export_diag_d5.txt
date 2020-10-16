@@ -1359,16 +1359,6 @@
 "female" 2009 "national" "national" "n.prevalence" "d5" 0 1 1500.6 23587
 "female" 2009 "national" "national" "n.readmissions.30" "d5" 0 1 58.1 916
 "female" 2009 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 24402.4 696
-"female" 2009 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2009 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2009 "region" "Hovedstaden" "n.admissions" "d5" 1 1 198.3 917
 "female" 2009 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 142.6 663
 "female" 2009 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 9.6 49
@@ -1419,6 +1409,16 @@
 "female" 2009 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1429.8 2449
 "female" 2009 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 47.6 81
 "female" 2009 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 22173.5 71
+"female" 2009 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2009 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2010 "age" "85+" "n.admissions" "d5" 0 0 730.2 558
 "female" 2010 "age" "85+" "n.admissions.ppl" "d5" 0 0 557.4 426
 "female" 2010 "age" "85+" "n.dead.year" "d5" 0 0 70.7 54
@@ -2249,16 +2249,6 @@
 "female" 2010 "national" "national" "n.prevalence" "d5" 0 1 1520.5 24175
 "female" 2010 "national" "national" "n.readmissions.30" "d5" 0 1 65.6 1053
 "female" 2010 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 26642.5 696
-"female" 2010 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2010 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2010 "region" "Hovedstaden" "n.admissions" "d5" 1 1 191.6 890
 "female" 2010 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 140.8 655
 "female" 2010 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 8.2 42
@@ -2309,6 +2299,16 @@
 "female" 2010 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1458.5 2526
 "female" 2010 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 53.2 92
 "female" 2010 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 23223.2 75
+"female" 2010 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2010 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2011 "age" "85+" "n.admissions" "d5" 0 0 674.5 519
 "female" 2011 "age" "85+" "n.admissions.ppl" "d5" 0 0 514.7 396
 "female" 2011 "age" "85+" "n.dead.year" "d5" 0 0 74.1 57
@@ -3139,16 +3139,6 @@
 "female" 2011 "national" "national" "n.prevalence" "d5" 0 1 1526.7 24609
 "female" 2011 "national" "national" "n.readmissions.30" "d5" 0 1 65.7 1059
 "female" 2011 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 30920.2 689
-"female" 2011 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2011 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2011 "region" "Hovedstaden" "n.admissions" "d5" 1 1 184.4 865
 "female" 2011 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 136 639
 "female" 2011 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 9 45
@@ -3199,6 +3189,16 @@
 "female" 2011 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1479 2590
 "female" 2011 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 58.5 102
 "female" 2011 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 27816.8 83
+"female" 2011 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2011 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2012 "age" "85+" "n.admissions" "d5" 0 0 640.8 497
 "female" 2012 "age" "85+" "n.admissions.ppl" "d5" 0 0 492.5 382
 "female" 2012 "age" "85+" "n.dead.year" "d5" 0 0 90.3 70
@@ -4029,16 +4029,6 @@
 "female" 2012 "national" "national" "n.prevalence" "d5" 0 1 1527.6 25008
 "female" 2012 "national" "national" "n.readmissions.30" "d5" 0 1 49.9 815
 "female" 2012 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 26293.1 643
-"female" 2012 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2012 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2012 "region" "Hovedstaden" "n.admissions" "d5" 1 1 182.4 863
 "female" 2012 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 134.2 636
 "female" 2012 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7.3 36
@@ -4089,12 +4079,22 @@
 "female" 2012 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1490.6 2639
 "female" 2012 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 51.6 92
 "female" 2012 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 28265.9 72
+"female" 2012 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2012 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "age" "85+" "n.admissions" "d5" 0 0 653.9 511
 "female" 2013 "age" "85+" "n.admissions.ppl" "d5" 0 0 509.3 398
 "female" 2013 "age" "85+" "n.dead.year" "d5" 0 0 72.9 57
 "female" 2013 "age" "85+" "n.dead1" "d5" 0 0 41638.8 249
 "female" 2013 "age" "85+" "n.dead30" "d5" 0 0 15384.6 92
-"female" 2013 "age" "85+" "n.dead5" "d5" 0 0 75585.3 452
+"female" 2013 "age" "85+" "n.dead5" "d5" 0 0 77592 464
 "female" 2013 "age" "85+" "n.incidence" "d5" 0 0 765.3 598
 "female" 2013 "age" "85+" "n.prevalence" "d5" 0 0 5053.5 3949
 "female" 2013 "age" "85+" "n.readmissions.30" "d5" 0 0 161.2 126
@@ -4104,7 +4104,7 @@
 "female" 2013 "age" "65 - 74" "n.dead.year" "d5" 0 0 4.9 15
 "female" 2013 "age" "65 - 74" "n.dead1" "d5" 0 0 8914.7 92
 "female" 2013 "age" "65 - 74" "n.dead30" "d5" 0 0 2228.7 23
-"female" 2013 "age" "65 - 74" "n.dead5" "d5" 0 0 24031 248
+"female" 2013 "age" "65 - 74" "n.dead5" "d5" 0 0 26162.8 270
 "female" 2013 "age" "65 - 74" "n.incidence" "d5" 0 0 337.8 1032
 "female" 2013 "age" "65 - 74" "n.prevalence" "d5" 0 0 2395.4 7319
 "female" 2013 "age" "65 - 74" "n.readmissions.30" "d5" 0 0 76.9 235
@@ -4114,7 +4114,7 @@
 "female" 2013 "age" "75 - 84" "n.dead.year" "d5" 0 0 22.5 37
 "female" 2013 "age" "75 - 84" "n.dead1" "d5" 0 0 17521.4 164
 "female" 2013 "age" "75 - 84" "n.dead30" "d5" 0 0 5769.2 54
-"female" 2013 "age" "75 - 84" "n.dead5" "d5" 0 0 47115.4 441
+"female" 2013 "age" "75 - 84" "n.dead5" "d5" 0 0 50534.2 473
 "female" 2013 "age" "75 - 84" "n.incidence" "d5" 0 0 570.1 936
 "female" 2013 "age" "75 - 84" "n.prevalence" "d5" 0 0 4476.3 7349
 "female" 2013 "age" "75 - 84" "n.readmissions.30" "d5" 0 0 153.5 252
@@ -4124,7 +4124,7 @@
 "female" 2013 "age" "45 - 54" "n.dead.year" "d5" 0 0 NA NA
 "female" 2013 "age" "45 - 54" "n.dead1" "d5" 0 0 5243.4 14
 "female" 2013 "age" "45 - 54" "n.dead30" "d5" 0 0 NA NA
-"female" 2013 "age" "45 - 54" "n.dead5" "d5" 0 0 11236 30
+"female" 2013 "age" "45 - 54" "n.dead5" "d5" 0 0 12734.1 34
 "female" 2013 "age" "45 - 54" "n.incidence" "d5" 0 0 67.2 267
 "female" 2013 "age" "45 - 54" "n.prevalence" "d5" 0 0 500.2 1987
 "female" 2013 "age" "45 - 54" "n.readmissions.30" "d5" 0 0 14.1 56
@@ -4134,7 +4134,7 @@
 "female" 2013 "age" "55 - 64" "n.dead.year" "d5" 0 0 NA NA
 "female" 2013 "age" "55 - 64" "n.dead1" "d5" 0 0 5093.4 30
 "female" 2013 "age" "55 - 64" "n.dead30" "d5" 0 0 NA NA
-"female" 2013 "age" "55 - 64" "n.dead5" "d5" 0 0 15959.3 94
+"female" 2013 "age" "55 - 64" "n.dead5" "d5" 0 0 17996.6 106
 "female" 2013 "age" "55 - 64" "n.incidence" "d5" 0 0 168.5 589
 "female" 2013 "age" "55 - 64" "n.prevalence" "d5" 0 0 1076.4 3762
 "female" 2013 "age" "55 - 64" "n.readmissions.30" "d5" 0 0 24.3 85
@@ -4164,7 +4164,7 @@
 "female" 2013 "edu" "basic" "n.dead.year" "d5" 1 1 3.7 22
 "female" 2013 "edu" "basic" "n.dead1" "d5" 1 1 7149.1 137
 "female" 2013 "edu" "basic" "n.dead30" "d5" 1 1 2004.7 39
-"female" 2013 "edu" "basic" "n.dead5" "d5" 1 1 20180.8 383
+"female" 2013 "edu" "basic" "n.dead5" "d5" 1 1 20769.5 391
 "female" 2013 "edu" "basic" "n.incidence" "d5" 1 1 238.8 1306
 "female" 2013 "edu" "basic" "n.prevalence" "d5" 1 1 1674.6 9411
 "female" 2013 "edu" "basic" "n.readmissions.30" "d5" 1 1 64.8 359
@@ -4174,7 +4174,7 @@
 "female" 2013 "edu" "tertiary" "n.dead.year" "d5" 1 1 1.8 4
 "female" 2013 "edu" "tertiary" "n.dead1" "d5" 1 1 5446.6 21
 "female" 2013 "edu" "tertiary" "n.dead30" "d5" 1 1 1634 7
-"female" 2013 "edu" "tertiary" "n.dead5" "d5" 1 1 13953 56
+"female" 2013 "edu" "tertiary" "n.dead5" "d5" 1 1 14388.5 59
 "female" 2013 "edu" "tertiary" "n.incidence" "d5" 1 1 106.3 289
 "female" 2013 "edu" "tertiary" "n.prevalence" "d5" 1 1 734.4 1987
 "female" 2013 "edu" "tertiary" "n.readmissions.30" "d5" 1 1 22.4 57
@@ -4184,7 +4184,7 @@
 "female" 2013 "edu" "secondary" "n.dead.year" "d5" 1 1 2.4 10
 "female" 2013 "edu" "secondary" "n.dead1" "d5" 1 1 5147.4 60
 "female" 2013 "edu" "secondary" "n.dead30" "d5" 1 1 1361.5 17
-"female" 2013 "edu" "secondary" "n.dead5" "d5" 1 1 14315.3 182
+"female" 2013 "edu" "secondary" "n.dead5" "d5" 1 1 15042 190
 "female" 2013 "edu" "secondary" "n.incidence" "d5" 1 1 162.1 841
 "female" 2013 "edu" "secondary" "n.prevalence" "d5" 1 1 1100.6 5653
 "female" 2013 "edu" "secondary" "n.readmissions.30" "d5" 1 1 38 189
@@ -4218,14 +4218,14 @@
 "female" 2013 "kom" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "101" "n.admissions" "d5" 1 1 210.5 231
 "female" 2013 "kom" "101" "n.admissions.ppl" "d5" 1 1 148.5 164
-"female" 2013 "kom" "101" "n.dead5" "d5" 1 1 26585.4 109
+"female" 2013 "kom" "101" "n.dead5" "d5" 1 1 27306.9 111
 "female" 2013 "kom" "101" "n.incidence" "d5" 1 1 212.1 235
 "female" 2013 "kom" "101" "n.prevalence" "d5" 1 1 1339.2 1457
 "female" 2013 "kom" "101" "n.readmissions.30" "d5" 1 1 65.2 72
 "female" 2013 "kom" "101" "n.readmissions.ppl.30" "d5" 1 1 35753.5 54
 "female" 2013 "kom" "147" "n.admissions" "d5" 1 1 166.7 52
 "female" 2013 "kom" "147" "n.admissions.ppl" "d5" 1 1 123.2 39
-"female" 2013 "kom" "147" "n.dead5" "d5" 1 1 28264.3 26
+"female" 2013 "kom" "147" "n.dead5" "d5" 1 1 28470.5 26
 "female" 2013 "kom" "147" "n.incidence" "d5" 1 1 163 52
 "female" 2013 "kom" "147" "n.prevalence" "d5" 1 1 908.4 277
 "female" 2013 "kom" "147" "n.readmissions.30" "d5" 1 1 52.7 16
@@ -4358,7 +4358,7 @@
 "female" 2013 "kom" "210" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "female" 2013 "kom" "217" "n.admissions" "d5" 1 1 186.5 39
 "female" 2013 "kom" "217" "n.admissions.ppl" "d5" 1 1 136.5 29
-"female" 2013 "kom" "217" "n.dead5" "d5" 1 1 25675.8 16
+"female" 2013 "kom" "217" "n.dead5" "d5" 1 1 28040.6 17
 "female" 2013 "kom" "217" "n.incidence" "d5" 1 1 200.5 41
 "female" 2013 "kom" "217" "n.prevalence" "d5" 1 1 1450.2 297
 "female" 2013 "kom" "217" "n.readmissions.30" "d5" 1 1 56.7 12
@@ -4379,7 +4379,7 @@
 "female" 2013 "kom" "223" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "230" "n.admissions" "d5" 1 1 95.4 20
 "female" 2013 "kom" "230" "n.admissions.ppl" "d5" 1 1 79.6 16
-"female" 2013 "kom" "230" "n.dead5" "d5" 1 1 NA 11
+"female" 2013 "kom" "230" "n.dead5" "d5" 1 1 NA 12
 "female" 2013 "kom" "230" "n.incidence" "d5" 1 1 131.6 27
 "female" 2013 "kom" "230" "n.prevalence" "d5" 1 1 939 193
 "female" 2013 "kom" "230" "n.readmissions.30" "d5" 1 1 20.4 4
@@ -4400,14 +4400,14 @@
 "female" 2013 "kom" "250" "n.readmissions.ppl.30" "d5" 1 1 NA 8
 "female" 2013 "kom" "253" "n.admissions" "d5" 1 1 194.4 27
 "female" 2013 "kom" "253" "n.admissions.ppl" "d5" 1 1 88.6 13
-"female" 2013 "kom" "253" "n.dead5" "d5" 1 1 31453.7 11
+"female" 2013 "kom" "253" "n.dead5" "d5" 1 1 31912 11
 "female" 2013 "kom" "253" "n.incidence" "d5" 1 1 205 28
 "female" 2013 "kom" "253" "n.prevalence" "d5" 1 1 1268.4 171
 "female" 2013 "kom" "253" "n.readmissions.30" "d5" 1 1 114.8 15
 "female" 2013 "kom" "253" "n.readmissions.ppl.30" "d5" 1 1 26822.2 4
 "female" 2013 "kom" "259" "n.admissions" "d5" 1 1 223.6 36
 "female" 2013 "kom" "259" "n.admissions.ppl" "d5" 1 1 149 24
-"female" 2013 "kom" "259" "n.dead5" "d5" 1 1 NA 9
+"female" 2013 "kom" "259" "n.dead5" "d5" 1 1 NA 10
 "female" 2013 "kom" "259" "n.incidence" "d5" 1 1 202.5 33
 "female" 2013 "kom" "259" "n.prevalence" "d5" 1 1 1341.9 216
 "female" 2013 "kom" "259" "n.readmissions.30" "d5" 1 1 63.6 10
@@ -4421,7 +4421,7 @@
 "female" 2013 "kom" "260" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "female" 2013 "kom" "265" "n.admissions" "d5" 1 1 262 64
 "female" 2013 "kom" "265" "n.admissions.ppl" "d5" 1 1 150.5 36
-"female" 2013 "kom" "265" "n.dead5" "d5" 1 1 31510.8 25
+"female" 2013 "kom" "265" "n.dead5" "d5" 1 1 32070.5 26
 "female" 2013 "kom" "265" "n.incidence" "d5" 1 1 217.6 53
 "female" 2013 "kom" "265" "n.prevalence" "d5" 1 1 1309.3 319
 "female" 2013 "kom" "265" "n.readmissions.30" "d5" 1 1 119.2 29
@@ -4435,35 +4435,35 @@
 "female" 2013 "kom" "269" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "270" "n.admissions" "d5" 1 1 145.1 19
 "female" 2013 "kom" "270" "n.admissions.ppl" "d5" 1 1 114.9 15
-"female" 2013 "kom" "270" "n.dead5" "d5" 1 1 16902.7 8
+"female" 2013 "kom" "270" "n.dead5" "d5" 1 1 18522.8 9
 "female" 2013 "kom" "270" "n.incidence" "d5" 1 1 168.3 22
 "female" 2013 "kom" "270" "n.prevalence" "d5" 1 1 1282 170
 "female" 2013 "kom" "270" "n.readmissions.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "270" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "306" "n.admissions" "d5" 1 1 252 30
 "female" 2013 "kom" "306" "n.admissions.ppl" "d5" 1 1 164.3 20
-"female" 2013 "kom" "306" "n.dead5" "d5" 1 1 NA 15
+"female" 2013 "kom" "306" "n.dead5" "d5" 1 1 NA 16
 "female" 2013 "kom" "306" "n.incidence" "d5" 1 1 275.9 34
 "female" 2013 "kom" "306" "n.prevalence" "d5" 1 1 1678.2 209
 "female" 2013 "kom" "306" "n.readmissions.30" "d5" 1 1 89.4 10
 "female" 2013 "kom" "306" "n.readmissions.ppl.30" "d5" 1 1 NA 7
 "female" 2013 "kom" "316" "n.admissions" "d5" 1 1 193.6 40
 "female" 2013 "kom" "316" "n.admissions.ppl" "d5" 1 1 140.2 29
-"female" 2013 "kom" "316" "n.dead5" "d5" 1 1 16778.6 16
+"female" 2013 "kom" "316" "n.dead5" "d5" 1 1 19193.6 17
 "female" 2013 "kom" "316" "n.incidence" "d5" 1 1 249.1 51
 "female" 2013 "kom" "316" "n.prevalence" "d5" 1 1 1362.2 275
 "female" 2013 "kom" "316" "n.readmissions.30" "d5" 1 1 65 13
 "female" 2013 "kom" "316" "n.readmissions.ppl.30" "d5" 1 1 NA 9
 "female" 2013 "kom" "320" "n.admissions" "d5" 1 1 372.8 42
 "female" 2013 "kom" "320" "n.admissions.ppl" "d5" 1 1 157.7 17
-"female" 2013 "kom" "320" "n.dead5" "d5" 1 1 22983.6 11
+"female" 2013 "kom" "320" "n.dead5" "d5" 1 1 34650.3 11
 "female" 2013 "kom" "320" "n.incidence" "d5" 1 1 206.2 23
 "female" 2013 "kom" "320" "n.prevalence" "d5" 1 1 1281.6 138
 "female" 2013 "kom" "320" "n.readmissions.30" "d5" 1 1 213.2 24
 "female" 2013 "kom" "320" "n.readmissions.ppl.30" "d5" 1 1 NA 7
 "female" 2013 "kom" "326" "n.admissions" "d5" 1 1 254.4 40
 "female" 2013 "kom" "326" "n.admissions.ppl" "d5" 1 1 186.6 29
-"female" 2013 "kom" "326" "n.dead5" "d5" 1 1 22281.3 16
+"female" 2013 "kom" "326" "n.dead5" "d5" 1 1 22681.1 16
 "female" 2013 "kom" "326" "n.incidence" "d5" 1 1 283.6 44
 "female" 2013 "kom" "326" "n.prevalence" "d5" 1 1 1461.1 228
 "female" 2013 "kom" "326" "n.readmissions.30" "d5" 1 1 78.6 12
@@ -4477,7 +4477,7 @@
 "female" 2013 "kom" "329" "n.readmissions.ppl.30" "d5" 1 1 NA 8
 "female" 2013 "kom" "330" "n.admissions" "d5" 1 1 200.1 48
 "female" 2013 "kom" "330" "n.admissions.ppl" "d5" 1 1 148.3 36
-"female" 2013 "kom" "330" "n.dead5" "d5" 1 1 20308.9 20
+"female" 2013 "kom" "330" "n.dead5" "d5" 1 1 20562.6 21
 "female" 2013 "kom" "330" "n.incidence" "d5" 1 1 250.5 61
 "female" 2013 "kom" "330" "n.prevalence" "d5" 1 1 1737.3 421
 "female" 2013 "kom" "330" "n.readmissions.30" "d5" 1 1 38.2 9
@@ -4491,35 +4491,35 @@
 "female" 2013 "kom" "336" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "340" "n.admissions" "d5" 1 1 265.5 22
 "female" 2013 "kom" "340" "n.admissions.ppl" "d5" 1 1 164 14
-"female" 2013 "kom" "340" "n.dead5" "d5" 1 1 17514 8
+"female" 2013 "kom" "340" "n.dead5" "d5" 1 1 18029.9 9
 "female" 2013 "kom" "340" "n.incidence" "d5" 1 1 267.4 24
 "female" 2013 "kom" "340" "n.prevalence" "d5" 1 1 1346 121
 "female" 2013 "kom" "340" "n.readmissions.30" "d5" 1 1 108.1 9
 "female" 2013 "kom" "340" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "female" 2013 "kom" "350" "n.admissions" "d5" 1 1 194.2 16
 "female" 2013 "kom" "350" "n.admissions.ppl" "d5" 1 1 128 11
-"female" 2013 "kom" "350" "n.dead5" "d5" 1 1 14850.2 4
+"female" 2013 "kom" "350" "n.dead5" "d5" 1 1 15915.4 4
 "female" 2013 "kom" "350" "n.incidence" "d5" 1 1 196.5 15
 "female" 2013 "kom" "350" "n.prevalence" "d5" 1 1 1406.4 108
 "female" 2013 "kom" "350" "n.readmissions.30" "d5" 1 1 69.4 5
 "female" 2013 "kom" "350" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "360" "n.admissions" "d5" 1 1 236.9 41
 "female" 2013 "kom" "360" "n.admissions.ppl" "d5" 1 1 154.9 27
-"female" 2013 "kom" "360" "n.dead5" "d5" 1 1 24409.1 14
+"female" 2013 "kom" "360" "n.dead5" "d5" 1 1 25909 15
 "female" 2013 "kom" "360" "n.incidence" "d5" 1 1 266.5 47
 "female" 2013 "kom" "360" "n.prevalence" "d5" 1 1 1528.8 273
 "female" 2013 "kom" "360" "n.readmissions.30" "d5" 1 1 77.8 12
 "female" 2013 "kom" "360" "n.readmissions.ppl.30" "d5" 1 1 37742.6 9
 "female" 2013 "kom" "370" "n.admissions" "d5" 1 1 189 47
 "female" 2013 "kom" "370" "n.admissions.ppl" "d5" 1 1 141.3 35
-"female" 2013 "kom" "370" "n.dead5" "d5" 1 1 30694.9 22
+"female" 2013 "kom" "370" "n.dead5" "d5" 1 1 31000.4 22
 "female" 2013 "kom" "370" "n.incidence" "d5" 1 1 217.3 54
 "female" 2013 "kom" "370" "n.prevalence" "d5" 1 1 1312.4 324
 "female" 2013 "kom" "370" "n.readmissions.30" "d5" 1 1 42.9 10
 "female" 2013 "kom" "370" "n.readmissions.ppl.30" "d5" 1 1 NA 9
 "female" 2013 "kom" "376" "n.admissions" "d5" 1 1 172.8 40
 "female" 2013 "kom" "376" "n.admissions.ppl" "d5" 1 1 130 31
-"female" 2013 "kom" "376" "n.dead5" "d5" 1 1 24202.2 21
+"female" 2013 "kom" "376" "n.dead5" "d5" 1 1 25381.7 23
 "female" 2013 "kom" "376" "n.incidence" "d5" 1 1 219.5 51
 "female" 2013 "kom" "376" "n.prevalence" "d5" 1 1 1353.7 312
 "female" 2013 "kom" "376" "n.readmissions.30" "d5" 1 1 58.1 13
@@ -4554,14 +4554,14 @@
 "female" 2013 "kom" "411" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "420" "n.admissions" "d5" 1 1 185.6 24
 "female" 2013 "kom" "420" "n.admissions.ppl" "d5" 1 1 114.3 15
-"female" 2013 "kom" "420" "n.dead5" "d5" 1 1 21658.3 13
+"female" 2013 "kom" "420" "n.dead5" "d5" 1 1 22098.3 13
 "female" 2013 "kom" "420" "n.incidence" "d5" 1 1 259.4 34
 "female" 2013 "kom" "420" "n.prevalence" "d5" 1 1 2051.3 270
 "female" 2013 "kom" "420" "n.readmissions.30" "d5" 1 1 52.9 7
 "female" 2013 "kom" "420" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "female" 2013 "kom" "430" "n.admissions" "d5" 1 1 189.6 34
 "female" 2013 "kom" "430" "n.admissions.ppl" "d5" 1 1 122.2 22
-"female" 2013 "kom" "430" "n.dead5" "d5" 1 1 21880 21
+"female" 2013 "kom" "430" "n.dead5" "d5" 1 1 23805 22
 "female" 2013 "kom" "430" "n.incidence" "d5" 1 1 243.3 44
 "female" 2013 "kom" "430" "n.prevalence" "d5" 1 1 1895.4 339
 "female" 2013 "kom" "430" "n.readmissions.30" "d5" 1 1 65.2 11
@@ -4582,14 +4582,14 @@
 "female" 2013 "kom" "450" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "female" 2013 "kom" "461" "n.admissions" "d5" 1 1 246.2 133
 "female" 2013 "kom" "461" "n.admissions.ppl" "d5" 1 1 156 84
-"female" 2013 "kom" "461" "n.dead5" "d5" 1 1 20442.7 70
+"female" 2013 "kom" "461" "n.dead5" "d5" 1 1 20989.7 72
 "female" 2013 "kom" "461" "n.incidence" "d5" 1 1 335.1 183
 "female" 2013 "kom" "461" "n.prevalence" "d5" 1 1 2499.2 1343
 "female" 2013 "kom" "461" "n.readmissions.30" "d5" 1 1 83.5 45
 "female" 2013 "kom" "461" "n.readmissions.ppl.30" "d5" 1 1 NA 31
 "female" 2013 "kom" "479" "n.admissions" "d5" 1 1 171.3 34
 "female" 2013 "kom" "479" "n.admissions.ppl" "d5" 1 1 119.7 24
-"female" 2013 "kom" "479" "n.dead5" "d5" 1 1 NA 22
+"female" 2013 "kom" "479" "n.dead5" "d5" 1 1 NA 23
 "female" 2013 "kom" "479" "n.incidence" "d5" 1 1 301.8 59
 "female" 2013 "kom" "479" "n.prevalence" "d5" 1 1 1892.8 371
 "female" 2013 "kom" "479" "n.readmissions.30" "d5" 1 1 48.7 10
@@ -4631,21 +4631,21 @@
 "female" 2013 "kom" "530" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "540" "n.admissions" "d5" 1 1 208 54
 "female" 2013 "kom" "540" "n.admissions.ppl" "d5" 1 1 159 41
-"female" 2013 "kom" "540" "n.dead5" "d5" 1 1 19681.7 23
+"female" 2013 "kom" "540" "n.dead5" "d5" 1 1 20312.2 23
 "female" 2013 "kom" "540" "n.incidence" "d5" 1 1 240.9 61
 "female" 2013 "kom" "540" "n.prevalence" "d5" 1 1 1657.1 421
 "female" 2013 "kom" "540" "n.readmissions.30" "d5" 1 1 42.4 11
 "female" 2013 "kom" "540" "n.readmissions.ppl.30" "d5" 1 1 NA 10
 "female" 2013 "kom" "550" "n.admissions" "d5" 1 1 247.7 34
 "female" 2013 "kom" "550" "n.admissions.ppl" "d5" 1 1 156.6 21
-"female" 2013 "kom" "550" "n.dead5" "d5" 1 1 NA 12
+"female" 2013 "kom" "550" "n.dead5" "d5" 1 1 NA 13
 "female" 2013 "kom" "550" "n.incidence" "d5" 1 1 277.2 38
 "female" 2013 "kom" "550" "n.prevalence" "d5" 1 1 1686.2 224
 "female" 2013 "kom" "550" "n.readmissions.30" "d5" 1 1 67.2 9
 "female" 2013 "kom" "550" "n.readmissions.ppl.30" "d5" 1 1 NA 7
 "female" 2013 "kom" "561" "n.admissions" "d5" 1 1 285.8 95
 "female" 2013 "kom" "561" "n.admissions.ppl" "d5" 1 1 216.5 71
-"female" 2013 "kom" "561" "n.dead5" "d5" 1 1 16487.4 32
+"female" 2013 "kom" "561" "n.dead5" "d5" 1 1 17489.5 32
 "female" 2013 "kom" "561" "n.incidence" "d5" 1 1 269.9 90
 "female" 2013 "kom" "561" "n.prevalence" "d5" 1 1 2075.1 691
 "female" 2013 "kom" "561" "n.readmissions.30" "d5" 1 1 59.4 20
@@ -4659,14 +4659,14 @@
 "female" 2013 "kom" "563" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "573" "n.admissions" "d5" 1 1 264.2 41
 "female" 2013 "kom" "573" "n.admissions.ppl" "d5" 1 1 194.4 30
-"female" 2013 "kom" "573" "n.dead5" "d5" 1 1 16161.6 12
+"female" 2013 "kom" "573" "n.dead5" "d5" 1 1 16870 12
 "female" 2013 "kom" "573" "n.incidence" "d5" 1 1 244.7 38
 "female" 2013 "kom" "573" "n.prevalence" "d5" 1 1 1708.5 264
 "female" 2013 "kom" "573" "n.readmissions.30" "d5" 1 1 67.5 10
 "female" 2013 "kom" "573" "n.readmissions.ppl.30" "d5" 1 1 23374.7 8
 "female" 2013 "kom" "575" "n.admissions" "d5" 1 1 280.2 35
 "female" 2013 "kom" "575" "n.admissions.ppl" "d5" 1 1 186.5 24
-"female" 2013 "kom" "575" "n.dead5" "d5" 1 1 19533.9 15
+"female" 2013 "kom" "575" "n.dead5" "d5" 1 1 21703.4 16
 "female" 2013 "kom" "575" "n.incidence" "d5" 1 1 287.2 36
 "female" 2013 "kom" "575" "n.prevalence" "d5" 1 1 1856 237
 "female" 2013 "kom" "575" "n.readmissions.30" "d5" 1 1 87.3 11
@@ -4694,21 +4694,21 @@
 "female" 2013 "kom" "615" "n.readmissions.ppl.30" "d5" 1 1 29176.4 8
 "female" 2013 "kom" "621" "n.admissions" "d5" 1 1 277.9 71
 "female" 2013 "kom" "621" "n.admissions.ppl" "d5" 1 1 194.5 50
-"female" 2013 "kom" "621" "n.dead5" "d5" 1 1 16968.9 27
+"female" 2013 "kom" "621" "n.dead5" "d5" 1 1 17080.4 27
 "female" 2013 "kom" "621" "n.incidence" "d5" 1 1 280.3 71
 "female" 2013 "kom" "621" "n.prevalence" "d5" 1 1 1961 493
 "female" 2013 "kom" "621" "n.readmissions.30" "d5" 1 1 67.7 17
 "female" 2013 "kom" "621" "n.readmissions.ppl.30" "d5" 1 1 NA 12
 "female" 2013 "kom" "630" "n.admissions" "d5" 1 1 222.8 69
 "female" 2013 "kom" "630" "n.admissions.ppl" "d5" 1 1 162.4 50
-"female" 2013 "kom" "630" "n.dead5" "d5" 1 1 19236.9 19
+"female" 2013 "kom" "630" "n.dead5" "d5" 1 1 19454.1 19
 "female" 2013 "kom" "630" "n.incidence" "d5" 1 1 202.1 62
 "female" 2013 "kom" "630" "n.prevalence" "d5" 1 1 1954.6 603
 "female" 2013 "kom" "630" "n.readmissions.30" "d5" 1 1 43.9 13
 "female" 2013 "kom" "630" "n.readmissions.ppl.30" "d5" 1 1 20551.6 11
 "female" 2013 "kom" "657" "n.admissions" "d5" 1 1 183.8 43
 "female" 2013 "kom" "657" "n.admissions.ppl" "d5" 1 1 144.4 34
-"female" 2013 "kom" "657" "n.dead5" "d5" 1 1 23519.9 22
+"female" 2013 "kom" "657" "n.dead5" "d5" 1 1 24159.1 23
 "female" 2013 "kom" "657" "n.incidence" "d5" 1 1 230 55
 "female" 2013 "kom" "657" "n.prevalence" "d5" 1 1 1643.7 393
 "female" 2013 "kom" "657" "n.readmissions.30" "d5" 1 1 42 10
@@ -4722,7 +4722,7 @@
 "female" 2013 "kom" "661" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "female" 2013 "kom" "665" "n.admissions" "d5" 1 1 182.4 13
 "female" 2013 "kom" "665" "n.admissions.ppl" "d5" 1 1 132 10
-"female" 2013 "kom" "665" "n.dead5" "d5" 1 1 25475.4 6
+"female" 2013 "kom" "665" "n.dead5" "d5" 1 1 26918.5 7
 "female" 2013 "kom" "665" "n.incidence" "d5" 1 1 247.9 18
 "female" 2013 "kom" "665" "n.prevalence" "d5" 1 1 1713.4 122
 "female" 2013 "kom" "665" "n.readmissions.30" "d5" 1 1 50.5 4
@@ -4750,7 +4750,7 @@
 "female" 2013 "kom" "707" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "female" 2013 "kom" "710" "n.admissions" "d5" 1 1 137.9 17
 "female" 2013 "kom" "710" "n.admissions.ppl" "d5" 1 1 116.5 14
-"female" 2013 "kom" "710" "n.dead5" "d5" 1 1 24562.3 9
+"female" 2013 "kom" "710" "n.dead5" "d5" 1 1 25243 9
 "female" 2013 "kom" "710" "n.incidence" "d5" 1 1 193.2 24
 "female" 2013 "kom" "710" "n.prevalence" "d5" 1 1 1281.7 158
 "female" 2013 "kom" "710" "n.readmissions.30" "d5" 1 1 NA NA
@@ -4764,7 +4764,7 @@
 "female" 2013 "kom" "727" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "730" "n.admissions" "d5" 1 1 189.9 54
 "female" 2013 "kom" "730" "n.admissions.ppl" "d5" 1 1 152.1 43
-"female" 2013 "kom" "730" "n.dead5" "d5" 1 1 16454.6 24
+"female" 2013 "kom" "730" "n.dead5" "d5" 1 1 17839.1 25
 "female" 2013 "kom" "730" "n.incidence" "d5" 1 1 235 68
 "female" 2013 "kom" "730" "n.prevalence" "d5" 1 1 1388 397
 "female" 2013 "kom" "730" "n.readmissions.30" "d5" 1 1 33.6 10
@@ -4785,14 +4785,14 @@
 "female" 2013 "kom" "741" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "746" "n.admissions" "d5" 1 1 98.3 14
 "female" 2013 "kom" "746" "n.admissions.ppl" "d5" 1 1 86.2 12
-"female" 2013 "kom" "746" "n.dead5" "d5" 1 1 17482.1 8
+"female" 2013 "kom" "746" "n.dead5" "d5" 1 1 18048.8 9
 "female" 2013 "kom" "746" "n.incidence" "d5" 1 1 189.1 28
 "female" 2013 "kom" "746" "n.prevalence" "d5" 1 1 1395.1 204
 "female" 2013 "kom" "746" "n.readmissions.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "746" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "751" "n.admissions" "d5" 1 1 130.7 97
 "female" 2013 "kom" "751" "n.admissions.ppl" "d5" 1 1 103.5 77
-"female" 2013 "kom" "751" "n.dead5" "d5" 1 1 16817.2 45
+"female" 2013 "kom" "751" "n.dead5" "d5" 1 1 17220 46
 "female" 2013 "kom" "751" "n.incidence" "d5" 1 1 174.6 130
 "female" 2013 "kom" "751" "n.prevalence" "d5" 1 1 1422.9 1069
 "female" 2013 "kom" "751" "n.readmissions.30" "d5" 1 1 27.3 20
@@ -4806,14 +4806,14 @@
 "female" 2013 "kom" "756" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "kom" "760" "n.admissions" "d5" 1 1 197.9 35
 "female" 2013 "kom" "760" "n.admissions.ppl" "d5" 1 1 167.9 30
-"female" 2013 "kom" "760" "n.dead5" "d5" 1 1 17201.1 17
+"female" 2013 "kom" "760" "n.dead5" "d5" 1 1 17957.3 17
 "female" 2013 "kom" "760" "n.incidence" "d5" 1 1 210.3 37
 "female" 2013 "kom" "760" "n.prevalence" "d5" 1 1 1832.2 322
 "female" 2013 "kom" "760" "n.readmissions.30" "d5" 1 1 37.5 7
 "female" 2013 "kom" "760" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "female" 2013 "kom" "766" "n.admissions" "d5" 1 1 149.9 19
 "female" 2013 "kom" "766" "n.admissions.ppl" "d5" 1 1 112.4 15
-"female" 2013 "kom" "766" "n.dead5" "d5" 1 1 14581.5 9
+"female" 2013 "kom" "766" "n.dead5" "d5" 1 1 15642.7 10
 "female" 2013 "kom" "766" "n.incidence" "d5" 1 1 183.9 25
 "female" 2013 "kom" "766" "n.prevalence" "d5" 1 1 1716.7 228
 "female" 2013 "kom" "766" "n.readmissions.30" "d5" 1 1 45.1 6
@@ -4890,7 +4890,7 @@
 "female" 2013 "kom" "846" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "female" 2013 "kom" "849" "n.admissions" "d5" 1 1 196.3 24
 "female" 2013 "kom" "849" "n.admissions.ppl" "d5" 1 1 133.6 16
-"female" 2013 "kom" "849" "n.dead5" "d5" 1 1 20263 9
+"female" 2013 "kom" "849" "n.dead5" "d5" 1 1 21284.1 10
 "female" 2013 "kom" "849" "n.incidence" "d5" 1 1 214.7 26
 "female" 2013 "kom" "849" "n.prevalence" "d5" 1 1 1376.1 168
 "female" 2013 "kom" "849" "n.readmissions.30" "d5" 1 1 65.4 8
@@ -4904,7 +4904,7 @@
 "female" 2013 "kom" "851" "n.readmissions.ppl.30" "d5" 1 1 25489 19
 "female" 2013 "kom" "860" "n.admissions" "d5" 1 1 147.4 32
 "female" 2013 "kom" "860" "n.admissions.ppl" "d5" 1 1 109 24
-"female" 2013 "kom" "860" "n.dead5" "d5" 1 1 NA 12
+"female" 2013 "kom" "860" "n.dead5" "d5" 1 1 NA 13
 "female" 2013 "kom" "860" "n.incidence" "d5" 1 1 163.2 35
 "female" 2013 "kom" "860" "n.prevalence" "d5" 1 1 1220 263
 "female" 2013 "kom" "860" "n.readmissions.30" "d5" 1 1 32.7 7
@@ -4914,27 +4914,17 @@
 "female" 2013 "national" "national" "n.dead.year" "d5" 0 1 6.6 114
 "female" 2013 "national" "national" "n.dead1" "d5" 0 1 7637.6 551
 "female" 2013 "national" "national" "n.dead30" "d5" 0 1 2286.3 180
-"female" 2013 "national" "national" "n.dead5" "d5" 0 1 18928.9 1270
+"female" 2013 "national" "national" "n.dead5" "d5" 0 1 20700.9 1353
 "female" 2013 "national" "national" "n.incidence" "d5" 0 1 210.8 3530
 "female" 2013 "national" "national" "n.prevalence" "d5" 0 1 1511.3 25139
 "female" 2013 "national" "national" "n.readmissions.30" "d5" 0 1 46.3 766
 "female" 2013 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 25045.9 599
-"female" 2013 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2013 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2013 "region" "Hovedstaden" "n.admissions" "d5" 1 1 175.5 839
 "female" 2013 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 127.7 613
 "female" 2013 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7.6 38
 "female" 2013 "region" "Hovedstaden" "n.dead1" "d5" 1 1 9963.6 168
 "female" 2013 "region" "Hovedstaden" "n.dead30" "d5" 1 1 3467.3 60
-"female" 2013 "region" "Hovedstaden" "n.dead5" "d5" 1 1 24628.3 383
+"female" 2013 "region" "Hovedstaden" "n.dead5" "d5" 1 1 25058.3 389
 "female" 2013 "region" "Hovedstaden" "n.incidence" "d5" 1 1 186.1 898
 "female" 2013 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 1205.2 5771
 "female" 2013 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 48.5 231
@@ -4944,7 +4934,7 @@
 "female" 2013 "region" "Sjælland" "n.dead.year" "d5" 1 1 6.9 17
 "female" 2013 "region" "Sjælland" "n.dead1" "d5" 1 1 9422.3 95
 "female" 2013 "region" "Sjælland" "n.dead30" "d5" 1 1 2557.8 31
-"female" 2013 "region" "Sjælland" "n.dead5" "d5" 1 1 23001.1 226
+"female" 2013 "region" "Sjælland" "n.dead5" "d5" 1 1 24064.4 234
 "female" 2013 "region" "Sjælland" "n.incidence" "d5" 1 1 231.7 603
 "female" 2013 "region" "Sjælland" "n.prevalence" "d5" 1 1 1396.2 3608
 "female" 2013 "region" "Sjælland" "n.readmissions.30" "d5" 1 1 84.7 219
@@ -4954,7 +4944,7 @@
 "female" 2013 "region" "Syddanmark" "n.dead.year" "d5" 1 1 6.2 25
 "female" 2013 "region" "Syddanmark" "n.dead1" "d5" 1 1 7254.8 151
 "female" 2013 "region" "Syddanmark" "n.dead30" "d5" 1 1 1712.7 41
-"female" 2013 "region" "Syddanmark" "n.dead5" "d5" 1 1 19429.8 374
+"female" 2013 "region" "Syddanmark" "n.dead5" "d5" 1 1 20059.5 383
 "female" 2013 "region" "Syddanmark" "n.incidence" "d5" 1 1 270.6 1007
 "female" 2013 "region" "Syddanmark" "n.prevalence" "d5" 1 1 2026.8 7500
 "female" 2013 "region" "Syddanmark" "n.readmissions.30" "d5" 1 1 63.7 236
@@ -4964,7 +4954,7 @@
 "female" 2013 "region" "Midtjydlland" "n.dead.year" "d5" 1 1 6.7 25
 "female" 2013 "region" "Midtjydlland" "n.dead1" "d5" 1 1 6986.8 109
 "female" 2013 "region" "Midtjydlland" "n.dead30" "d5" 1 1 2379.9 37
-"female" 2013 "region" "Midtjydlland" "n.dead5" "d5" 1 1 18926.8 269
+"female" 2013 "region" "Midtjydlland" "n.dead5" "d5" 1 1 19306.4 273
 "female" 2013 "region" "Midtjydlland" "n.incidence" "d5" 1 1 206.3 729
 "female" 2013 "region" "Midtjydlland" "n.prevalence" "d5" 1 1 1530.3 5381
 "female" 2013 "region" "Midtjydlland" "n.readmissions.30" "d5" 1 1 35.3 122
@@ -4974,11 +4964,21 @@
 "female" 2013 "region" "Nordjylland" "n.dead.year" "d5" 1 1 8.4 16
 "female" 2013 "region" "Nordjylland" "n.dead1" "d5" 1 1 8409.6 56
 "female" 2013 "region" "Nordjylland" "n.dead30" "d5" 1 1 2851.1 20
-"female" 2013 "region" "Nordjylland" "n.dead5" "d5" 1 1 20123 127
+"female" 2013 "region" "Nordjylland" "n.dead5" "d5" 1 1 20328 128
 "female" 2013 "region" "Nordjylland" "n.incidence" "d5" 1 1 190 341
 "female" 2013 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1485.8 2658
 "female" 2013 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 40.1 72
 "female" 2013 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 27647.4 59
+"female" 2013 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2013 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2014 "age" "85+" "n.admissions" "d5" 0 0 633.7 497
 "female" 2014 "age" "85+" "n.admissions.ppl" "d5" 0 0 497.3 390
 "female" 2014 "age" "85+" "n.dead.year" "d5" 0 0 75.2 59
@@ -5697,15 +5697,6 @@
 "female" 2014 "national" "national" "n.prevalence" "d5" 0 1 1499.9 25368
 "female" 2014 "national" "national" "n.readmissions.30" "d5" 0 1 45.7 768
 "female" 2014 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 26809 612
-"female" 2014 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2014 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2014 "region" "Hovedstaden" "n.admissions" "d5" 1 1 172.3 834
 "female" 2014 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 122.6 596
 "female" 2014 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 6.8 35
@@ -5751,6 +5742,15 @@
 "female" 2014 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1469.2 2660
 "female" 2014 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 33.4 61
 "female" 2014 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 21034.2 50
+"female" 2014 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2014 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2015 "age" "85+" "n.admissions" "d5" 0 0 637.5 503
 "female" 2015 "age" "85+" "n.admissions.ppl" "d5" 0 0 496.8 392
 "female" 2015 "age" "85+" "n.dead.year" "d5" 0 0 69.7 55
@@ -6469,15 +6469,6 @@
 "female" 2015 "national" "national" "n.prevalence" "d5" 0 1 1478.4 25453
 "female" 2015 "national" "national" "n.readmissions.30" "d5" 0 1 44.5 768
 "female" 2015 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 26571.2 614
-"female" 2015 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2015 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2015 "region" "Hovedstaden" "n.admissions" "d5" 1 1 162.2 799
 "female" 2015 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 115.8 572
 "female" 2015 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 6.3 33
@@ -6523,6 +6514,15 @@
 "female" 2015 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1441.5 2648
 "female" 2015 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 34.3 63
 "female" 2015 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 21827 53
+"female" 2015 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2015 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2016 "age" "85+" "n.admissions" "d5" 0 0 608.7 481
 "female" 2016 "age" "85+" "n.admissions.ppl" "d5" 0 0 463.1 366
 "female" 2016 "age" "85+" "n.dead.year" "d5" 0 0 56.9 45
@@ -7241,15 +7241,6 @@
 "female" 2016 "national" "national" "n.prevalence" "d5" 0 1 1454.1 25491
 "female" 2016 "national" "national" "n.readmissions.30" "d5" 0 1 41.1 723
 "female" 2016 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 23096.8 569
-"female" 2016 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2016 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2016 "region" "Hovedstaden" "n.admissions" "d5" 1 1 158.9 796
 "female" 2016 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 113.2 569
 "female" 2016 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 5 26
@@ -7295,11 +7286,20 @@
 "female" 2016 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1402.5 2617
 "female" 2016 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 37.6 71
 "female" 2016 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 22021.4 59
+"female" 2016 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2016 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2017 "age" "85+" "n.admissions" "d5" 0 0 513.7 407
 "female" 2017 "age" "85+" "n.admissions.ppl" "d5" 0 0 376.1 298
 "female" 2017 "age" "85+" "n.dead.year" "d5" 0 0 60.6 48
-"female" 2017 "age" "85+" "n.dead1" "d5" 0 0 25263.2 144
-"female" 2017 "age" "85+" "n.dead30" "d5" 0 0 11403.5 65
+"female" 2017 "age" "85+" "n.dead1" "d5" 0 0 37368.4 213
+"female" 2017 "age" "85+" "n.dead30" "d5" 0 0 11929.8 68
 "female" 2017 "age" "85+" "n.incidence" "d5" 0 0 719.4 570
 "female" 2017 "age" "85+" "n.prevalence" "d5" 0 0 5169.9 4096
 "female" 2017 "age" "85+" "n.readmissions.30" "d5" 0 0 154 122
@@ -7307,7 +7307,7 @@
 "female" 2017 "age" "65 - 74" "n.admissions" "d5" 0 0 230.4 764
 "female" 2017 "age" "65 - 74" "n.admissions.ppl" "d5" 0 0 170.1 564
 "female" 2017 "age" "65 - 74" "n.dead.year" "d5" 0 0 3 10
-"female" 2017 "age" "65 - 74" "n.dead1" "d5" 0 0 4512.6 50
+"female" 2017 "age" "65 - 74" "n.dead1" "d5" 0 0 7400.7 82
 "female" 2017 "age" "65 - 74" "n.dead30" "d5" 0 0 2075.8 23
 "female" 2017 "age" "65 - 74" "n.incidence" "d5" 0 0 334.2 1108
 "female" 2017 "age" "65 - 74" "n.prevalence" "d5" 0 0 2269 7523
@@ -7316,8 +7316,8 @@
 "female" 2017 "age" "75 - 84" "n.admissions" "d5" 0 0 462.6 845
 "female" 2017 "age" "75 - 84" "n.admissions.ppl" "d5" 0 0 325.7 595
 "female" 2017 "age" "75 - 84" "n.dead.year" "d5" 0 0 18.6 34
-"female" 2017 "age" "75 - 84" "n.dead1" "d5" 0 0 9467.5 96
-"female" 2017 "age" "75 - 84" "n.dead30" "d5" 0 0 4339.3 44
+"female" 2017 "age" "75 - 84" "n.dead1" "d5" 0 0 15680.5 159
+"female" 2017 "age" "75 - 84" "n.dead30" "d5" 0 0 4437.9 45
 "female" 2017 "age" "75 - 84" "n.incidence" "d5" 0 0 555.1 1014
 "female" 2017 "age" "75 - 84" "n.prevalence" "d5" 0 0 4203.5 7678
 "female" 2017 "age" "75 - 84" "n.readmissions.30" "d5" 0 0 138 252
@@ -7334,7 +7334,7 @@
 "female" 2017 "age" "55 - 64" "n.admissions" "d5" 0 0 104.9 370
 "female" 2017 "age" "55 - 64" "n.admissions.ppl" "d5" 0 0 81.9 289
 "female" 2017 "age" "55 - 64" "n.dead.year" "d5" 0 0 NA NA
-"female" 2017 "age" "55 - 64" "n.dead1" "d5" 0 0 3310.1 19
+"female" 2017 "age" "55 - 64" "n.dead1" "d5" 0 0 5749.1 33
 "female" 2017 "age" "55 - 64" "n.dead30" "d5" 0 0 NA NA
 "female" 2017 "age" "55 - 64" "n.incidence" "d5" 0 0 162.7 574
 "female" 2017 "age" "55 - 64" "n.prevalence" "d5" 0 0 1067.6 3766
@@ -7352,7 +7352,7 @@
 "female" 2017 "edu" "unknown" "n.admissions" "d5" 1 1 93.9 31
 "female" 2017 "edu" "unknown" "n.admissions.ppl" "d5" 1 1 70.1 22
 "female" 2017 "edu" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2017 "edu" "unknown" "n.dead1" "d5" 1 1 7377.4 5
+"female" 2017 "edu" "unknown" "n.dead1" "d5" 1 1 7617.4 5
 "female" 2017 "edu" "unknown" "n.dead30" "d5" 1 1 NA NA
 "female" 2017 "edu" "unknown" "n.incidence" "d5" 1 1 143.3 47
 "female" 2017 "edu" "unknown" "n.prevalence" "d5" 1 1 986.9 311
@@ -7361,8 +7361,8 @@
 "female" 2017 "edu" "basic" "n.admissions" "d5" 1 1 195.1 1001
 "female" 2017 "edu" "basic" "n.admissions.ppl" "d5" 1 1 140.6 720
 "female" 2017 "edu" "basic" "n.dead.year" "d5" 1 1 3.4 20
-"female" 2017 "edu" "basic" "n.dead1" "d5" 1 1 4800.2 95
-"female" 2017 "edu" "basic" "n.dead30" "d5" 1 1 1796.5 33
+"female" 2017 "edu" "basic" "n.dead1" "d5" 1 1 5568.6 110
+"female" 2017 "edu" "basic" "n.dead30" "d5" 1 1 1804.7 33
 "female" 2017 "edu" "basic" "n.incidence" "d5" 1 1 228.2 1168
 "female" 2017 "edu" "basic" "n.prevalence" "d5" 1 1 1677.5 8623
 "female" 2017 "edu" "basic" "n.readmissions.30" "d5" 1 1 49.9 265
@@ -7370,7 +7370,7 @@
 "female" 2017 "edu" "tertiary" "n.admissions" "d5" 1 1 57.6 187
 "female" 2017 "edu" "tertiary" "n.admissions.ppl" "d5" 1 1 44.6 144
 "female" 2017 "edu" "tertiary" "n.dead.year" "d5" 1 1 NA NA
-"female" 2017 "edu" "tertiary" "n.dead1" "d5" 1 1 2687.5 16
+"female" 2017 "edu" "tertiary" "n.dead1" "d5" 1 1 3498.8 19
 "female" 2017 "edu" "tertiary" "n.dead30" "d5" 1 1 859.5 5
 "female" 2017 "edu" "tertiary" "n.incidence" "d5" 1 1 98 325
 "female" 2017 "edu" "tertiary" "n.prevalence" "d5" 1 1 683.9 2301
@@ -7379,7 +7379,7 @@
 "female" 2017 "edu" "secondary" "n.admissions" "d5" 1 1 108.6 641
 "female" 2017 "edu" "secondary" "n.admissions.ppl" "d5" 1 1 80.1 474
 "female" 2017 "edu" "secondary" "n.dead.year" "d5" 1 1 2.1 12
-"female" 2017 "edu" "secondary" "n.dead1" "d5" 1 1 4398.9 57
+"female" 2017 "edu" "secondary" "n.dead1" "d5" 1 1 5668.1 67
 "female" 2017 "edu" "secondary" "n.dead30" "d5" 1 1 947.2 17
 "female" 2017 "edu" "secondary" "n.incidence" "d5" 1 1 157.4 933
 "female" 2017 "edu" "secondary" "n.prevalence" "d5" 1 1 1066.4 6287
@@ -8007,26 +8007,17 @@
 "female" 2017 "national" "national" "n.admissions" "d5" 0 1 145.6 2596
 "female" 2017 "national" "national" "n.admissions.ppl" "d5" 0 1 106.6 1901
 "female" 2017 "national" "national" "n.dead.year" "d5" 0 1 5.3 97
-"female" 2017 "national" "national" "n.dead1" "d5" 0 1 3975.8 314
-"female" 2017 "national" "national" "n.dead30" "d5" 0 1 1999.6 145
+"female" 2017 "national" "national" "n.dead1" "d5" 0 1 7465 500
+"female" 2017 "national" "national" "n.dead30" "d5" 0 1 2033.3 149
 "female" 2017 "national" "national" "n.incidence" "d5" 0 1 200.7 3583
 "female" 2017 "national" "national" "n.prevalence" "d5" 0 1 1434.3 25592
 "female" 2017 "national" "national" "n.readmissions.30" "d5" 0 1 38.4 686
 "female" 2017 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 23773.5 534
-"female" 2017 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"female" 2017 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "female" 2017 "region" "Hovedstaden" "n.admissions" "d5" 1 1 154.6 785
 "female" 2017 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 111.1 565
 "female" 2017 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 4.8 25
-"female" 2017 "region" "Hovedstaden" "n.dead1" "d5" 1 1 6052.8 143
-"female" 2017 "region" "Hovedstaden" "n.dead30" "d5" 1 1 1764.1 48
+"female" 2017 "region" "Hovedstaden" "n.dead1" "d5" 1 1 6798.6 160
+"female" 2017 "region" "Hovedstaden" "n.dead30" "d5" 1 1 1785.8 48
 "female" 2017 "region" "Hovedstaden" "n.incidence" "d5" 1 1 200.7 1019
 "female" 2017 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 1186.3 6030
 "female" 2017 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 45.3 230
@@ -8034,7 +8025,7 @@
 "female" 2017 "region" "Sjælland" "n.admissions" "d5" 1 1 153 428
 "female" 2017 "region" "Sjælland" "n.admissions.ppl" "d5" 1 1 114.7 321
 "female" 2017 "region" "Sjælland" "n.dead.year" "d5" 1 1 5.7 16
-"female" 2017 "region" "Sjælland" "n.dead1" "d5" 1 1 5412.1 77
+"female" 2017 "region" "Sjælland" "n.dead1" "d5" 1 1 6470.9 86
 "female" 2017 "region" "Sjælland" "n.dead30" "d5" 1 1 1724 28
 "female" 2017 "region" "Sjælland" "n.incidence" "d5" 1 1 242.2 679
 "female" 2017 "region" "Sjælland" "n.prevalence" "d5" 1 1 1502.2 4208
@@ -8043,8 +8034,8 @@
 "female" 2017 "region" "Syddanmark" "n.admissions" "d5" 1 1 203.6 808
 "female" 2017 "region" "Syddanmark" "n.admissions.ppl" "d5" 1 1 143.4 569
 "female" 2017 "region" "Syddanmark" "n.dead.year" "d5" 1 1 6 25
-"female" 2017 "region" "Syddanmark" "n.dead1" "d5" 1 1 5940.9 107
-"female" 2017 "region" "Syddanmark" "n.dead30" "d5" 1 1 1653.6 35
+"female" 2017 "region" "Syddanmark" "n.dead1" "d5" 1 1 7051.3 127
+"female" 2017 "region" "Syddanmark" "n.dead30" "d5" 1 1 1672.2 35
 "female" 2017 "region" "Syddanmark" "n.incidence" "d5" 1 1 221.7 875
 "female" 2017 "region" "Syddanmark" "n.prevalence" "d5" 1 1 1870.5 7377
 "female" 2017 "region" "Syddanmark" "n.readmissions.30" "d5" 1 1 51 203
@@ -8052,7 +8043,7 @@
 "female" 2017 "region" "Midtjydlland" "n.admissions" "d5" 1 1 118.1 448
 "female" 2017 "region" "Midtjydlland" "n.admissions.ppl" "d5" 1 1 92.3 351
 "female" 2017 "region" "Midtjydlland" "n.dead.year" "d5" 1 1 6.3 24
-"female" 2017 "region" "Midtjydlland" "n.dead1" "d5" 1 1 6201.5 84
+"female" 2017 "region" "Midtjydlland" "n.dead1" "d5" 1 1 7941.5 95
 "female" 2017 "region" "Midtjydlland" "n.dead30" "d5" 1 1 2671.1 37
 "female" 2017 "region" "Midtjydlland" "n.incidence" "d5" 1 1 178.6 681
 "female" 2017 "region" "Midtjydlland" "n.prevalence" "d5" 1 1 1402 5325
@@ -8061,12 +8052,21 @@
 "female" 2017 "region" "Nordjylland" "n.admissions" "d5" 1 1 146.9 281
 "female" 2017 "region" "Nordjylland" "n.admissions.ppl" "d5" 1 1 106.5 204
 "female" 2017 "region" "Nordjylland" "n.dead.year" "d5" 1 1 7.4 15
-"female" 2017 "region" "Nordjylland" "n.dead1" "d5" 1 1 8568.5 50
+"female" 2017 "region" "Nordjylland" "n.dead1" "d5" 1 1 9240 55
 "female" 2017 "region" "Nordjylland" "n.dead30" "d5" 1 1 3495.1 18
 "female" 2017 "region" "Nordjylland" "n.incidence" "d5" 1 1 168 321
 "female" 2017 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1355.3 2572
 "female" 2017 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 37 71
 "female" 2017 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 21075.9 56
+"female" 2017 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"female" 2017 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2004 "age" "85+" "n.admissions" "d5" 0 0 879.4 255
 "male" 2004 "age" "85+" "n.admissions.ppl" "d5" 0 0 648.4 188
 "male" 2004 "age" "85+" "n.dead.year" "d5" 0 0 110.4 32
@@ -9427,16 +9427,6 @@
 "male" 2009 "national" "national" "n.prevalence" "d5" 0 1 2126.9 27827
 "male" 2009 "national" "national" "n.readmissions.30" "d5" 0 1 109.2 1464
 "male" 2009 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 30608.1 1031
-"male" 2009 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2009 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2009 "region" "Hovedstaden" "n.admissions" "d5" 1 1 353.2 1273
 "male" 2009 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 250.4 901
 "male" 2009 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 9 27
@@ -9487,6 +9477,16 @@
 "male" 2009 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1887.6 2805
 "male" 2009 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 90.3 133
 "male" 2009 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 28349.8 102
+"male" 2009 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2009 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2010 "age" "85+" "n.admissions" "d5" 0 0 906.3 304
 "male" 2010 "age" "85+" "n.admissions.ppl" "d5" 0 0 617.1 207
 "male" 2010 "age" "85+" "n.dead.year" "d5" 0 0 77.5 26
@@ -9502,7 +9502,7 @@
 "male" 2010 "age" "65 - 74" "n.dead.year" "d5" 0 0 9.3 23
 "male" 2010 "age" "65 - 74" "n.dead1" "d5" 0 0 8459.2 112
 "male" 2010 "age" "65 - 74" "n.dead30" "d5" 0 0 1737.2 23
-"male" 2010 "age" "65 - 74" "n.dead5" "d5" 0 0 32099.7 425
+"male" 2010 "age" "65 - 74" "n.dead5" "d5" 0 0 32175.2 426
 "male" 2010 "age" "65 - 74" "n.incidence" "d5" 0 0 533.2 1324
 "male" 2010 "age" "65 - 74" "n.prevalence" "d5" 0 0 3894.5 9670
 "male" 2010 "age" "65 - 74" "n.readmissions.30" "d5" 0 0 202.2 502
@@ -9582,7 +9582,7 @@
 "male" 2010 "edu" "secondary" "n.dead.year" "d5" 1 1 3.8 20
 "male" 2010 "edu" "secondary" "n.dead1" "d5" 1 1 5287.9 125
 "male" 2010 "edu" "secondary" "n.dead30" "d5" 1 1 1371.7 32
-"male" 2010 "edu" "secondary" "n.dead5" "d5" 1 1 19998.5 451
+"male" 2010 "edu" "secondary" "n.dead5" "d5" 1 1 20009.9 451
 "male" 2010 "edu" "secondary" "n.incidence" "d5" 1 1 284.1 1639
 "male" 2010 "edu" "secondary" "n.prevalence" "d5" 1 1 1872.5 10474
 "male" 2010 "edu" "secondary" "n.readmissions.30" "d5" 1 1 90.6 529
@@ -9623,7 +9623,7 @@
 "male" 2010 "kom" "101" "n.readmissions.ppl.30" "d5" 1 1 24239.6 79
 "male" 2010 "kom" "147" "n.admissions" "d5" 1 1 422.4 80
 "male" 2010 "kom" "147" "n.admissions.ppl" "d5" 1 1 282.5 54
-"male" 2010 "kom" "147" "n.dead5" "d5" 1 1 27911.9 24
+"male" 2010 "kom" "147" "n.dead5" "d5" 1 1 28287.1 25
 "male" 2010 "kom" "147" "n.incidence" "d5" 1 1 292.1 56
 "male" 2010 "kom" "147" "n.prevalence" "d5" 1 1 1701 323
 "male" 2010 "kom" "147" "n.readmissions.30" "d5" 1 1 136.9 26
@@ -10312,27 +10312,17 @@
 "male" 2010 "national" "national" "n.dead.year" "d5" 0 1 9.4 104
 "male" 2010 "national" "national" "n.dead1" "d5" 0 1 8984 521
 "male" 2010 "national" "national" "n.dead30" "d5" 0 1 2752.9 165
-"male" 2010 "national" "national" "n.dead5" "d5" 0 1 26231 1527
+"male" 2010 "national" "national" "n.dead5" "d5" 0 1 26244.1 1528
 "male" 2010 "national" "national" "n.incidence" "d5" 0 1 320.3 4319
 "male" 2010 "national" "national" "n.prevalence" "d5" 0 1 2152.9 28666
 "male" 2010 "national" "national" "n.readmissions.30" "d5" 0 1 116.6 1604
 "male" 2010 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 29740.1 1030
-"male" 2010 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2010 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2010 "region" "Hovedstaden" "n.admissions" "d5" 1 1 361.7 1321
 "male" 2010 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 254.1 927
 "male" 2010 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 8.7 27
 "male" 2010 "region" "Hovedstaden" "n.dead1" "d5" 1 1 10471 160
 "male" 2010 "region" "Hovedstaden" "n.dead30" "d5" 1 1 2699.9 47
-"male" 2010 "region" "Hovedstaden" "n.dead5" "d5" 1 1 29508.8 440
+"male" 2010 "region" "Hovedstaden" "n.dead5" "d5" 1 1 29526.6 441
 "male" 2010 "region" "Hovedstaden" "n.incidence" "d5" 1 1 313.3 1145
 "male" 2010 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 1909.9 6827
 "male" 2010 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 93.9 340
@@ -10377,6 +10367,16 @@
 "male" 2010 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1924.7 2911
 "male" 2010 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 87 130
 "male" 2010 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 29344.5 99
+"male" 2010 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2010 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2011 "age" "85+" "n.admissions" "d5" 0 0 931 320
 "male" 2011 "age" "85+" "n.admissions.ppl" "d5" 0 0 570.2 196
 "male" 2011 "age" "85+" "n.dead.year" "d5" 0 0 107.6 37
@@ -10392,7 +10392,7 @@
 "male" 2011 "age" "65 - 74" "n.dead.year" "d5" 0 0 8.4 22
 "male" 2011 "age" "65 - 74" "n.dead1" "d5" 0 0 9177.4 135
 "male" 2011 "age" "65 - 74" "n.dead30" "d5" 0 0 2107.4 31
-"male" 2011 "age" "65 - 74" "n.dead5" "d5" 0 0 35486.1 522
+"male" 2011 "age" "65 - 74" "n.dead5" "d5" 0 0 35554 523
 "male" 2011 "age" "65 - 74" "n.incidence" "d5" 0 0 560.9 1471
 "male" 2011 "age" "65 - 74" "n.prevalence" "d5" 0 0 3867 10141
 "male" 2011 "age" "65 - 74" "n.readmissions.30" "d5" 0 0 276.8 726
@@ -10442,7 +10442,7 @@
 "male" 2011 "edu" "unknown" "n.dead.year" "d5" 1 1 NA NA
 "male" 2011 "edu" "unknown" "n.dead1" "d5" 1 1 5317.2 9
 "male" 2011 "edu" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2011 "edu" "unknown" "n.dead5" "d5" 1 1 20478.9 31
+"male" 2011 "edu" "unknown" "n.dead5" "d5" 1 1 20626.1 32
 "male" 2011 "edu" "unknown" "n.incidence" "d5" 1 1 325.2 102
 "male" 2011 "edu" "unknown" "n.prevalence" "d5" 1 1 2092.5 651
 "male" 2011 "edu" "unknown" "n.readmissions.30" "d5" 1 1 115.6 36
@@ -10472,7 +10472,7 @@
 "male" 2011 "edu" "secondary" "n.dead.year" "d5" 1 1 3.6 19
 "male" 2011 "edu" "secondary" "n.dead1" "d5" 1 1 5263.7 128
 "male" 2011 "edu" "secondary" "n.dead30" "d5" 1 1 1301 32
-"male" 2011 "edu" "secondary" "n.dead5" "d5" 1 1 19301.9 458
+"male" 2011 "edu" "secondary" "n.dead5" "d5" 1 1 19312.9 459
 "male" 2011 "edu" "secondary" "n.incidence" "d5" 1 1 279.9 1664
 "male" 2011 "edu" "secondary" "n.prevalence" "d5" 1 1 1885.5 10900
 "male" 2011 "edu" "secondary" "n.readmissions.30" "d5" 1 1 120.6 738
@@ -10513,7 +10513,7 @@
 "male" 2011 "kom" "101" "n.readmissions.ppl.30" "d5" 1 1 27640.2 84
 "male" 2011 "kom" "147" "n.admissions" "d5" 1 1 417.2 81
 "male" 2011 "kom" "147" "n.admissions.ppl" "d5" 1 1 274.6 53
-"male" 2011 "kom" "147" "n.dead5" "d5" 1 1 26526.7 24
+"male" 2011 "kom" "147" "n.dead5" "d5" 1 1 26939 25
 "male" 2011 "kom" "147" "n.incidence" "d5" 1 1 287.2 56
 "male" 2011 "kom" "147" "n.prevalence" "d5" 1 1 1698.5 327
 "male" 2011 "kom" "147" "n.readmissions.30" "d5" 1 1 131.3 26
@@ -10982,7 +10982,7 @@
 "male" 2011 "kom" "615" "n.readmissions.ppl.30" "d5" 1 1 24027.1 12
 "male" 2011 "kom" "621" "n.admissions" "d5" 1 1 456 95
 "male" 2011 "kom" "621" "n.admissions.ppl" "d5" 1 1 296.6 63
-"male" 2011 "kom" "621" "n.dead5" "d5" 1 1 20999.6 24
+"male" 2011 "kom" "621" "n.dead5" "d5" 1 1 21211.1 24
 "male" 2011 "kom" "621" "n.incidence" "d5" 1 1 369.5 77
 "male" 2011 "kom" "621" "n.prevalence" "d5" 1 1 2664.6 544
 "male" 2011 "kom" "621" "n.readmissions.30" "d5" 1 1 119.7 24
@@ -11202,27 +11202,17 @@
 "male" 2011 "national" "national" "n.dead.year" "d5" 0 1 10.3 110
 "male" 2011 "national" "national" "n.dead1" "d5" 0 1 7804.8 531
 "male" 2011 "national" "national" "n.dead30" "d5" 0 1 1910.6 132
-"male" 2011 "national" "national" "n.dead5" "d5" 0 1 24232.8 1583
+"male" 2011 "national" "national" "n.dead5" "d5" 0 1 24245.2 1584
 "male" 2011 "national" "national" "n.incidence" "d5" 0 1 321.9 4426
 "male" 2011 "national" "national" "n.prevalence" "d5" 0 1 2170.5 29491
 "male" 2011 "national" "national" "n.readmissions.30" "d5" 0 1 151 2149
 "male" 2011 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 29465.5 1053
-"male" 2011 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2011 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2011 "region" "Hovedstaden" "n.admissions" "d5" 1 1 366.1 1369
 "male" 2011 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 248.6 925
 "male" 2011 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 8.8 27
 "male" 2011 "region" "Hovedstaden" "n.dead1" "d5" 1 1 9740.5 149
 "male" 2011 "region" "Hovedstaden" "n.dead30" "d5" 1 1 2691.1 44
-"male" 2011 "region" "Hovedstaden" "n.dead5" "d5" 1 1 28419.7 428
+"male" 2011 "region" "Hovedstaden" "n.dead5" "d5" 1 1 28437.3 429
 "male" 2011 "region" "Hovedstaden" "n.incidence" "d5" 1 1 304.1 1132
 "male" 2011 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 1931.5 7032
 "male" 2011 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 105.1 392
@@ -11242,7 +11232,7 @@
 "male" 2011 "region" "Syddanmark" "n.dead.year" "d5" 1 1 8.8 23
 "male" 2011 "region" "Syddanmark" "n.dead1" "d5" 1 1 8846.7 137
 "male" 2011 "region" "Syddanmark" "n.dead30" "d5" 1 1 2296.8 35
-"male" 2011 "region" "Syddanmark" "n.dead5" "d5" 1 1 25644.8 402
+"male" 2011 "region" "Syddanmark" "n.dead5" "d5" 1 1 25661.3 402
 "male" 2011 "region" "Syddanmark" "n.incidence" "d5" 1 1 366.9 1132
 "male" 2011 "region" "Syddanmark" "n.prevalence" "d5" 1 1 2634.9 8065
 "male" 2011 "region" "Syddanmark" "n.readmissions.30" "d5" 1 1 118.8 362
@@ -11267,6 +11257,16 @@
 "male" 2011 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1944.6 2998
 "male" 2011 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 92.8 140
 "male" 2011 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 30004.4 105
+"male" 2011 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2011 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2012 "age" "85+" "n.admissions" "d5" 0 0 845.5 300
 "male" 2012 "age" "85+" "n.admissions.ppl" "d5" 0 0 594.6 211
 "male" 2012 "age" "85+" "n.dead.year" "d5" 0 0 78.9 28
@@ -11332,7 +11332,7 @@
 "male" 2012 "edu" "unknown" "n.dead.year" "d5" 1 1 NA NA
 "male" 2012 "edu" "unknown" "n.dead1" "d5" 1 1 5251.8 9
 "male" 2012 "edu" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2012 "edu" "unknown" "n.dead5" "d5" 1 1 22864.5 36
+"male" 2012 "edu" "unknown" "n.dead5" "d5" 1 1 22996.8 36
 "male" 2012 "edu" "unknown" "n.incidence" "d5" 1 1 333.1 110
 "male" 2012 "edu" "unknown" "n.prevalence" "d5" 1 1 2124.8 670
 "male" 2012 "edu" "unknown" "n.readmissions.30" "d5" 1 1 107.5 34
@@ -11362,7 +11362,7 @@
 "male" 2012 "edu" "secondary" "n.dead.year" "d5" 1 1 3.8 20
 "male" 2012 "edu" "secondary" "n.dead1" "d5" 1 1 5739.8 139
 "male" 2012 "edu" "secondary" "n.dead30" "d5" 1 1 1499.4 35
-"male" 2012 "edu" "secondary" "n.dead5" "d5" 1 1 18740.5 461
+"male" 2012 "edu" "secondary" "n.dead5" "d5" 1 1 18752.3 461
 "male" 2012 "edu" "secondary" "n.incidence" "d5" 1 1 273.1 1675
 "male" 2012 "edu" "secondary" "n.prevalence" "d5" 1 1 1896 11300
 "male" 2012 "edu" "secondary" "n.readmissions.30" "d5" 1 1 114.4 715
@@ -11403,7 +11403,7 @@
 "male" 2012 "kom" "101" "n.readmissions.ppl.30" "d5" 1 1 25620.4 83
 "male" 2012 "kom" "147" "n.admissions" "d5" 1 1 394.4 78
 "male" 2012 "kom" "147" "n.admissions.ppl" "d5" 1 1 262.4 52
-"male" 2012 "kom" "147" "n.dead5" "d5" 1 1 28384.3 24
+"male" 2012 "kom" "147" "n.dead5" "d5" 1 1 28770.9 24
 "male" 2012 "kom" "147" "n.incidence" "d5" 1 1 284.1 55
 "male" 2012 "kom" "147" "n.prevalence" "d5" 1 1 1709 333
 "male" 2012 "kom" "147" "n.readmissions.30" "d5" 1 1 121 24
@@ -11872,7 +11872,7 @@
 "male" 2012 "kom" "615" "n.readmissions.ppl.30" "d5" 1 1 21419.9 11
 "male" 2012 "kom" "621" "n.admissions" "d5" 1 1 501.9 104
 "male" 2012 "kom" "621" "n.admissions.ppl" "d5" 1 1 301.6 64
-"male" 2012 "kom" "621" "n.dead5" "d5" 1 1 21818.9 25
+"male" 2012 "kom" "621" "n.dead5" "d5" 1 1 22025.2 25
 "male" 2012 "kom" "621" "n.incidence" "d5" 1 1 372 79
 "male" 2012 "kom" "621" "n.prevalence" "d5" 1 1 2716 567
 "male" 2012 "kom" "621" "n.readmissions.30" "d5" 1 1 147.6 29
@@ -12097,22 +12097,12 @@
 "male" 2012 "national" "national" "n.prevalence" "d5" 0 1 2186 30308
 "male" 2012 "national" "national" "n.readmissions.30" "d5" 0 1 100.2 1401
 "male" 2012 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 28550.1 1007
-"male" 2012 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2012 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2012 "region" "Hovedstaden" "n.admissions" "d5" 1 1 378.3 1446
 "male" 2012 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 249.5 947
 "male" 2012 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 9 28
 "male" 2012 "region" "Hovedstaden" "n.dead1" "d5" 1 1 9641.8 147
 "male" 2012 "region" "Hovedstaden" "n.dead30" "d5" 1 1 2435.8 40
-"male" 2012 "region" "Hovedstaden" "n.dead5" "d5" 1 1 27577.2 414
+"male" 2012 "region" "Hovedstaden" "n.dead5" "d5" 1 1 27594.8 414
 "male" 2012 "region" "Hovedstaden" "n.incidence" "d5" 1 1 295.3 1116
 "male" 2012 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 1950.4 7236
 "male" 2012 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 115.8 440
@@ -12132,7 +12122,7 @@
 "male" 2012 "region" "Syddanmark" "n.dead.year" "d5" 1 1 8 20
 "male" 2012 "region" "Syddanmark" "n.dead1" "d5" 1 1 8419.8 141
 "male" 2012 "region" "Syddanmark" "n.dead30" "d5" 1 1 2490.6 39
-"male" 2012 "region" "Syddanmark" "n.dead5" "d5" 1 1 25130.5 412
+"male" 2012 "region" "Syddanmark" "n.dead5" "d5" 1 1 25146.5 412
 "male" 2012 "region" "Syddanmark" "n.incidence" "d5" 1 1 367.7 1155
 "male" 2012 "region" "Syddanmark" "n.prevalence" "d5" 1 1 2663.7 8295
 "male" 2012 "region" "Syddanmark" "n.readmissions.30" "d5" 1 1 115 355
@@ -12157,12 +12147,22 @@
 "male" 2012 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1964.2 3082
 "male" 2012 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 81.7 126
 "male" 2012 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 28673 96
+"male" 2012 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2012 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "age" "85+" "n.admissions" "d5" 0 0 800.1 291
 "male" 2013 "age" "85+" "n.admissions.ppl" "d5" 0 0 580.2 211
 "male" 2013 "age" "85+" "n.dead.year" "d5" 0 0 52.2 19
 "male" 2013 "age" "85+" "n.dead1" "d5" 0 0 40666.7 122
 "male" 2013 "age" "85+" "n.dead30" "d5" 0 0 15666.7 47
-"male" 2013 "age" "85+" "n.dead5" "d5" 0 0 79333.3 238
+"male" 2013 "age" "85+" "n.dead5" "d5" 0 0 81333.3 244
 "male" 2013 "age" "85+" "n.incidence" "d5" 0 0 824.9 300
 "male" 2013 "age" "85+" "n.prevalence" "d5" 0 0 5889.6 2142
 "male" 2013 "age" "85+" "n.readmissions.30" "d5" 0 0 258.5 94
@@ -12172,7 +12172,7 @@
 "male" 2013 "age" "65 - 74" "n.dead.year" "d5" 0 0 6.9 20
 "male" 2013 "age" "65 - 74" "n.dead1" "d5" 0 0 9878.9 155
 "male" 2013 "age" "65 - 74" "n.dead30" "d5" 0 0 2294.5 36
-"male" 2013 "age" "65 - 74" "n.dead5" "d5" 0 0 29445.5 462
+"male" 2013 "age" "65 - 74" "n.dead5" "d5" 0 0 32186.1 505
 "male" 2013 "age" "65 - 74" "n.incidence" "d5" 0 0 543.9 1569
 "male" 2013 "age" "65 - 74" "n.prevalence" "d5" 0 0 3897.2 11243
 "male" 2013 "age" "65 - 74" "n.readmissions.30" "d5" 0 0 149.4 431
@@ -12182,7 +12182,7 @@
 "male" 2013 "age" "75 - 84" "n.dead.year" "d5" 0 0 24.4 31
 "male" 2013 "age" "75 - 84" "n.dead1" "d5" 0 0 19125.1 188
 "male" 2013 "age" "75 - 84" "n.dead30" "d5" 0 0 5188.2 51
-"male" 2013 "age" "75 - 84" "n.dead5" "d5" 0 0 49542.2 487
+"male" 2013 "age" "75 - 84" "n.dead5" "d5" 0 0 54018.3 531
 "male" 2013 "age" "75 - 84" "n.incidence" "d5" 0 0 773.5 983
 "male" 2013 "age" "75 - 84" "n.prevalence" "d5" 0 0 5981.9 7602
 "male" 2013 "age" "75 - 84" "n.readmissions.30" "d5" 0 0 224.3 285
@@ -12192,7 +12192,7 @@
 "male" 2013 "age" "45 - 54" "n.dead.year" "d5" 0 0 NA NA
 "male" 2013 "age" "45 - 54" "n.dead1" "d5" 0 0 4158 20
 "male" 2013 "age" "45 - 54" "n.dead30" "d5" 0 0 NA NA
-"male" 2013 "age" "45 - 54" "n.dead5" "d5" 0 0 11434.5 55
+"male" 2013 "age" "45 - 54" "n.dead5" "d5" 0 0 13305.6 64
 "male" 2013 "age" "45 - 54" "n.incidence" "d5" 0 0 118.9 481
 "male" 2013 "age" "45 - 54" "n.prevalence" "d5" 0 0 650.8 2632
 "male" 2013 "age" "45 - 54" "n.readmissions.30" "d5" 0 0 29.9 121
@@ -12202,7 +12202,7 @@
 "male" 2013 "age" "55 - 64" "n.dead.year" "d5" 0 0 3.8 13
 "male" 2013 "age" "55 - 64" "n.dead1" "d5" 0 0 7326.4 77
 "male" 2013 "age" "55 - 64" "n.dead30" "d5" 0 0 1807.8 19
-"male" 2013 "age" "55 - 64" "n.dead5" "d5" 0 0 22454.8 236
+"male" 2013 "age" "55 - 64" "n.dead5" "d5" 0 0 24167.5 254
 "male" 2013 "age" "55 - 64" "n.incidence" "d5" 0 0 304.3 1051
 "male" 2013 "age" "55 - 64" "n.prevalence" "d5" 0 0 1929.9 6665
 "male" 2013 "age" "55 - 64" "n.readmissions.30" "d5" 0 0 72.4 250
@@ -12212,7 +12212,7 @@
 "male" 2013 "age" "35 - 44" "n.dead.year" "d5" 0 0 NA NA
 "male" 2013 "age" "35 - 44" "n.dead1" "d5" 0 0 NA NA
 "male" 2013 "age" "35 - 44" "n.dead30" "d5" 0 0 NA NA
-"male" 2013 "age" "35 - 44" "n.dead5" "d5" 0 0 NA NA
+"male" 2013 "age" "35 - 44" "n.dead5" "d5" 0 0 8130.1 10
 "male" 2013 "age" "35 - 44" "n.incidence" "d5" 0 0 32.2 123
 "male" 2013 "age" "35 - 44" "n.prevalence" "d5" 0 0 189.8 725
 "male" 2013 "age" "35 - 44" "n.readmissions.30" "d5" 0 0 7.6 29
@@ -12222,7 +12222,7 @@
 "male" 2013 "edu" "unknown" "n.dead.year" "d5" 1 1 NA NA
 "male" 2013 "edu" "unknown" "n.dead1" "d5" 1 1 6137.5 10
 "male" 2013 "edu" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2013 "edu" "unknown" "n.dead5" "d5" 1 1 27495.1 35
+"male" 2013 "edu" "unknown" "n.dead5" "d5" 1 1 27763.8 36
 "male" 2013 "edu" "unknown" "n.incidence" "d5" 1 1 334.5 109
 "male" 2013 "edu" "unknown" "n.prevalence" "d5" 1 1 2152.1 689
 "male" 2013 "edu" "unknown" "n.readmissions.30" "d5" 1 1 102.9 32
@@ -12232,7 +12232,7 @@
 "male" 2013 "edu" "basic" "n.dead.year" "d5" 1 1 4.6 19
 "male" 2013 "edu" "basic" "n.dead1" "d5" 1 1 6364.8 142
 "male" 2013 "edu" "basic" "n.dead30" "d5" 1 1 1500.3 33
-"male" 2013 "edu" "basic" "n.dead5" "d5" 1 1 22088.5 430
+"male" 2013 "edu" "basic" "n.dead5" "d5" 1 1 23115.5 445
 "male" 2013 "edu" "basic" "n.incidence" "d5" 1 1 349.7 1398
 "male" 2013 "edu" "basic" "n.prevalence" "d5" 1 1 2339.9 9432
 "male" 2013 "edu" "basic" "n.readmissions.30" "d5" 1 1 125.1 501
@@ -12242,7 +12242,7 @@
 "male" 2013 "edu" "tertiary" "n.dead.year" "d5" 1 1 3.6 6
 "male" 2013 "edu" "tertiary" "n.dead1" "d5" 1 1 4746.1 31
 "male" 2013 "edu" "tertiary" "n.dead30" "d5" 1 1 1234.4 8
-"male" 2013 "edu" "tertiary" "n.dead5" "d5" 1 1 15357.1 100
+"male" 2013 "edu" "tertiary" "n.dead5" "d5" 1 1 16053.9 102
 "male" 2013 "edu" "tertiary" "n.incidence" "d5" 1 1 183.7 398
 "male" 2013 "edu" "tertiary" "n.prevalence" "d5" 1 1 1265.7 2651
 "male" 2013 "edu" "tertiary" "n.readmissions.30" "d5" 1 1 49.5 106
@@ -12252,7 +12252,7 @@
 "male" 2013 "edu" "secondary" "n.dead.year" "d5" 1 1 3.6 20
 "male" 2013 "edu" "secondary" "n.dead1" "d5" 1 1 5860.1 148
 "male" 2013 "edu" "secondary" "n.dead30" "d5" 1 1 1396.8 34
-"male" 2013 "edu" "secondary" "n.dead5" "d5" 1 1 18300.9 474
+"male" 2013 "edu" "secondary" "n.dead5" "d5" 1 1 18804.2 487
 "male" 2013 "edu" "secondary" "n.incidence" "d5" 1 1 275 1729
 "male" 2013 "edu" "secondary" "n.prevalence" "d5" 1 1 1891.9 11644
 "male" 2013 "edu" "secondary" "n.readmissions.30" "d5" 1 1 104.6 667
@@ -12262,7 +12262,7 @@
 "male" 2013 "edu" "postgraduate" "n.dead.year" "d5" 1 1 NA NA
 "male" 2013 "edu" "postgraduate" "n.dead1" "d5" 1 1 4216.4 8
 "male" 2013 "edu" "postgraduate" "n.dead30" "d5" 1 1 NA NA
-"male" 2013 "edu" "postgraduate" "n.dead5" "d5" 1 1 13253 25
+"male" 2013 "edu" "postgraduate" "n.dead5" "d5" 1 1 13496.1 25
 "male" 2013 "edu" "postgraduate" "n.incidence" "d5" 1 1 121.8 120
 "male" 2013 "edu" "postgraduate" "n.prevalence" "d5" 1 1 812.2 774
 "male" 2013 "edu" "postgraduate" "n.readmissions.30" "d5" 1 1 42.5 40
@@ -12286,14 +12286,14 @@
 "male" 2013 "kom" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "101" "n.admissions" "d5" 1 1 474.1 406
 "male" 2013 "kom" "101" "n.admissions.ppl" "d5" 1 1 307.5 261
-"male" 2013 "kom" "101" "n.dead5" "d5" 1 1 30099.5 120
+"male" 2013 "kom" "101" "n.dead5" "d5" 1 1 31213.6 124
 "male" 2013 "kom" "101" "n.incidence" "d5" 1 1 354.9 307
 "male" 2013 "kom" "101" "n.prevalence" "d5" 1 1 2289.4 1903
 "male" 2013 "kom" "101" "n.readmissions.30" "d5" 1 1 145.5 121
 "male" 2013 "kom" "101" "n.readmissions.ppl.30" "d5" 1 1 24870.1 77
 "male" 2013 "kom" "147" "n.admissions" "d5" 1 1 351.4 72
 "male" 2013 "kom" "147" "n.admissions.ppl" "d5" 1 1 244.9 49
-"male" 2013 "kom" "147" "n.dead5" "d5" 1 1 26064.1 26
+"male" 2013 "kom" "147" "n.dead5" "d5" 1 1 27170.8 27
 "male" 2013 "kom" "147" "n.incidence" "d5" 1 1 296.8 58
 "male" 2013 "kom" "147" "n.prevalence" "d5" 1 1 1706.3 337
 "male" 2013 "kom" "147" "n.readmissions.30" "d5" 1 1 102.4 21
@@ -12307,7 +12307,7 @@
 "male" 2013 "kom" "151" "n.readmissions.ppl.30" "d5" 1 1 NA 9
 "male" 2013 "kom" "153" "n.admissions" "d5" 1 1 382.7 35
 "male" 2013 "kom" "153" "n.admissions.ppl" "d5" 1 1 259.2 24
-"male" 2013 "kom" "153" "n.dead5" "d5" 1 1 25919.5 11
+"male" 2013 "kom" "153" "n.dead5" "d5" 1 1 26372.8 11
 "male" 2013 "kom" "153" "n.incidence" "d5" 1 1 354.6 32
 "male" 2013 "kom" "153" "n.prevalence" "d5" 1 1 2127.6 184
 "male" 2013 "kom" "153" "n.readmissions.30" "d5" 1 1 133.8 12
@@ -12328,7 +12328,7 @@
 "male" 2013 "kom" "157" "n.readmissions.ppl.30" "d5" 1 1 NA 10
 "male" 2013 "kom" "159" "n.admissions" "d5" 1 1 381.7 57
 "male" 2013 "kom" "159" "n.admissions.ppl" "d5" 1 1 240.9 35
-"male" 2013 "kom" "159" "n.dead5" "d5" 1 1 NA 19
+"male" 2013 "kom" "159" "n.dead5" "d5" 1 1 NA 20
 "male" 2013 "kom" "159" "n.incidence" "d5" 1 1 311.3 44
 "male" 2013 "kom" "159" "n.prevalence" "d5" 1 1 1862 262
 "male" 2013 "kom" "159" "n.readmissions.30" "d5" 1 1 125.8 20
@@ -12426,21 +12426,21 @@
 "male" 2013 "kom" "210" "n.readmissions.ppl.30" "d5" 1 1 41021.6 10
 "male" 2013 "kom" "217" "n.admissions" "d5" 1 1 357.7 62
 "male" 2013 "kom" "217" "n.admissions.ppl" "d5" 1 1 237.7 41
-"male" 2013 "kom" "217" "n.dead5" "d5" 1 1 17638.5 15
+"male" 2013 "kom" "217" "n.dead5" "d5" 1 1 17921.9 15
 "male" 2013 "kom" "217" "n.incidence" "d5" 1 1 301.4 52
 "male" 2013 "kom" "217" "n.prevalence" "d5" 1 1 1960.9 324
 "male" 2013 "kom" "217" "n.readmissions.30" "d5" 1 1 128.6 22
 "male" 2013 "kom" "217" "n.readmissions.ppl.30" "d5" 1 1 27184.4 15
 "male" 2013 "kom" "219" "n.admissions" "d5" 1 1 261.2 31
 "male" 2013 "kom" "219" "n.admissions.ppl" "d5" 1 1 187.4 22
-"male" 2013 "kom" "219" "n.dead5" "d5" 1 1 18651.5 8
+"male" 2013 "kom" "219" "n.dead5" "d5" 1 1 19026.2 8
 "male" 2013 "kom" "219" "n.incidence" "d5" 1 1 256.5 30
 "male" 2013 "kom" "219" "n.prevalence" "d5" 1 1 1974.8 226
 "male" 2013 "kom" "219" "n.readmissions.30" "d5" 1 1 78.5 9
 "male" 2013 "kom" "219" "n.readmissions.ppl.30" "d5" 1 1 NA 7
 "male" 2013 "kom" "223" "n.admissions" "d5" 1 1 117.2 9
 "male" 2013 "kom" "223" "n.admissions.ppl" "d5" 1 1 97.3 8
-"male" 2013 "kom" "223" "n.dead5" "d5" 1 1 NA 4
+"male" 2013 "kom" "223" "n.dead5" "d5" 1 1 NA 5
 "male" 2013 "kom" "223" "n.incidence" "d5" 1 1 169.9 13
 "male" 2013 "kom" "223" "n.prevalence" "d5" 1 1 1580.5 118
 "male" 2013 "kom" "223" "n.readmissions.30" "d5" 1 1 NA NA
@@ -12461,21 +12461,21 @@
 "male" 2013 "kom" "240" "n.readmissions.ppl.30" "d5" 1 1 NA 9
 "male" 2013 "kom" "250" "n.admissions" "d5" 1 1 397.9 50
 "male" 2013 "kom" "250" "n.admissions.ppl" "d5" 1 1 268.7 34
-"male" 2013 "kom" "250" "n.dead5" "d5" 1 1 28801.7 14
+"male" 2013 "kom" "250" "n.dead5" "d5" 1 1 29627.3 14
 "male" 2013 "kom" "250" "n.incidence" "d5" 1 1 300.7 37
 "male" 2013 "kom" "250" "n.prevalence" "d5" 1 1 2307.8 290
 "male" 2013 "kom" "250" "n.readmissions.30" "d5" 1 1 121.7 14
 "male" 2013 "kom" "250" "n.readmissions.ppl.30" "d5" 1 1 NA 10
 "male" 2013 "kom" "253" "n.admissions" "d5" 1 1 721.5 98
 "male" 2013 "kom" "253" "n.admissions.ppl" "d5" 1 1 229 31
-"male" 2013 "kom" "253" "n.dead5" "d5" 1 1 21627.3 14
+"male" 2013 "kom" "253" "n.dead5" "d5" 1 1 22153.2 15
 "male" 2013 "kom" "253" "n.incidence" "d5" 1 1 358.6 45
 "male" 2013 "kom" "253" "n.prevalence" "d5" 1 1 2140.5 272
 "male" 2013 "kom" "253" "n.readmissions.30" "d5" 1 1 476.8 66
 "male" 2013 "kom" "253" "n.readmissions.ppl.30" "d5" 1 1 38319.4 12
 "male" 2013 "kom" "259" "n.admissions" "d5" 1 1 970.3 158
 "male" 2013 "kom" "259" "n.admissions.ppl" "d5" 1 1 259.5 38
-"male" 2013 "kom" "259" "n.dead5" "d5" 1 1 17407.1 13
+"male" 2013 "kom" "259" "n.dead5" "d5" 1 1 18811.5 14
 "male" 2013 "kom" "259" "n.incidence" "d5" 1 1 355.5 52
 "male" 2013 "kom" "259" "n.prevalence" "d5" 1 1 2354.9 330
 "male" 2013 "kom" "259" "n.readmissions.30" "d5" 1 1 703.9 118
@@ -12496,7 +12496,7 @@
 "male" 2013 "kom" "265" "n.readmissions.ppl.30" "d5" 1 1 29765.5 11
 "male" 2013 "kom" "269" "n.admissions" "d5" 1 1 377.5 21
 "male" 2013 "kom" "269" "n.admissions.ppl" "d5" 1 1 184 10
-"male" 2013 "kom" "269" "n.dead5" "d5" 1 1 NA 6
+"male" 2013 "kom" "269" "n.dead5" "d5" 1 1 NA 7
 "male" 2013 "kom" "269" "n.incidence" "d5" 1 1 346.3 18
 "male" 2013 "kom" "269" "n.prevalence" "d5" 1 1 2155.6 106
 "male" 2013 "kom" "269" "n.readmissions.30" "d5" 1 1 166.7 10
@@ -12510,14 +12510,14 @@
 "male" 2013 "kom" "270" "n.readmissions.ppl.30" "d5" 1 1 NA 9
 "male" 2013 "kom" "306" "n.admissions" "d5" 1 1 393.7 45
 "male" 2013 "kom" "306" "n.admissions.ppl" "d5" 1 1 260.3 30
-"male" 2013 "kom" "306" "n.dead5" "d5" 1 1 23001.3 15
+"male" 2013 "kom" "306" "n.dead5" "d5" 1 1 23394.1 15
 "male" 2013 "kom" "306" "n.incidence" "d5" 1 1 337.2 39
 "male" 2013 "kom" "306" "n.prevalence" "d5" 1 1 2039 235
 "male" 2013 "kom" "306" "n.readmissions.30" "d5" 1 1 128.3 14
 "male" 2013 "kom" "306" "n.readmissions.ppl.30" "d5" 1 1 NA 10
 "male" 2013 "kom" "316" "n.admissions" "d5" 1 1 360.9 63
 "male" 2013 "kom" "316" "n.admissions.ppl" "d5" 1 1 227.7 41
-"male" 2013 "kom" "316" "n.dead5" "d5" 1 1 23499.8 25
+"male" 2013 "kom" "316" "n.dead5" "d5" 1 1 24403.8 26
 "male" 2013 "kom" "316" "n.incidence" "d5" 1 1 362.6 64
 "male" 2013 "kom" "316" "n.prevalence" "d5" 1 1 2299.9 407
 "male" 2013 "kom" "316" "n.readmissions.30" "d5" 1 1 138.9 22
@@ -12545,63 +12545,63 @@
 "male" 2013 "kom" "329" "n.readmissions.ppl.30" "d5" 1 1 27851.7 7
 "male" 2013 "kom" "330" "n.admissions" "d5" 1 1 383 83
 "male" 2013 "kom" "330" "n.admissions.ppl" "d5" 1 1 285.7 62
-"male" 2013 "kom" "330" "n.dead5" "d5" 1 1 29401.4 32
+"male" 2013 "kom" "330" "n.dead5" "d5" 1 1 29562.7 33
 "male" 2013 "kom" "330" "n.incidence" "d5" 1 1 405.1 88
 "male" 2013 "kom" "330" "n.prevalence" "d5" 1 1 2609.5 548
 "male" 2013 "kom" "330" "n.readmissions.30" "d5" 1 1 106.5 22
 "male" 2013 "kom" "330" "n.readmissions.ppl.30" "d5" 1 1 20433 17
 "male" 2013 "kom" "336" "n.admissions" "d5" 1 1 938.5 74
 "male" 2013 "kom" "336" "n.admissions.ppl" "d5" 1 1 277.5 20
-"male" 2013 "kom" "336" "n.dead5" "d5" 1 1 25360.3 10
+"male" 2013 "kom" "336" "n.dead5" "d5" 1 1 27343.7 10
 "male" 2013 "kom" "336" "n.incidence" "d5" 1 1 377.2 27
 "male" 2013 "kom" "336" "n.prevalence" "d5" 1 1 2228.2 153
 "male" 2013 "kom" "336" "n.readmissions.30" "d5" 1 1 655 53
 "male" 2013 "kom" "336" "n.readmissions.ppl.30" "d5" 1 1 NA 9
 "male" 2013 "kom" "340" "n.admissions" "d5" 1 1 220.9 18
 "male" 2013 "kom" "340" "n.admissions.ppl" "d5" 1 1 169.9 13
-"male" 2013 "kom" "340" "n.dead5" "d5" 1 1 26238.9 12
+"male" 2013 "kom" "340" "n.dead5" "d5" 1 1 27358.9 12
 "male" 2013 "kom" "340" "n.incidence" "d5" 1 1 412.2 32
 "male" 2013 "kom" "340" "n.prevalence" "d5" 1 1 2267.1 179
 "male" 2013 "kom" "340" "n.readmissions.30" "d5" 1 1 58.6 5
 "male" 2013 "kom" "340" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "350" "n.admissions" "d5" 1 1 244.1 21
 "male" 2013 "kom" "350" "n.admissions.ppl" "d5" 1 1 196.3 16
-"male" 2013 "kom" "350" "n.dead5" "d5" 1 1 37298.3 9
+"male" 2013 "kom" "350" "n.dead5" "d5" 1 1 38242.5 10
 "male" 2013 "kom" "350" "n.incidence" "d5" 1 1 326.7 24
 "male" 2013 "kom" "350" "n.prevalence" "d5" 1 1 1909.5 141
 "male" 2013 "kom" "350" "n.readmissions.30" "d5" 1 1 45.9 4
 "male" 2013 "kom" "350" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "male" 2013 "kom" "360" "n.admissions" "d5" 1 1 282.8 47
 "male" 2013 "kom" "360" "n.admissions.ppl" "d5" 1 1 204.1 34
-"male" 2013 "kom" "360" "n.dead5" "d5" 1 1 25367 22
+"male" 2013 "kom" "360" "n.dead5" "d5" 1 1 26429.4 23
 "male" 2013 "kom" "360" "n.incidence" "d5" 1 1 347.3 56
 "male" 2013 "kom" "360" "n.prevalence" "d5" 1 1 2027.3 327
 "male" 2013 "kom" "360" "n.readmissions.30" "d5" 1 1 82.8 13
 "male" 2013 "kom" "360" "n.readmissions.ppl.30" "d5" 1 1 NA 11
 "male" 2013 "kom" "370" "n.admissions" "d5" 1 1 328.6 70
 "male" 2013 "kom" "370" "n.admissions.ppl" "d5" 1 1 248.8 54
-"male" 2013 "kom" "370" "n.dead5" "d5" 1 1 20748.4 27
+"male" 2013 "kom" "370" "n.dead5" "d5" 1 1 21405.9 27
 "male" 2013 "kom" "370" "n.incidence" "d5" 1 1 331.6 70
 "male" 2013 "kom" "370" "n.prevalence" "d5" 1 1 1983.4 423
 "male" 2013 "kom" "370" "n.readmissions.30" "d5" 1 1 86.9 17
 "male" 2013 "kom" "370" "n.readmissions.ppl.30" "d5" 1 1 18191.4 15
 "male" 2013 "kom" "376" "n.admissions" "d5" 1 1 300 60
 "male" 2013 "kom" "376" "n.admissions.ppl" "d5" 1 1 229 46
-"male" 2013 "kom" "376" "n.dead5" "d5" 1 1 23368.9 24
+"male" 2013 "kom" "376" "n.dead5" "d5" 1 1 24853.8 25
 "male" 2013 "kom" "376" "n.incidence" "d5" 1 1 309.6 61
 "male" 2013 "kom" "376" "n.prevalence" "d5" 1 1 2043.8 406
 "male" 2013 "kom" "376" "n.readmissions.30" "d5" 1 1 78.9 16
 "male" 2013 "kom" "376" "n.readmissions.ppl.30" "d5" 1 1 24444.8 13
 "male" 2013 "kom" "390" "n.admissions" "d5" 1 1 299.8 44
 "male" 2013 "kom" "390" "n.admissions.ppl" "d5" 1 1 212.1 31
-"male" 2013 "kom" "390" "n.dead5" "d5" 1 1 28972.5 17
+"male" 2013 "kom" "390" "n.dead5" "d5" 1 1 29326.6 18
 "male" 2013 "kom" "390" "n.incidence" "d5" 1 1 293.5 41
 "male" 2013 "kom" "390" "n.prevalence" "d5" 1 1 1861.2 264
 "male" 2013 "kom" "390" "n.readmissions.30" "d5" 1 1 73.6 12
 "male" 2013 "kom" "390" "n.readmissions.ppl.30" "d5" 1 1 NA 8
 "male" 2013 "kom" "400" "n.admissions" "d5" 1 1 251.8 37
 "male" 2013 "kom" "400" "n.admissions.ppl" "d5" 1 1 177.4 26
-"male" 2013 "kom" "400" "n.dead5" "d5" 1 1 27467.7 14
+"male" 2013 "kom" "400" "n.dead5" "d5" 1 1 27989.1 15
 "male" 2013 "kom" "400" "n.incidence" "d5" 1 1 299.4 43
 "male" 2013 "kom" "400" "n.prevalence" "d5" 1 1 1627.5 235
 "male" 2013 "kom" "400" "n.readmissions.30" "d5" 1 1 77.1 11
@@ -12622,7 +12622,7 @@
 "male" 2013 "kom" "411" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "420" "n.admissions" "d5" 1 1 426 53
 "male" 2013 "kom" "420" "n.admissions.ppl" "d5" 1 1 282.9 35
-"male" 2013 "kom" "420" "n.dead5" "d5" 1 1 24059.3 18
+"male" 2013 "kom" "420" "n.dead5" "d5" 1 1 24491.5 19
 "male" 2013 "kom" "420" "n.incidence" "d5" 1 1 415 49
 "male" 2013 "kom" "420" "n.prevalence" "d5" 1 1 2723.4 320
 "male" 2013 "kom" "420" "n.readmissions.30" "d5" 1 1 141.6 17
@@ -12650,14 +12650,14 @@
 "male" 2013 "kom" "450" "n.readmissions.ppl.30" "d5" 1 1 NA 11
 "male" 2013 "kom" "461" "n.admissions" "d5" 1 1 404.8 179
 "male" 2013 "kom" "461" "n.admissions.ppl" "d5" 1 1 261 114
-"male" 2013 "kom" "461" "n.dead5" "d5" 1 1 26564.6 73
+"male" 2013 "kom" "461" "n.dead5" "d5" 1 1 26750.9 74
 "male" 2013 "kom" "461" "n.incidence" "d5" 1 1 448.4 191
 "male" 2013 "kom" "461" "n.prevalence" "d5" 1 1 3357.9 1435
 "male" 2013 "kom" "461" "n.readmissions.30" "d5" 1 1 130.3 57
 "male" 2013 "kom" "461" "n.readmissions.ppl.30" "d5" 1 1 33934.6 39
 "male" 2013 "kom" "479" "n.admissions" "d5" 1 1 432.7 68
 "male" 2013 "kom" "479" "n.admissions.ppl" "d5" 1 1 251.5 40
-"male" 2013 "kom" "479" "n.dead5" "d5" 1 1 27512.2 27
+"male" 2013 "kom" "479" "n.dead5" "d5" 1 1 35108.3 28
 "male" 2013 "kom" "479" "n.incidence" "d5" 1 1 456 76
 "male" 2013 "kom" "479" "n.prevalence" "d5" 1 1 2791.1 463
 "male" 2013 "kom" "479" "n.readmissions.30" "d5" 1 1 168.3 26
@@ -12685,7 +12685,7 @@
 "male" 2013 "kom" "492" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "510" "n.admissions" "d5" 1 1 440.4 69
 "male" 2013 "kom" "510" "n.admissions.ppl" "d5" 1 1 285.6 44
-"male" 2013 "kom" "510" "n.dead5" "d5" 1 1 19903.1 18
+"male" 2013 "kom" "510" "n.dead5" "d5" 1 1 20139.2 18
 "male" 2013 "kom" "510" "n.incidence" "d5" 1 1 347.1 54
 "male" 2013 "kom" "510" "n.prevalence" "d5" 1 1 2328.5 356
 "male" 2013 "kom" "510" "n.readmissions.30" "d5" 1 1 114 18
@@ -12699,21 +12699,21 @@
 "male" 2013 "kom" "530" "n.readmissions.ppl.30" "d5" 1 1 18149.2 5
 "male" 2013 "kom" "540" "n.admissions" "d5" 1 1 330.6 73
 "male" 2013 "kom" "540" "n.admissions.ppl" "d5" 1 1 237.3 53
-"male" 2013 "kom" "540" "n.dead5" "d5" 1 1 NA 22
+"male" 2013 "kom" "540" "n.dead5" "d5" 1 1 NA 23
 "male" 2013 "kom" "540" "n.incidence" "d5" 1 1 331.8 74
 "male" 2013 "kom" "540" "n.prevalence" "d5" 1 1 2428.7 526
 "male" 2013 "kom" "540" "n.readmissions.30" "d5" 1 1 94.6 20
 "male" 2013 "kom" "540" "n.readmissions.ppl.30" "d5" 1 1 NA 16
 "male" 2013 "kom" "550" "n.admissions" "d5" 1 1 276.2 33
 "male" 2013 "kom" "550" "n.admissions.ppl" "d5" 1 1 202.5 25
-"male" 2013 "kom" "550" "n.dead5" "d5" 1 1 NA 9
+"male" 2013 "kom" "550" "n.dead5" "d5" 1 1 NA 10
 "male" 2013 "kom" "550" "n.incidence" "d5" 1 1 296.1 36
 "male" 2013 "kom" "550" "n.prevalence" "d5" 1 1 2207.7 255
 "male" 2013 "kom" "550" "n.readmissions.30" "d5" 1 1 58.1 7
 "male" 2013 "kom" "550" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "male" 2013 "kom" "561" "n.admissions" "d5" 1 1 455.3 127
 "male" 2013 "kom" "561" "n.admissions.ppl" "d5" 1 1 301.9 88
-"male" 2013 "kom" "561" "n.dead5" "d5" 1 1 25045.6 32
+"male" 2013 "kom" "561" "n.dead5" "d5" 1 1 26620.3 34
 "male" 2013 "kom" "561" "n.incidence" "d5" 1 1 317.4 95
 "male" 2013 "kom" "561" "n.prevalence" "d5" 1 1 2822.7 800
 "male" 2013 "kom" "561" "n.readmissions.30" "d5" 1 1 132.1 34
@@ -12727,21 +12727,21 @@
 "male" 2013 "kom" "563" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "573" "n.admissions" "d5" 1 1 340.6 47
 "male" 2013 "kom" "573" "n.admissions.ppl" "d5" 1 1 242.4 34
-"male" 2013 "kom" "573" "n.dead5" "d5" 1 1 33056.6 19
+"male" 2013 "kom" "573" "n.dead5" "d5" 1 1 35542.5 21
 "male" 2013 "kom" "573" "n.incidence" "d5" 1 1 345.5 47
 "male" 2013 "kom" "573" "n.prevalence" "d5" 1 1 2149.5 302
 "male" 2013 "kom" "573" "n.readmissions.30" "d5" 1 1 86.5 11
 "male" 2013 "kom" "573" "n.readmissions.ppl.30" "d5" 1 1 NA 10
 "male" 2013 "kom" "575" "n.admissions" "d5" 1 1 301.3 37
 "male" 2013 "kom" "575" "n.admissions.ppl" "d5" 1 1 213.4 26
-"male" 2013 "kom" "575" "n.dead5" "d5" 1 1 19681.7 11
+"male" 2013 "kom" "575" "n.dead5" "d5" 1 1 20656.7 11
 "male" 2013 "kom" "575" "n.incidence" "d5" 1 1 298.4 36
 "male" 2013 "kom" "575" "n.prevalence" "d5" 1 1 2170.9 250
 "male" 2013 "kom" "575" "n.readmissions.30" "d5" 1 1 54 7
 "male" 2013 "kom" "575" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "male" 2013 "kom" "580" "n.admissions" "d5" 1 1 339.9 58
 "male" 2013 "kom" "580" "n.admissions.ppl" "d5" 1 1 248.8 42
-"male" 2013 "kom" "580" "n.dead5" "d5" 1 1 21452 23
+"male" 2013 "kom" "580" "n.dead5" "d5" 1 1 21934.8 24
 "male" 2013 "kom" "580" "n.incidence" "d5" 1 1 369.2 62
 "male" 2013 "kom" "580" "n.prevalence" "d5" 1 1 2319.6 394
 "male" 2013 "kom" "580" "n.readmissions.30" "d5" 1 1 90.2 16
@@ -12755,28 +12755,28 @@
 "male" 2013 "kom" "607" "n.readmissions.ppl.30" "d5" 1 1 26754.2 15
 "male" 2013 "kom" "615" "n.admissions" "d5" 1 1 277.1 56
 "male" 2013 "kom" "615" "n.admissions.ppl" "d5" 1 1 204.1 42
-"male" 2013 "kom" "615" "n.dead5" "d5" 1 1 24538.8 20
+"male" 2013 "kom" "615" "n.dead5" "d5" 1 1 24731.9 20
 "male" 2013 "kom" "615" "n.incidence" "d5" 1 1 272.2 56
 "male" 2013 "kom" "615" "n.prevalence" "d5" 1 1 2185.9 430
 "male" 2013 "kom" "615" "n.readmissions.30" "d5" 1 1 57.7 12
 "male" 2013 "kom" "615" "n.readmissions.ppl.30" "d5" 1 1 21647.6 11
 "male" 2013 "kom" "621" "n.admissions" "d5" 1 1 477.8 103
 "male" 2013 "kom" "621" "n.admissions.ppl" "d5" 1 1 303.2 66
-"male" 2013 "kom" "621" "n.dead5" "d5" 1 1 21167.5 23
+"male" 2013 "kom" "621" "n.dead5" "d5" 1 1 21379 23
 "male" 2013 "kom" "621" "n.incidence" "d5" 1 1 344.5 76
 "male" 2013 "kom" "621" "n.prevalence" "d5" 1 1 2727.6 581
 "male" 2013 "kom" "621" "n.readmissions.30" "d5" 1 1 130.8 27
 "male" 2013 "kom" "621" "n.readmissions.ppl.30" "d5" 1 1 24455 19
 "male" 2013 "kom" "630" "n.admissions" "d5" 1 1 396.3 103
 "male" 2013 "kom" "630" "n.admissions.ppl" "d5" 1 1 285.2 75
-"male" 2013 "kom" "630" "n.dead5" "d5" 1 1 24278.3 29
+"male" 2013 "kom" "630" "n.dead5" "d5" 1 1 25147.5 30
 "male" 2013 "kom" "630" "n.incidence" "d5" 1 1 293.2 79
 "male" 2013 "kom" "630" "n.prevalence" "d5" 1 1 2468 642
 "male" 2013 "kom" "630" "n.readmissions.30" "d5" 1 1 88.6 23
 "male" 2013 "kom" "630" "n.readmissions.ppl.30" "d5" 1 1 19731.9 19
 "male" 2013 "kom" "657" "n.admissions" "d5" 1 1 313.4 65
 "male" 2013 "kom" "657" "n.admissions.ppl" "d5" 1 1 234.6 48
-"male" 2013 "kom" "657" "n.dead5" "d5" 1 1 22155.3 22
+"male" 2013 "kom" "657" "n.dead5" "d5" 1 1 22366.4 22
 "male" 2013 "kom" "657" "n.incidence" "d5" 1 1 303.1 65
 "male" 2013 "kom" "657" "n.prevalence" "d5" 1 1 2210.5 451
 "male" 2013 "kom" "657" "n.readmissions.30" "d5" 1 1 82.7 18
@@ -12804,7 +12804,7 @@
 "male" 2013 "kom" "671" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "male" 2013 "kom" "706" "n.admissions" "d5" 1 1 238 31
 "male" 2013 "kom" "706" "n.admissions.ppl" "d5" 1 1 180.6 24
-"male" 2013 "kom" "706" "n.dead5" "d5" 1 1 NA 9
+"male" 2013 "kom" "706" "n.dead5" "d5" 1 1 NA 10
 "male" 2013 "kom" "706" "n.incidence" "d5" 1 1 261 32
 "male" 2013 "kom" "706" "n.prevalence" "d5" 1 1 1779.6 228
 "male" 2013 "kom" "706" "n.readmissions.30" "d5" 1 1 60.6 8
@@ -12832,14 +12832,14 @@
 "male" 2013 "kom" "727" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "730" "n.admissions" "d5" 1 1 344.6 84
 "male" 2013 "kom" "730" "n.admissions.ppl" "d5" 1 1 251.1 62
-"male" 2013 "kom" "730" "n.dead5" "d5" 1 1 23162.3 30
+"male" 2013 "kom" "730" "n.dead5" "d5" 1 1 25764.5 31
 "male" 2013 "kom" "730" "n.incidence" "d5" 1 1 344.9 82
 "male" 2013 "kom" "730" "n.prevalence" "d5" 1 1 1816.1 455
 "male" 2013 "kom" "730" "n.readmissions.30" "d5" 1 1 92.3 21
 "male" 2013 "kom" "730" "n.readmissions.ppl.30" "d5" 1 1 22953.1 18
 "male" 2013 "kom" "740" "n.admissions" "d5" 1 1 220.7 48
 "male" 2013 "kom" "740" "n.admissions.ppl" "d5" 1 1 166.7 36
-"male" 2013 "kom" "740" "n.dead5" "d5" 1 1 16609.1 19
+"male" 2013 "kom" "740" "n.dead5" "d5" 1 1 17521.6 21
 "male" 2013 "kom" "740" "n.incidence" "d5" 1 1 323.1 70
 "male" 2013 "kom" "740" "n.prevalence" "d5" 1 1 1990.5 434
 "male" 2013 "kom" "740" "n.readmissions.30" "d5" 1 1 61.7 13
@@ -12860,7 +12860,7 @@
 "male" 2013 "kom" "746" "n.readmissions.ppl.30" "d5" 1 1 NA 6
 "male" 2013 "kom" "751" "n.admissions" "d5" 1 1 247 146
 "male" 2013 "kom" "751" "n.admissions.ppl" "d5" 1 1 179.3 106
-"male" 2013 "kom" "751" "n.dead5" "d5" 1 1 23122.2 60
+"male" 2013 "kom" "751" "n.dead5" "d5" 1 1 23316.6 60
 "male" 2013 "kom" "751" "n.incidence" "d5" 1 1 294.3 179
 "male" 2013 "kom" "751" "n.prevalence" "d5" 1 1 2003.2 1184
 "male" 2013 "kom" "751" "n.readmissions.30" "d5" 1 1 66 39
@@ -12874,7 +12874,7 @@
 "male" 2013 "kom" "756" "n.readmissions.ppl.30" "d5" 1 1 NA 5
 "male" 2013 "kom" "760" "n.admissions" "d5" 1 1 258.5 43
 "male" 2013 "kom" "760" "n.admissions.ppl" "d5" 1 1 194.6 32
-"male" 2013 "kom" "760" "n.dead5" "d5" 1 1 21829.5 18
+"male" 2013 "kom" "760" "n.dead5" "d5" 1 1 22407.2 19
 "male" 2013 "kom" "760" "n.incidence" "d5" 1 1 330.9 53
 "male" 2013 "kom" "760" "n.prevalence" "d5" 1 1 2266.7 363
 "male" 2013 "kom" "760" "n.readmissions.30" "d5" 1 1 67.6 12
@@ -12895,7 +12895,7 @@
 "male" 2013 "kom" "773" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "kom" "779" "n.admissions" "d5" 1 1 335.1 44
 "male" 2013 "kom" "779" "n.admissions.ppl" "d5" 1 1 251.8 33
-"male" 2013 "kom" "779" "n.dead5" "d5" 1 1 20682.1 17
+"male" 2013 "kom" "779" "n.dead5" "d5" 1 1 20957.1 17
 "male" 2013 "kom" "779" "n.incidence" "d5" 1 1 336.6 45
 "male" 2013 "kom" "779" "n.prevalence" "d5" 1 1 2361.4 320
 "male" 2013 "kom" "779" "n.readmissions.30" "d5" 1 1 68.9 9
@@ -12909,7 +12909,7 @@
 "male" 2013 "kom" "787" "n.readmissions.ppl.30" "d5" 1 1 NA 8
 "male" 2013 "kom" "791" "n.admissions" "d5" 1 1 245 57
 "male" 2013 "kom" "791" "n.admissions.ppl" "d5" 1 1 188.9 44
-"male" 2013 "kom" "791" "n.dead5" "d5" 1 1 17966.3 20
+"male" 2013 "kom" "791" "n.dead5" "d5" 1 1 18802.2 21
 "male" 2013 "kom" "791" "n.incidence" "d5" 1 1 305.6 73
 "male" 2013 "kom" "791" "n.prevalence" "d5" 1 1 2328.2 538
 "male" 2013 "kom" "791" "n.readmissions.30" "d5" 1 1 74.8 17
@@ -12951,7 +12951,7 @@
 "male" 2013 "kom" "840" "n.readmissions.ppl.30" "d5" 1 1 NA 4
 "male" 2013 "kom" "846" "n.admissions" "d5" 1 1 272.4 32
 "male" 2013 "kom" "846" "n.admissions.ppl" "d5" 1 1 207.2 25
-"male" 2013 "kom" "846" "n.dead5" "d5" 1 1 17210 11
+"male" 2013 "kom" "846" "n.dead5" "d5" 1 1 17998.7 12
 "male" 2013 "kom" "846" "n.incidence" "d5" 1 1 309.6 37
 "male" 2013 "kom" "846" "n.prevalence" "d5" 1 1 2024.3 243
 "male" 2013 "kom" "846" "n.readmissions.30" "d5" 1 1 63.6 7
@@ -12965,14 +12965,14 @@
 "male" 2013 "kom" "849" "n.readmissions.ppl.30" "d5" 1 1 NA 7
 "male" 2013 "kom" "851" "n.admissions" "d5" 1 1 232.7 110
 "male" 2013 "kom" "851" "n.admissions.ppl" "d5" 1 1 168.2 80
-"male" 2013 "kom" "851" "n.dead5" "d5" 1 1 24996.5 46
+"male" 2013 "kom" "851" "n.dead5" "d5" 1 1 25566.1 47
 "male" 2013 "kom" "851" "n.incidence" "d5" 1 1 258.5 123
 "male" 2013 "kom" "851" "n.prevalence" "d5" 1 1 1996.2 954
 "male" 2013 "kom" "851" "n.readmissions.30" "d5" 1 1 63.5 30
 "male" 2013 "kom" "851" "n.readmissions.ppl.30" "d5" 1 1 28893.8 22
 "male" 2013 "kom" "860" "n.admissions" "d5" 1 1 308 57
 "male" 2013 "kom" "860" "n.admissions.ppl" "d5" 1 1 217.2 40
-"male" 2013 "kom" "860" "n.dead5" "d5" 1 1 21331.7 19
+"male" 2013 "kom" "860" "n.dead5" "d5" 1 1 21595.8 19
 "male" 2013 "kom" "860" "n.incidence" "d5" 1 1 300.5 56
 "male" 2013 "kom" "860" "n.prevalence" "d5" 1 1 1664.1 316
 "male" 2013 "kom" "860" "n.readmissions.30" "d5" 1 1 88.6 16
@@ -12982,27 +12982,17 @@
 "male" 2013 "national" "national" "n.dead.year" "d5" 0 1 7 85
 "male" 2013 "national" "national" "n.dead1" "d5" 0 1 8332 565
 "male" 2013 "national" "national" "n.dead30" "d5" 0 1 2268.8 157
-"male" 2013 "national" "national" "n.dead5" "d5" 0 1 22105.2 1486
+"male" 2013 "national" "national" "n.dead5" "d5" 0 1 24340.1 1608
 "male" 2013 "national" "national" "n.incidence" "d5" 0 1 313.8 4507
 "male" 2013 "national" "national" "n.prevalence" "d5" 0 1 2188 31009
 "male" 2013 "national" "national" "n.readmissions.30" "d5" 0 1 85.6 1210
 "male" 2013 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 27946.3 937
-"male" 2013 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.dead5" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2013 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2013 "region" "Hovedstaden" "n.admissions" "d5" 1 1 357.8 1394
 "male" 2013 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 237.6 921
 "male" 2013 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7.9 25
 "male" 2013 "region" "Hovedstaden" "n.dead1" "d5" 1 1 8766.1 146
 "male" 2013 "region" "Hovedstaden" "n.dead30" "d5" 1 1 2286 40
-"male" 2013 "region" "Hovedstaden" "n.dead5" "d5" 1 1 24722 410
+"male" 2013 "region" "Hovedstaden" "n.dead5" "d5" 1 1 25418.8 420
 "male" 2013 "region" "Hovedstaden" "n.incidence" "d5" 1 1 296.5 1148
 "male" 2013 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 1955.8 7404
 "male" 2013 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 112.2 430
@@ -13012,7 +13002,7 @@
 "male" 2013 "region" "Sjælland" "n.dead.year" "d5" 1 1 8.2 15
 "male" 2013 "region" "Sjælland" "n.dead1" "d5" 1 1 8261.8 105
 "male" 2013 "region" "Sjælland" "n.dead30" "d5" 1 1 2063.9 25
-"male" 2013 "region" "Sjælland" "n.dead5" "d5" 1 1 24808.5 288
+"male" 2013 "region" "Sjælland" "n.dead5" "d5" 1 1 25657.6 297
 "male" 2013 "region" "Sjælland" "n.incidence" "d5" 1 1 346.1 791
 "male" 2013 "region" "Sjælland" "n.prevalence" "d5" 1 1 2169.6 4941
 "male" 2013 "region" "Sjælland" "n.readmissions.30" "d5" 1 1 194.5 471
@@ -13022,7 +13012,7 @@
 "male" 2013 "region" "Syddanmark" "n.dead.year" "d5" 1 1 7.7 20
 "male" 2013 "region" "Syddanmark" "n.dead1" "d5" 1 1 8045.7 149
 "male" 2013 "region" "Syddanmark" "n.dead30" "d5" 1 1 2148 39
-"male" 2013 "region" "Syddanmark" "n.dead5" "d5" 1 1 24082.6 412
+"male" 2013 "region" "Syddanmark" "n.dead5" "d5" 1 1 24979.5 423
 "male" 2013 "region" "Syddanmark" "n.incidence" "d5" 1 1 367.4 1182
 "male" 2013 "region" "Syddanmark" "n.prevalence" "d5" 1 1 2681.6 8512
 "male" 2013 "region" "Syddanmark" "n.readmissions.30" "d5" 1 1 115 363
@@ -13032,7 +13022,7 @@
 "male" 2013 "region" "Midtjydlland" "n.dead.year" "d5" 1 1 10.3 25
 "male" 2013 "region" "Midtjydlland" "n.dead1" "d5" 1 1 7603.9 106
 "male" 2013 "region" "Midtjydlland" "n.dead30" "d5" 1 1 2053.5 29
-"male" 2013 "region" "Midtjydlland" "n.dead5" "d5" 1 1 21325 296
+"male" 2013 "region" "Midtjydlland" "n.dead5" "d5" 1 1 21883.1 303
 "male" 2013 "region" "Midtjydlland" "n.incidence" "d5" 1 1 296.3 916
 "male" 2013 "region" "Midtjydlland" "n.prevalence" "d5" 1 1 2059.7 6269
 "male" 2013 "region" "Midtjydlland" "n.readmissions.30" "d5" 1 1 68.5 209
@@ -13042,11 +13032,21 @@
 "male" 2013 "region" "Nordjylland" "n.dead.year" "d5" 1 1 8.7 12
 "male" 2013 "region" "Nordjylland" "n.dead1" "d5" 1 1 8360.6 60
 "male" 2013 "region" "Nordjylland" "n.dead30" "d5" 1 1 2095.7 16
-"male" 2013 "region" "Nordjylland" "n.dead5" "d5" 1 1 22914.9 151
+"male" 2013 "region" "Nordjylland" "n.dead5" "d5" 1 1 23439.2 154
 "male" 2013 "region" "Nordjylland" "n.incidence" "d5" 1 1 267.1 423
 "male" 2013 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1970.7 3144
 "male" 2013 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 72.3 114
 "male" 2013 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 26755.2 87
+"male" 2013 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead5" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2013 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2014 "age" "85+" "n.admissions" "d5" 0 0 753.2 282
 "male" 2014 "age" "85+" "n.admissions.ppl" "d5" 0 0 558.2 209
 "male" 2014 "age" "85+" "n.dead.year" "d5" 0 0 53.4 20
@@ -13765,15 +13765,6 @@
 "male" 2014 "national" "national" "n.prevalence" "d5" 0 1 2193.9 31751
 "male" 2014 "national" "national" "n.readmissions.30" "d5" 0 1 83 1211
 "male" 2014 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 27535.8 936
-"male" 2014 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2014 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2014 "region" "Hovedstaden" "n.admissions" "d5" 1 1 340.3 1339
 "male" 2014 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 232 912
 "male" 2014 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7.4 25
@@ -13819,6 +13810,15 @@
 "male" 2014 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1969.3 3195
 "male" 2014 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 64.5 105
 "male" 2014 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 26634.1 80
+"male" 2014 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2014 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2015 "age" "85+" "n.admissions" "d5" 0 0 684.4 264
 "male" 2015 "age" "85+" "n.admissions.ppl" "d5" 0 0 515.9 199
 "male" 2015 "age" "85+" "n.dead.year" "d5" 0 0 51.8 20
@@ -14537,15 +14537,6 @@
 "male" 2015 "national" "national" "n.prevalence" "d5" 0 1 2183 32301
 "male" 2015 "national" "national" "n.readmissions.30" "d5" 0 1 84.5 1269
 "male" 2015 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 29484.2 970
-"male" 2015 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2015 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2015 "region" "Hovedstaden" "n.admissions" "d5" 1 1 314.8 1260
 "male" 2015 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 221.1 885
 "male" 2015 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7 24
@@ -14591,6 +14582,15 @@
 "male" 2015 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1957.3 3232
 "male" 2015 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 63.8 107
 "male" 2015 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 23066.4 83
+"male" 2015 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2015 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2016 "age" "85+" "n.admissions" "d5" 0 0 767.2 302
 "male" 2016 "age" "85+" "n.admissions.ppl" "d5" 0 0 556.3 219
 "male" 2016 "age" "85+" "n.dead.year" "d5" 0 0 63.5 25
@@ -15309,15 +15309,6 @@
 "male" 2016 "national" "national" "n.prevalence" "d5" 0 1 2173.1 32825
 "male" 2016 "national" "national" "n.readmissions.30" "d5" 0 1 82.1 1243
 "male" 2016 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 26602.4 962
-"male" 2016 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2016 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2016 "region" "Hovedstaden" "n.admissions" "d5" 1 1 320.4 1311
 "male" 2016 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 221.7 905
 "male" 2016 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7.9 28
@@ -15363,11 +15354,20 @@
 "male" 2016 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1928.3 3245
 "male" 2016 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 67 114
 "male" 2016 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 22679 89
+"male" 2016 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2016 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2017 "age" "85+" "n.admissions" "d5" 0 0 715.9 289
 "male" 2017 "age" "85+" "n.admissions.ppl" "d5" 0 0 542.5 219
 "male" 2017 "age" "85+" "n.dead.year" "d5" 0 0 42.1 17
-"male" 2017 "age" "85+" "n.dead1" "d5" 0 0 28484.8 94
-"male" 2017 "age" "85+" "n.dead30" "d5" 0 0 11515.2 38
+"male" 2017 "age" "85+" "n.dead1" "d5" 0 0 44242.4 146
+"male" 2017 "age" "85+" "n.dead30" "d5" 0 0 12121.2 40
 "male" 2017 "age" "85+" "n.incidence" "d5" 0 0 817.5 330
 "male" 2017 "age" "85+" "n.prevalence" "d5" 0 0 6242.9 2520
 "male" 2017 "age" "85+" "n.readmissions.30" "d5" 0 0 205.6 83
@@ -15375,8 +15375,8 @@
 "male" 2017 "age" "65 - 74" "n.admissions" "d5" 0 0 538 1684
 "male" 2017 "age" "65 - 74" "n.admissions.ppl" "d5" 0 0 370.3 1159
 "male" 2017 "age" "65 - 74" "n.dead.year" "d5" 0 0 7.7 24
-"male" 2017 "age" "65 - 74" "n.dead1" "d5" 0 0 5131.3 86
-"male" 2017 "age" "65 - 74" "n.dead30" "d5" 0 0 2028.6 34
+"male" 2017 "age" "65 - 74" "n.dead1" "d5" 0 0 9486.9 159
+"male" 2017 "age" "65 - 74" "n.dead30" "d5" 0 0 2088.3 35
 "male" 2017 "age" "65 - 74" "n.incidence" "d5" 0 0 535.4 1676
 "male" 2017 "age" "65 - 74" "n.prevalence" "d5" 0 0 3945.3 12350
 "male" 2017 "age" "65 - 74" "n.readmissions.30" "d5" 0 0 154 482
@@ -15384,8 +15384,8 @@
 "male" 2017 "age" "75 - 84" "n.admissions" "d5" 0 0 681.6 1011
 "male" 2017 "age" "75 - 84" "n.admissions.ppl" "d5" 0 0 475.3 705
 "male" 2017 "age" "75 - 84" "n.dead.year" "d5" 0 0 23.6 35
-"male" 2017 "age" "75 - 84" "n.dead1" "d5" 0 0 11918.1 128
-"male" 2017 "age" "75 - 84" "n.dead30" "d5" 0 0 4376.2 47
+"male" 2017 "age" "75 - 84" "n.dead1" "d5" 0 0 18528.9 199
+"male" 2017 "age" "75 - 84" "n.dead30" "d5" 0 0 4469.3 48
 "male" 2017 "age" "75 - 84" "n.incidence" "d5" 0 0 724 1074
 "male" 2017 "age" "75 - 84" "n.prevalence" "d5" 0 0 5780.8 8575
 "male" 2017 "age" "75 - 84" "n.readmissions.30" "d5" 0 0 214.4 318
@@ -15393,7 +15393,7 @@
 "male" 2017 "age" "45 - 54" "n.admissions" "d5" 0 0 91.4 375
 "male" 2017 "age" "45 - 54" "n.admissions.ppl" "d5" 0 0 67.5 277
 "male" 2017 "age" "45 - 54" "n.dead.year" "d5" 0 0 NA NA
-"male" 2017 "age" "45 - 54" "n.dead1" "d5" 0 0 2057.6 10
+"male" 2017 "age" "45 - 54" "n.dead1" "d5" 0 0 5555.6 27
 "male" 2017 "age" "45 - 54" "n.dead30" "d5" 0 0 NA NA
 "male" 2017 "age" "45 - 54" "n.incidence" "d5" 0 0 118.4 486
 "male" 2017 "age" "45 - 54" "n.prevalence" "d5" 0 0 656.3 2693
@@ -15402,8 +15402,8 @@
 "male" 2017 "age" "55 - 64" "n.admissions" "d5" 0 0 265.1 926
 "male" 2017 "age" "55 - 64" "n.admissions.ppl" "d5" 0 0 190.1 664
 "male" 2017 "age" "55 - 64" "n.dead.year" "d5" 0 0 NA NA
-"male" 2017 "age" "55 - 64" "n.dead1" "d5" 0 0 3730.7 41
-"male" 2017 "age" "55 - 64" "n.dead30" "d5" 0 0 1819.8 20
+"male" 2017 "age" "55 - 64" "n.dead1" "d5" 0 0 6824.4 75
+"male" 2017 "age" "55 - 64" "n.dead30" "d5" 0 0 1910.8 21
 "male" 2017 "age" "55 - 64" "n.incidence" "d5" 0 0 314.6 1099
 "male" 2017 "age" "55 - 64" "n.prevalence" "d5" 0 0 1882 6574
 "male" 2017 "age" "55 - 64" "n.readmissions.30" "d5" 0 0 61.8 216
@@ -15420,7 +15420,7 @@
 "male" 2017 "edu" "unknown" "n.admissions" "d5" 1 1 321 119
 "male" 2017 "edu" "unknown" "n.admissions.ppl" "d5" 1 1 219.9 82
 "male" 2017 "edu" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2017 "edu" "unknown" "n.dead1" "d5" 1 1 4077.6 7
+"male" 2017 "edu" "unknown" "n.dead1" "d5" 1 1 5208.3 10
 "male" 2017 "edu" "unknown" "n.dead30" "d5" 1 1 NA NA
 "male" 2017 "edu" "unknown" "n.incidence" "d5" 1 1 336.7 132
 "male" 2017 "edu" "unknown" "n.prevalence" "d5" 1 1 2139 784
@@ -15429,8 +15429,8 @@
 "male" 2017 "edu" "basic" "n.admissions" "d5" 1 1 348.1 1355
 "male" 2017 "edu" "basic" "n.admissions.ppl" "d5" 1 1 241.1 936
 "male" 2017 "edu" "basic" "n.dead.year" "d5" 1 1 4.6 19
-"male" 2017 "edu" "basic" "n.dead1" "d5" 1 1 5915.9 123
-"male" 2017 "edu" "basic" "n.dead30" "d5" 1 1 1688.9 36
+"male" 2017 "edu" "basic" "n.dead1" "d5" 1 1 6993.9 141
+"male" 2017 "edu" "basic" "n.dead30" "d5" 1 1 1736.6 37
 "male" 2017 "edu" "basic" "n.incidence" "d5" 1 1 343.9 1328
 "male" 2017 "edu" "basic" "n.prevalence" "d5" 1 1 2430 9491
 "male" 2017 "edu" "basic" "n.readmissions.30" "d5" 1 1 95.9 375
@@ -15438,7 +15438,7 @@
 "male" 2017 "edu" "tertiary" "n.admissions" "d5" 1 1 151.9 380
 "male" 2017 "edu" "tertiary" "n.admissions.ppl" "d5" 1 1 107.4 269
 "male" 2017 "edu" "tertiary" "n.dead.year" "d5" 1 1 1.5 4
-"male" 2017 "edu" "tertiary" "n.dead1" "d5" 1 1 3604.5 30
+"male" 2017 "edu" "tertiary" "n.dead1" "d5" 1 1 4223.5 35
 "male" 2017 "edu" "tertiary" "n.dead30" "d5" 1 1 732.5 6
 "male" 2017 "edu" "tertiary" "n.incidence" "d5" 1 1 184 463
 "male" 2017 "edu" "tertiary" "n.prevalence" "d5" 1 1 1230.7 3057
@@ -15447,8 +15447,8 @@
 "male" 2017 "edu" "secondary" "n.admissions" "d5" 1 1 256.9 1786
 "male" 2017 "edu" "secondary" "n.admissions.ppl" "d5" 1 1 180.1 1253
 "male" 2017 "edu" "secondary" "n.dead.year" "d5" 1 1 2.8 18
-"male" 2017 "edu" "secondary" "n.dead1" "d5" 1 1 4281.6 133
-"male" 2017 "edu" "secondary" "n.dead30" "d5" 1 1 1086.5 32
+"male" 2017 "edu" "secondary" "n.dead1" "d5" 1 1 5213.5 160
+"male" 2017 "edu" "secondary" "n.dead30" "d5" 1 1 1098 33
 "male" 2017 "edu" "secondary" "n.incidence" "d5" 1 1 263.9 1830
 "male" 2017 "edu" "secondary" "n.prevalence" "d5" 1 1 1847.2 12724
 "male" 2017 "edu" "secondary" "n.readmissions.30" "d5" 1 1 70 483
@@ -15456,7 +15456,7 @@
 "male" 2017 "edu" "postgraduate" "n.admissions" "d5" 1 1 95.4 108
 "male" 2017 "edu" "postgraduate" "n.admissions.ppl" "d5" 1 1 64.2 73
 "male" 2017 "edu" "postgraduate" "n.dead.year" "d5" 1 1 NA NA
-"male" 2017 "edu" "postgraduate" "n.dead1" "d5" 1 1 3305.6 8
+"male" 2017 "edu" "postgraduate" "n.dead1" "d5" 1 1 3828.3 10
 "male" 2017 "edu" "postgraduate" "n.dead30" "d5" 1 1 NA NA
 "male" 2017 "edu" "postgraduate" "n.incidence" "d5" 1 1 127.5 149
 "male" 2017 "edu" "postgraduate" "n.prevalence" "d5" 1 1 785.5 911
@@ -16075,26 +16075,17 @@
 "male" 2017 "national" "national" "n.admissions" "d5" 0 1 279.3 4367
 "male" 2017 "national" "national" "n.admissions.ppl" "d5" 0 1 198.2 3090
 "male" 2017 "national" "national" "n.dead.year" "d5" 0 1 6.1 83
-"male" 2017 "national" "national" "n.dead1" "d5" 0 1 4573.1 359
-"male" 2017 "national" "national" "n.dead30" "d5" 0 1 1829 142
+"male" 2017 "national" "national" "n.dead1" "d5" 0 1 8034.9 606
+"male" 2017 "national" "national" "n.dead30" "d5" 0 1 1925.2 148
 "male" 2017 "national" "national" "n.incidence" "d5" 0 1 306.9 4790
 "male" 2017 "national" "national" "n.prevalence" "d5" 0 1 2161.6 33374
 "male" 2017 "national" "national" "n.readmissions.30" "d5" 0 1 76.6 1186
 "male" 2017 "national" "national" "n.readmissions.ppl.30" "d5" 0 1 24720.2 935
-"male" 2017 "region" "unknown" "n.admissions" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.admissions.ppl" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.dead.year" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.dead1" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.dead30" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.incidence" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.prevalence" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.readmissions.30" "d5" 1 1 NA NA
-"male" 2017 "region" "unknown" "n.readmissions.ppl.30" "d5" 1 1 NA NA
 "male" 2017 "region" "Hovedstaden" "n.admissions" "d5" 1 1 316.5 1318
 "male" 2017 "region" "Hovedstaden" "n.admissions.ppl" "d5" 1 1 220.7 915
 "male" 2017 "region" "Hovedstaden" "n.dead.year" "d5" 1 1 7.2 26
-"male" 2017 "region" "Hovedstaden" "n.dead1" "d5" 1 1 7319.5 157
-"male" 2017 "region" "Hovedstaden" "n.dead30" "d5" 1 1 2139.8 43
+"male" 2017 "region" "Hovedstaden" "n.dead1" "d5" 1 1 8221.3 175
+"male" 2017 "region" "Hovedstaden" "n.dead30" "d5" 1 1 2166.5 44
 "male" 2017 "region" "Hovedstaden" "n.incidence" "d5" 1 1 313.8 1299
 "male" 2017 "region" "Hovedstaden" "n.prevalence" "d5" 1 1 2002.9 8199
 "male" 2017 "region" "Hovedstaden" "n.readmissions.30" "d5" 1 1 90.8 374
@@ -16102,8 +16093,8 @@
 "male" 2017 "region" "Sjælland" "n.admissions" "d5" 1 1 299.5 751
 "male" 2017 "region" "Sjælland" "n.admissions.ppl" "d5" 1 1 208 521
 "male" 2017 "region" "Sjælland" "n.dead.year" "d5" 1 1 6.4 14
-"male" 2017 "region" "Sjælland" "n.dead1" "d5" 1 1 6067.3 90
-"male" 2017 "region" "Sjælland" "n.dead30" "d5" 1 1 1764.7 26
+"male" 2017 "region" "Sjælland" "n.dead1" "d5" 1 1 7125 105
+"male" 2017 "region" "Sjælland" "n.dead30" "d5" 1 1 1782.5 27
 "male" 2017 "region" "Sjælland" "n.incidence" "d5" 1 1 364.4 909
 "male" 2017 "region" "Sjælland" "n.prevalence" "d5" 1 1 2319.8 5767
 "male" 2017 "region" "Sjælland" "n.readmissions.30" "d5" 1 1 93.4 231
@@ -16111,8 +16102,8 @@
 "male" 2017 "region" "Syddanmark" "n.admissions" "d5" 1 1 342.7 1209
 "male" 2017 "region" "Syddanmark" "n.admissions.ppl" "d5" 1 1 233 821
 "male" 2017 "region" "Syddanmark" "n.dead.year" "d5" 1 1 5.8 17
-"male" 2017 "region" "Syddanmark" "n.dead1" "d5" 1 1 6657.6 117
-"male" 2017 "region" "Syddanmark" "n.dead30" "d5" 1 1 1672.8 30
+"male" 2017 "region" "Syddanmark" "n.dead1" "d5" 1 1 8090.8 140
+"male" 2017 "region" "Syddanmark" "n.dead30" "d5" 1 1 1753.9 31
 "male" 2017 "region" "Syddanmark" "n.incidence" "d5" 1 1 315.2 1100
 "male" 2017 "region" "Syddanmark" "n.prevalence" "d5" 1 1 2576.6 8891
 "male" 2017 "region" "Syddanmark" "n.readmissions.30" "d5" 1 1 91.7 321
@@ -16120,8 +16111,8 @@
 "male" 2017 "region" "Midtjydlland" "n.admissions" "d5" 1 1 221 747
 "male" 2017 "region" "Midtjydlland" "n.admissions.ppl" "d5" 1 1 166.3 560
 "male" 2017 "region" "Midtjydlland" "n.dead.year" "d5" 1 1 6.3 18
-"male" 2017 "region" "Midtjydlland" "n.dead1" "d5" 1 1 6634.7 98
-"male" 2017 "region" "Midtjydlland" "n.dead30" "d5" 1 1 2096.7 29
+"male" 2017 "region" "Midtjydlland" "n.dead1" "d5" 1 1 7937.2 115
+"male" 2017 "region" "Midtjydlland" "n.dead30" "d5" 1 1 2118.7 30
 "male" 2017 "region" "Midtjydlland" "n.incidence" "d5" 1 1 270 921
 "male" 2017 "region" "Midtjydlland" "n.prevalence" "d5" 1 1 2004.8 6722
 "male" 2017 "region" "Midtjydlland" "n.readmissions.30" "d5" 1 1 57.4 191
@@ -16129,9 +16120,18 @@
 "male" 2017 "region" "Nordjylland" "n.admissions" "d5" 1 1 241.1 414
 "male" 2017 "region" "Nordjylland" "n.admissions.ppl" "d5" 1 1 172.4 295
 "male" 2017 "region" "Nordjylland" "n.dead.year" "d5" 1 1 6.5 10
-"male" 2017 "region" "Nordjylland" "n.dead1" "d5" 1 1 6720.4 45
+"male" 2017 "region" "Nordjylland" "n.dead1" "d5" 1 1 8321.1 54
 "male" 2017 "region" "Nordjylland" "n.dead30" "d5" 1 1 1720.1 13
 "male" 2017 "region" "Nordjylland" "n.incidence" "d5" 1 1 240.9 413
 "male" 2017 "region" "Nordjylland" "n.prevalence" "d5" 1 1 1896.8 3254
 "male" 2017 "region" "Nordjylland" "n.readmissions.30" "d5" 1 1 67.2 115
 "male" 2017 "region" "Nordjylland" "n.readmissions.ppl.30" "d5" 1 1 28862.7 89
+"male" 2017 "region" "9" "n.admissions" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.admissions.ppl" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.dead.year" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.dead1" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.dead30" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.incidence" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.prevalence" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.readmissions.30" "d5" 1 1 NA NA
+"male" 2017 "region" "9" "n.readmissions.ppl.30" "d5" 1 1 NA NA
