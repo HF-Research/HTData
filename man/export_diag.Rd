@@ -4,9 +4,11 @@
 \name{export_diag}
 \alias{export_diag}
 \title{Diag data}
-\format{A data frame }
+\format{
+A data frame with 7772 rows and 2 variables:
+}
 \source{
-{Danish national registries}
+{Aalborg census 1850. Data entered by ___}
 }
 \usage{
 export_diag

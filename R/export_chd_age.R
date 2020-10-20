@@ -1,3 +1,9 @@
-## code to prepare `export_opr` dataset goes here
-export_chd_age <- data.table::fread("inst/extdata/export_chd_age.txt", encoding = "UTF-8")
-usethis::use_data(export_chd_age, overwrite = TRUE)
+#' CHD - age data
+#'
+#' A dataset
+#'
+#'
+#' @format A data frame with 7772 rows and 2 variables:
+#'
+#' @source {HjerteTal data}
+"export_chd_age"

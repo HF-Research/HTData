@@ -4,7 +4,9 @@
 \name{export_med}
 \alias{export_med}
 \title{Med data}
-\format{A data frame with 7772 rows and 2 variables:}
+\format{
+A data frame with 7772 rows and 2 variables:
+}
 \source{
 {Aalborg census 1850. Data entered by ___}
 }
