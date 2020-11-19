@@ -2904,6 +2904,7 @@
 "female" 2014 "age" "85+" "n.dead.year" "d12" 0 0 25.5 20
 "female" 2014 "age" "85+" "n.dead1" "d12" 0 0 48936.2 23
 "female" 2014 "age" "85+" "n.dead30" "d12" 0 0 36170.2 17
+"female" 2014 "age" "85+" "n.dead5" "d12" 0 0 87234 41
 "female" 2014 "age" "85+" "n.incidence" "d12" 0 0 59.9 47
 "female" 2014 "age" "85+" "n.prevalence" "d12" 0 0 397.8 312
 "female" 2014 "age" "85+" "n.readmissions.30" "d12" 0 0 NA NA
@@ -2913,6 +2914,7 @@
 "female" 2014 "age" "65 - 74" "n.dead.year" "d12" 0 0 3.5 11
 "female" 2014 "age" "65 - 74" "n.dead1" "d12" 0 0 8888.9 16
 "female" 2014 "age" "65 - 74" "n.dead30" "d12" 0 0 6111.1 11
+"female" 2014 "age" "65 - 74" "n.dead5" "d12" 0 0 30000 54
 "female" 2014 "age" "65 - 74" "n.incidence" "d12" 0 0 57.2 180
 "female" 2014 "age" "65 - 74" "n.prevalence" "d12" 0 0 252.2 793
 "female" 2014 "age" "65 - 74" "n.readmissions.30" "d12" 0 0 4.8 15
@@ -2922,6 +2924,7 @@
 "female" 2014 "age" "75 - 84" "n.dead.year" "d12" 0 0 15.5 26
 "female" 2014 "age" "75 - 84" "n.dead1" "d12" 0 0 23684.2 45
 "female" 2014 "age" "75 - 84" "n.dead30" "d12" 0 0 10526.3 20
+"female" 2014 "age" "75 - 84" "n.dead5" "d12" 0 0 55263.2 105
 "female" 2014 "age" "75 - 84" "n.incidence" "d12" 0 0 113.3 190
 "female" 2014 "age" "75 - 84" "n.prevalence" "d12" 0 0 607.1 1018
 "female" 2014 "age" "75 - 84" "n.readmissions.30" "d12" 0 0 NA NA
@@ -2931,6 +2934,7 @@
 "female" 2014 "age" "45 - 54" "n.dead.year" "d12" 0 0 NA NA
 "female" 2014 "age" "45 - 54" "n.dead1" "d12" 0 0 NA NA
 "female" 2014 "age" "45 - 54" "n.dead30" "d12" 0 0 NA NA
+"female" 2014 "age" "45 - 54" "n.dead5" "d12" 0 0 NA NA
 "female" 2014 "age" "45 - 54" "n.incidence" "d12" 0 0 3 12
 "female" 2014 "age" "45 - 54" "n.prevalence" "d12" 0 0 13.5 54
 "female" 2014 "age" "45 - 54" "n.readmissions.30" "d12" 0 0 NA NA
@@ -2940,6 +2944,7 @@
 "female" 2014 "age" "55 - 64" "n.dead.year" "d12" 0 0 NA NA
 "female" 2014 "age" "55 - 64" "n.dead1" "d12" 0 0 NA NA
 "female" 2014 "age" "55 - 64" "n.dead30" "d12" 0 0 NA NA
+"female" 2014 "age" "55 - 64" "n.dead5" "d12" 0 0 22222.2 12
 "female" 2014 "age" "55 - 64" "n.incidence" "d12" 0 0 15.5 54
 "female" 2014 "age" "55 - 64" "n.prevalence" "d12" 0 0 61.5 214
 "female" 2014 "age" "55 - 64" "n.readmissions.30" "d12" 0 0 NA NA
@@ -2949,6 +2954,7 @@
 "female" 2014 "age" "35 - 44" "n.dead.year" "d12" 0 0 NA NA
 "female" 2014 "age" "35 - 44" "n.dead1" "d12" 0 0 NA NA
 "female" 2014 "age" "35 - 44" "n.dead30" "d12" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.dead5" "d12" 0 0 NA NA
 "female" 2014 "age" "35 - 44" "n.incidence" "d12" 0 0 NA NA
 "female" 2014 "age" "35 - 44" "n.prevalence" "d12" 0 0 5.9 22
 "female" 2014 "age" "35 - 44" "n.readmissions.30" "d12" 0 0 NA NA
@@ -2958,6 +2964,7 @@
 "female" 2014 "edu" "unknown" "n.dead.year" "d12" 1 1 NA NA
 "female" 2014 "edu" "unknown" "n.dead1" "d12" 1 1 NA NA
 "female" 2014 "edu" "unknown" "n.dead30" "d12" 1 1 NA NA
+"female" 2014 "edu" "unknown" "n.dead5" "d12" 1 1 NA NA
 "female" 2014 "edu" "unknown" "n.incidence" "d12" 1 1 16.1 5
 "female" 2014 "edu" "unknown" "n.prevalence" "d12" 1 1 68.1 19
 "female" 2014 "edu" "unknown" "n.readmissions.30" "d12" 1 1 NA NA
@@ -2967,6 +2974,7 @@
 "female" 2014 "edu" "basic" "n.dead.year" "d12" 1 1 2.1 15
 "female" 2014 "edu" "basic" "n.dead1" "d12" 1 1 5871.6 29
 "female" 2014 "edu" "basic" "n.dead30" "d12" 1 1 2596.3 13
+"female" 2014 "edu" "basic" "n.dead5" "d12" 1 1 14872.2 81
 "female" 2014 "edu" "basic" "n.incidence" "d12" 1 1 30.5 194
 "female" 2014 "edu" "basic" "n.prevalence" "d12" 1 1 126.7 809
 "female" 2014 "edu" "basic" "n.readmissions.30" "d12" 1 1 2.5 16
@@ -2976,6 +2984,7 @@
 "female" 2014 "edu" "tertiary" "n.dead.year" "d12" 1 1 NA NA
 "female" 2014 "edu" "tertiary" "n.dead1" "d12" 1 1 NA NA
 "female" 2014 "edu" "tertiary" "n.dead30" "d12" 1 1 NA NA
+"female" 2014 "edu" "tertiary" "n.dead5" "d12" 1 1 NA 11
 "female" 2014 "edu" "tertiary" "n.incidence" "d12" 1 1 16.6 41
 "female" 2014 "edu" "tertiary" "n.prevalence" "d12" 1 1 80.5 200
 "female" 2014 "edu" "tertiary" "n.readmissions.30" "d12" 1 1 NA NA
@@ -2985,6 +2994,7 @@
 "female" 2014 "edu" "secondary" "n.dead.year" "d12" 1 1 1.1 5
 "female" 2014 "edu" "secondary" "n.dead1" "d12" 1 1 3466.9 11
 "female" 2014 "edu" "secondary" "n.dead30" "d12" 1 1 2028.3 6
+"female" 2014 "edu" "secondary" "n.dead5" "d12" 1 1 12778.8 33
 "female" 2014 "edu" "secondary" "n.incidence" "d12" 1 1 23.1 115
 "female" 2014 "edu" "secondary" "n.prevalence" "d12" 1 1 104 512
 "female" 2014 "edu" "secondary" "n.readmissions.30" "d12" 1 1 1.8 9
@@ -2994,6 +3004,7 @@
 "female" 2014 "edu" "postgraduate" "n.dead.year" "d12" 1 1 NA NA
 "female" 2014 "edu" "postgraduate" "n.dead1" "d12" 1 1 NA NA
 "female" 2014 "edu" "postgraduate" "n.dead30" "d12" 1 1 NA NA
+"female" 2014 "edu" "postgraduate" "n.dead5" "d12" 1 1 NA NA
 "female" 2014 "edu" "postgraduate" "n.incidence" "d12" 1 1 10.3 5
 "female" 2014 "edu" "postgraduate" "n.prevalence" "d12" 1 1 52.8 26
 "female" 2014 "edu" "postgraduate" "n.readmissions.30" "d12" 1 1 NA NA
@@ -3303,6 +3314,7 @@
 "female" 2014 "national" "national" "n.dead.year" "d12" 0 1 3.4 58
 "female" 2014 "national" "national" "n.dead1" "d12" 0 1 7728.1 88
 "female" 2014 "national" "national" "n.dead30" "d12" 0 1 4259.9 50
+"female" 2014 "national" "national" "n.dead5" "d12" 0 1 19362.2 212
 "female" 2014 "national" "national" "n.incidence" "d12" 0 1 29.3 486
 "female" 2014 "national" "national" "n.prevalence" "d12" 0 1 145.1 2413
 "female" 2014 "national" "national" "n.readmissions.30" "d12" 0 1 1.9 32
@@ -3312,6 +3324,7 @@
 "female" 2014 "region" "1" "n.dead.year" "d12" 1 1 2.2 11
 "female" 2014 "region" "1" "n.dead1" "d12" 1 1 6583.5 22
 "female" 2014 "region" "1" "n.dead30" "d12" 1 1 3052.5 11
+"female" 2014 "region" "1" "n.dead5" "d12" 1 1 19444.5 64
 "female" 2014 "region" "1" "n.incidence" "d12" 1 1 30.1 141
 "female" 2014 "region" "1" "n.prevalence" "d12" 1 1 132.5 630
 "female" 2014 "region" "1" "n.readmissions.30" "d12" 1 1 2.4 11
@@ -3321,6 +3334,7 @@
 "female" 2014 "region" "4" "n.dead.year" "d12" 1 1 3.7 10
 "female" 2014 "region" "4" "n.dead1" "d12" 1 1 7192.8 14
 "female" 2014 "region" "4" "n.dead30" "d12" 1 1 4727.2 9
+"female" 2014 "region" "4" "n.dead5" "d12" 1 1 21640.7 33
 "female" 2014 "region" "4" "n.incidence" "d12" 1 1 26.6 69
 "female" 2014 "region" "4" "n.prevalence" "d12" 1 1 131.5 337
 "female" 2014 "region" "4" "n.readmissions.30" "d12" 1 1 2.6 8
@@ -3330,6 +3344,7 @@
 "female" 2014 "region" "5" "n.dead.year" "d12" 1 1 2.8 11
 "female" 2014 "region" "5" "n.dead1" "d12" 1 1 NA 20
 "female" 2014 "region" "5" "n.dead30" "d12" 1 1 NA 10
+"female" 2014 "region" "5" "n.dead5" "d12" 1 1 NA 52
 "female" 2014 "region" "5" "n.incidence" "d12" 1 1 33.1 122
 "female" 2014 "region" "5" "n.prevalence" "d12" 1 1 149.7 554
 "female" 2014 "region" "5" "n.readmissions.30" "d12" 1 1 2.5 9
@@ -3339,6 +3354,7 @@
 "female" 2014 "region" "2" "n.dead.year" "d12" 1 1 4.1 15
 "female" 2014 "region" "2" "n.dead1" "d12" 1 1 NA 21
 "female" 2014 "region" "2" "n.dead30" "d12" 1 1 NA 11
+"female" 2014 "region" "2" "n.dead5" "d12" 1 1 NA 46
 "female" 2014 "region" "2" "n.incidence" "d12" 1 1 31.2 110
 "female" 2014 "region" "2" "n.prevalence" "d12" 1 1 140.4 489
 "female" 2014 "region" "2" "n.readmissions.30" "d12" 1 1 1.3 4
@@ -3348,6 +3364,7 @@
 "female" 2014 "region" "3" "n.dead.year" "d12" 1 1 4.1 8
 "female" 2014 "region" "3" "n.dead1" "d12" 1 1 NA 10
 "female" 2014 "region" "3" "n.dead30" "d12" 1 1 NA 6
+"female" 2014 "region" "3" "n.dead5" "d12" 1 1 NA 21
 "female" 2014 "region" "3" "n.incidence" "d12" 1 1 24.1 43
 "female" 2014 "region" "3" "n.prevalence" "d12" 1 1 128.7 231
 "female" 2014 "region" "3" "n.readmissions.30" "d12" 1 1 2.4 4
@@ -3357,6 +3374,7 @@
 "female" 2014 "region" "9" "n.dead.year" "d12" 1 1 NA NA
 "female" 2014 "region" "9" "n.dead1" "d12" 1 1 NA NA
 "female" 2014 "region" "9" "n.dead30" "d12" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead5" "d12" 1 1 NA NA
 "female" 2014 "region" "9" "n.incidence" "d12" 1 1 NA NA
 "female" 2014 "region" "9" "n.prevalence" "d12" 1 1 NA NA
 "female" 2014 "region" "9" "n.readmissions.30" "d12" 1 1 NA NA
@@ -3843,7 +3861,7 @@
 "female" 2016 "age" "65 - 74" "n.readmissions.ppl.30" "d12" 0 0 19672.1 12
 "female" 2016 "age" "75 - 84" "n.admissions" "d12" 0 0 46.9 83
 "female" 2016 "age" "75 - 84" "n.admissions.ppl" "d12" 0 0 37.8 67
-"female" 2016 "age" "75 - 84" "n.dead.year" "d12" 0 0 10.7 19
+"female" 2016 "age" "75 - 84" "n.dead.year" "d12" 0 0 11.3 20
 "female" 2016 "age" "75 - 84" "n.dead1" "d12" 0 0 14606.7 26
 "female" 2016 "age" "75 - 84" "n.dead30" "d12" 0 0 6179.8 11
 "female" 2016 "age" "75 - 84" "n.incidence" "d12" 0 0 100.5 178
@@ -3906,7 +3924,7 @@
 "female" 2016 "edu" "tertiary" "n.readmissions.ppl.30" "d12" 1 1 NA NA
 "female" 2016 "edu" "secondary" "n.admissions" "d12" 1 1 9.2 50
 "female" 2016 "edu" "secondary" "n.admissions.ppl" "d12" 1 1 7.5 41
-"female" 2016 "edu" "secondary" "n.dead.year" "d12" 1 1 1.2 6
+"female" 2016 "edu" "secondary" "n.dead.year" "d12" 1 1 1.3 6
 "female" 2016 "edu" "secondary" "n.dead1" "d12" 1 1 NA 10
 "female" 2016 "edu" "secondary" "n.dead30" "d12" 1 1 NA 5
 "female" 2016 "edu" "secondary" "n.incidence" "d12" 1 1 23.2 127
@@ -4224,7 +4242,7 @@
 "female" 2016 "kom" "860" "n.prevalence" "d12" 1 1 127.8 28
 "female" 2016 "national" "national" "n.admissions" "d12" 0 1 11.4 199
 "female" 2016 "national" "national" "n.admissions.ppl" "d12" 0 1 9.3 163
-"female" 2016 "national" "national" "n.dead.year" "d12" 0 1 2.6 46
+"female" 2016 "national" "national" "n.dead.year" "d12" 0 1 2.6 47
 "female" 2016 "national" "national" "n.dead1" "d12" 0 1 NA 67
 "female" 2016 "national" "national" "n.dead30" "d12" 0 1 NA 35
 "female" 2016 "national" "national" "n.incidence" "d12" 0 1 27.2 475
@@ -4233,7 +4251,7 @@
 "female" 2016 "national" "national" "n.readmissions.ppl.30" "d12" 0 1 NA 27
 "female" 2016 "region" "1" "n.admissions" "d12" 1 1 13.3 65
 "female" 2016 "region" "1" "n.admissions.ppl" "d12" 1 1 10.7 52
-"female" 2016 "region" "1" "n.dead.year" "d12" 1 1 2.5 12
+"female" 2016 "region" "1" "n.dead.year" "d12" 1 1 2.5 13
 "female" 2016 "region" "1" "n.dead1" "d12" 1 1 6455.4 21
 "female" 2016 "region" "1" "n.dead30" "d12" 1 1 2808.2 11
 "female" 2016 "region" "1" "n.incidence" "d12" 1 1 29.8 146
@@ -4368,7 +4386,7 @@
 "female" 2017 "edu" "tertiary" "n.readmissions.ppl.30" "d12" 1 1 NA NA
 "female" 2017 "edu" "secondary" "n.admissions" "d12" 1 1 8.2 47
 "female" 2017 "edu" "secondary" "n.admissions.ppl" "d12" 1 1 7.2 41
-"female" 2017 "edu" "secondary" "n.dead.year" "d12" 1 1 1.3 7
+"female" 2017 "edu" "secondary" "n.dead.year" "d12" 1 1 1.4 7
 "female" 2017 "edu" "secondary" "n.dead1" "d12" 1 1 NA 10
 "female" 2017 "edu" "secondary" "n.dead30" "d12" 1 1 NA 5
 "female" 2017 "edu" "secondary" "n.incidence" "d12" 1 1 21.9 125
@@ -4747,6 +4765,468 @@
 "female" 2017 "region" "9" "n.prevalence" "d12" 1 1 NA NA
 "female" 2017 "region" "9" "n.readmissions.30" "d12" 1 1 NA NA
 "female" 2017 "region" "9" "n.readmissions.ppl.30" "d12" 1 1 NA NA
+"female" 2018 "age" "85+" "n.admissions" "d12" 0 0 27.7 22
+"female" 2018 "age" "85+" "n.admissions.ppl" "d12" 0 0 25.2 20
+"female" 2018 "age" "85+" "n.dead.year" "d12" 0 0 37.7 30
+"female" 2018 "age" "85+" "n.dead1" "d12" 0 0 54347.8 25
+"female" 2018 "age" "85+" "n.dead30" "d12" 0 0 41304.3 19
+"female" 2018 "age" "85+" "n.incidence" "d12" 0 0 57.9 46
+"female" 2018 "age" "85+" "n.prevalence" "d12" 0 0 444.2 353
+"female" 2018 "age" "85+" "n.readmissions.30" "d12" 0 0 NA NA
+"female" 2018 "age" "85+" "n.readmissions.ppl.30" "d12" 0 0 NA NA
+"female" 2018 "age" "65 - 74" "n.admissions" "d12" 0 0 20.7 69
+"female" 2018 "age" "65 - 74" "n.admissions.ppl" "d12" 0 0 18.9 63
+"female" 2018 "age" "65 - 74" "n.dead.year" "d12" 0 0 3 10
+"female" 2018 "age" "65 - 74" "n.dead1" "d12" 0 0 12030.1 16
+"female" 2018 "age" "65 - 74" "n.dead30" "d12" 0 0 NA NA
+"female" 2018 "age" "65 - 74" "n.incidence" "d12" 0 0 39.9 133
+"female" 2018 "age" "65 - 74" "n.prevalence" "d12" 0 0 269.4 898
+"female" 2018 "age" "65 - 74" "n.readmissions.30" "d12" 0 0 3.3 11
+"female" 2018 "age" "65 - 74" "n.readmissions.ppl.30" "d12" 0 0 15873 10
+"female" 2018 "age" "75 - 84" "n.admissions" "d12" 0 0 48.8 93
+"female" 2018 "age" "75 - 84" "n.admissions.ppl" "d12" 0 0 44.6 85
+"female" 2018 "age" "75 - 84" "n.dead.year" "d12" 0 0 11.5 22
+"female" 2018 "age" "75 - 84" "n.dead1" "d12" 0 0 20744.7 39
+"female" 2018 "age" "75 - 84" "n.dead30" "d12" 0 0 11702.1 22
+"female" 2018 "age" "75 - 84" "n.incidence" "d12" 0 0 98.6 188
+"female" 2018 "age" "75 - 84" "n.prevalence" "d12" 0 0 652.1 1244
+"female" 2018 "age" "75 - 84" "n.readmissions.30" "d12" 0 0 8.9 17
+"female" 2018 "age" "75 - 84" "n.readmissions.ppl.30" "d12" 0 0 18823.5 16
+"female" 2018 "age" "45 - 54" "n.admissions" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.admissions.ppl" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.dead.year" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.dead1" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.dead30" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.incidence" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.prevalence" "d12" 0 0 18 73
+"female" 2018 "age" "45 - 54" "n.readmissions.30" "d12" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.readmissions.ppl.30" "d12" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.admissions" "d12" 0 0 3.4 12
+"female" 2018 "age" "55 - 64" "n.admissions.ppl" "d12" 0 0 2.8 10
+"female" 2018 "age" "55 - 64" "n.dead.year" "d12" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.dead1" "d12" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.dead30" "d12" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.incidence" "d12" 0 0 12.9 46
+"female" 2018 "age" "55 - 64" "n.prevalence" "d12" 0 0 57.3 204
+"female" 2018 "age" "55 - 64" "n.readmissions.30" "d12" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.readmissions.ppl.30" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.admissions" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.admissions.ppl" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.dead.year" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.dead1" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.dead30" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.incidence" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.prevalence" "d12" 0 0 5.6 20
+"female" 2018 "age" "35 - 44" "n.readmissions.30" "d12" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.readmissions.ppl.30" "d12" 0 0 NA NA
+"female" 2018 "edu" "unknown" "n.admissions" "d12" 1 1 12.5 4
+"female" 2018 "edu" "unknown" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "edu" "unknown" "n.dead.year" "d12" 1 1 NA NA
+"female" 2018 "edu" "unknown" "n.dead1" "d12" 1 1 NA NA
+"female" 2018 "edu" "unknown" "n.dead30" "d12" 1 1 NA NA
+"female" 2018 "edu" "unknown" "n.incidence" "d12" 1 1 23.6 7
+"female" 2018 "edu" "unknown" "n.prevalence" "d12" 1 1 98.1 29
+"female" 2018 "edu" "unknown" "n.readmissions.30" "d12" 1 1 NA NA
+"female" 2018 "edu" "unknown" "n.readmissions.ppl.30" "d12" 1 1 NA NA
+"female" 2018 "edu" "basic" "n.admissions" "d12" 1 1 12 74
+"female" 2018 "edu" "basic" "n.admissions.ppl" "d12" 1 1 10.3 64
+"female" 2018 "edu" "basic" "n.dead.year" "d12" 1 1 2 12
+"female" 2018 "edu" "basic" "n.dead1" "d12" 1 1 NA 23
+"female" 2018 "edu" "basic" "n.dead30" "d12" 1 1 NA 11
+"female" 2018 "edu" "basic" "n.incidence" "d12" 1 1 26.3 157
+"female" 2018 "edu" "basic" "n.prevalence" "d12" 1 1 138.4 847
+"female" 2018 "edu" "basic" "n.readmissions.30" "d12" 1 1 2.4 15
+"female" 2018 "edu" "basic" "n.readmissions.ppl.30" "d12" 1 1 NA 14
+"female" 2018 "edu" "tertiary" "n.admissions" "d12" 1 1 5.1 15
+"female" 2018 "edu" "tertiary" "n.admissions.ppl" "d12" 1 1 4.9 14
+"female" 2018 "edu" "tertiary" "n.dead.year" "d12" 1 1 NA NA
+"female" 2018 "edu" "tertiary" "n.dead1" "d12" 1 1 NA 4
+"female" 2018 "edu" "tertiary" "n.dead30" "d12" 1 1 NA NA
+"female" 2018 "edu" "tertiary" "n.incidence" "d12" 1 1 12.8 42
+"female" 2018 "edu" "tertiary" "n.prevalence" "d12" 1 1 78.3 250
+"female" 2018 "edu" "tertiary" "n.readmissions.30" "d12" 1 1 NA NA
+"female" 2018 "edu" "tertiary" "n.readmissions.ppl.30" "d12" 1 1 NA NA
+"female" 2018 "edu" "secondary" "n.admissions" "d12" 1 1 7.4 45
+"female" 2018 "edu" "secondary" "n.admissions.ppl" "d12" 1 1 6.4 39
+"female" 2018 "edu" "secondary" "n.dead.year" "d12" 1 1 1 5
+"female" 2018 "edu" "secondary" "n.dead1" "d12" 1 1 NA 7
+"female" 2018 "edu" "secondary" "n.dead30" "d12" 1 1 NA NA
+"female" 2018 "edu" "secondary" "n.incidence" "d12" 1 1 19.3 115
+"female" 2018 "edu" "secondary" "n.prevalence" "d12" 1 1 113.7 673
+"female" 2018 "edu" "secondary" "n.readmissions.30" "d12" 1 1 0.8 5
+"female" 2018 "edu" "secondary" "n.readmissions.ppl.30" "d12" 1 1 NA 5
+"female" 2018 "edu" "postgraduate" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "edu" "postgraduate" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "edu" "postgraduate" "n.dead.year" "d12" 1 1 NA NA
+"female" 2018 "edu" "postgraduate" "n.dead1" "d12" 1 1 NA NA
+"female" 2018 "edu" "postgraduate" "n.dead30" "d12" 1 1 NA NA
+"female" 2018 "edu" "postgraduate" "n.incidence" "d12" 1 1 10.1 6
+"female" 2018 "edu" "postgraduate" "n.prevalence" "d12" 1 1 59.2 39
+"female" 2018 "edu" "postgraduate" "n.readmissions.30" "d12" 1 1 NA NA
+"female" 2018 "edu" "postgraduate" "n.readmissions.ppl.30" "d12" 1 1 NA NA
+"female" 2018 "kom" "unknown" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "unknown" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "unknown" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "kom" "101" "n.admissions" "d12" 1 1 9.7 10
+"female" 2018 "kom" "101" "n.admissions.ppl" "d12" 1 1 7.9 8
+"female" 2018 "kom" "101" "n.prevalence" "d12" 1 1 156.7 167
+"female" 2018 "kom" "147" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "147" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "147" "n.prevalence" "d12" 1 1 173.3 53
+"female" 2018 "kom" "151" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "151" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "151" "n.prevalence" "d12" 1 1 223.2 38
+"female" 2018 "kom" "153" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "153" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "153" "n.prevalence" "d12" 1 1 134.2 16
+"female" 2018 "kom" "155" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "155" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "155" "n.prevalence" "d12" 1 1 106.9 6
+"female" 2018 "kom" "157" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "157" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "157" "n.prevalence" "d12" 1 1 154.1 39
+"female" 2018 "kom" "159" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "159" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "159" "n.prevalence" "d12" 1 1 180.1 36
+"female" 2018 "kom" "161" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "161" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "161" "n.prevalence" "d12" 1 1 158.6 12
+"female" 2018 "kom" "163" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "163" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "163" "n.prevalence" "d12" 1 1 107 10
+"female" 2018 "kom" "165" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "165" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "165" "n.prevalence" "d12" 1 1 186.6 15
+"female" 2018 "kom" "167" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "167" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "167" "n.prevalence" "d12" 1 1 160.4 25
+"female" 2018 "kom" "169" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "169" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "169" "n.prevalence" "d12" 1 1 169.8 24
+"female" 2018 "kom" "173" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "173" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "173" "n.prevalence" "d12" 1 1 172.1 33
+"female" 2018 "kom" "175" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "175" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "175" "n.prevalence" "d12" 1 1 193.1 25
+"female" 2018 "kom" "183" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "183" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "183" "n.prevalence" "d12" 1 1 241.9 14
+"female" 2018 "kom" "185" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "185" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "185" "n.prevalence" "d12" 1 1 180.5 24
+"female" 2018 "kom" "187" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "187" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "187" "n.prevalence" "d12" 1 1 148.6 7
+"female" 2018 "kom" "190" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "190" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "190" "n.prevalence" "d12" 1 1 156 22
+"female" 2018 "kom" "201" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "201" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "201" "n.prevalence" "d12" 1 1 96 8
+"female" 2018 "kom" "210" "n.admissions" "d12" 1 1 29.9 4
+"female" 2018 "kom" "210" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "210" "n.prevalence" "d12" 1 1 212.6 30
+"female" 2018 "kom" "217" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "217" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "217" "n.prevalence" "d12" 1 1 128 30
+"female" 2018 "kom" "219" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "219" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "219" "n.prevalence" "d12" 1 1 176 27
+"female" 2018 "kom" "223" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "223" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "223" "n.prevalence" "d12" 1 1 104.2 12
+"female" 2018 "kom" "230" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "230" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "230" "n.prevalence" "d12" 1 1 116.4 26
+"female" 2018 "kom" "240" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "240" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "240" "n.prevalence" "d12" 1 1 186.3 23
+"female" 2018 "kom" "250" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "250" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "250" "n.prevalence" "d12" 1 1 144.8 24
+"female" 2018 "kom" "253" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "253" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "253" "n.prevalence" "d12" 1 1 169.4 26
+"female" 2018 "kom" "259" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "259" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "259" "n.prevalence" "d12" 1 1 145.5 27
+"female" 2018 "kom" "260" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "260" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "260" "n.prevalence" "d12" 1 1 252.5 29
+"female" 2018 "kom" "265" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "265" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "265" "n.prevalence" "d12" 1 1 118 32
+"female" 2018 "kom" "269" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "269" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "269" "n.prevalence" "d12" 1 1 67.8 5
+"female" 2018 "kom" "270" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "270" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "270" "n.prevalence" "d12" 1 1 162.6 26
+"female" 2018 "kom" "306" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "306" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "306" "n.prevalence" "d12" 1 1 144.4 21
+"female" 2018 "kom" "316" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "316" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "316" "n.prevalence" "d12" 1 1 158.3 35
+"female" 2018 "kom" "320" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "320" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "320" "n.prevalence" "d12" 1 1 153.8 19
+"female" 2018 "kom" "326" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "326" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "326" "n.prevalence" "d12" 1 1 114.6 20
+"female" 2018 "kom" "329" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "329" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "329" "n.prevalence" "d12" 1 1 97 10
+"female" 2018 "kom" "330" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "330" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "330" "n.prevalence" "d12" 1 1 141.6 38
+"female" 2018 "kom" "336" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "336" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "336" "n.prevalence" "d12" 1 1 171.4 14
+"female" 2018 "kom" "340" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "340" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "340" "n.prevalence" "d12" 1 1 106.7 10
+"female" 2018 "kom" "350" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "350" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "350" "n.prevalence" "d12" 1 1 150 13
+"female" 2018 "kom" "360" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "360" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "360" "n.prevalence" "d12" 1 1 157.7 29
+"female" 2018 "kom" "370" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "370" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "370" "n.prevalence" "d12" 1 1 173.8 48
+"female" 2018 "kom" "376" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "376" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "376" "n.prevalence" "d12" 1 1 131.8 33
+"female" 2018 "kom" "390" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "390" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "390" "n.prevalence" "d12" 1 1 148.4 28
+"female" 2018 "kom" "400" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "400" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "400" "n.prevalence" "d12" 1 1 88 15
+"female" 2018 "kom" "410" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "410" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "410" "n.prevalence" "d12" 1 1 198.5 27
+"female" 2018 "kom" "411" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "411" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "411" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "kom" "420" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "420" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "420" "n.prevalence" "d12" 1 1 140.6 21
+"female" 2018 "kom" "430" "n.admissions" "d12" 1 1 27 5
+"female" 2018 "kom" "430" "n.admissions.ppl" "d12" 1 1 20.6 4
+"female" 2018 "kom" "430" "n.prevalence" "d12" 1 1 148.3 28
+"female" 2018 "kom" "440" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "440" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "440" "n.prevalence" "d12" 1 1 245.8 22
+"female" 2018 "kom" "450" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "450" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "450" "n.prevalence" "d12" 1 1 210.9 25
+"female" 2018 "kom" "461" "n.admissions" "d12" 1 1 15.5 9
+"female" 2018 "kom" "461" "n.admissions.ppl" "d12" 1 1 14.3 8
+"female" 2018 "kom" "461" "n.prevalence" "d12" 1 1 151.9 87
+"female" 2018 "kom" "479" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "479" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "479" "n.prevalence" "d12" 1 1 111.7 24
+"female" 2018 "kom" "480" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "480" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "480" "n.prevalence" "d12" 1 1 160.8 16
+"female" 2018 "kom" "482" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "482" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "482" "n.prevalence" "d12" 1 1 85.2 6
+"female" 2018 "kom" "492" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "492" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "492" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "kom" "510" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "510" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "510" "n.prevalence" "d12" 1 1 183.9 36
+"female" 2018 "kom" "530" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "530" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "530" "n.prevalence" "d12" 1 1 105.3 9
+"female" 2018 "kom" "540" "n.admissions" "d12" 1 1 13.8 4
+"female" 2018 "kom" "540" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "540" "n.prevalence" "d12" 1 1 170.5 50
+"female" 2018 "kom" "550" "n.admissions" "d12" 1 1 28.1 4
+"female" 2018 "kom" "550" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "550" "n.prevalence" "d12" 1 1 223.2 32
+"female" 2018 "kom" "561" "n.admissions" "d12" 1 1 9.9 4
+"female" 2018 "kom" "561" "n.admissions.ppl" "d12" 1 1 9.9 4
+"female" 2018 "kom" "561" "n.prevalence" "d12" 1 1 188 69
+"female" 2018 "kom" "563" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "563" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "563" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "kom" "573" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "573" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "573" "n.prevalence" "d12" 1 1 207.7 36
+"female" 2018 "kom" "575" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "575" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "575" "n.prevalence" "d12" 1 1 207.3 29
+"female" 2018 "kom" "580" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "580" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "580" "n.prevalence" "d12" 1 1 184.4 39
+"female" 2018 "kom" "607" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "607" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "607" "n.prevalence" "d12" 1 1 195.5 33
+"female" 2018 "kom" "615" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "615" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "615" "n.prevalence" "d12" 1 1 146.8 37
+"female" 2018 "kom" "621" "n.admissions" "d12" 1 1 15.9 4
+"female" 2018 "kom" "621" "n.admissions.ppl" "d12" 1 1 14.6 4
+"female" 2018 "kom" "621" "n.prevalence" "d12" 1 1 199.5 54
+"female" 2018 "kom" "630" "n.admissions" "d12" 1 1 11.6 4
+"female" 2018 "kom" "630" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "630" "n.prevalence" "d12" 1 1 166.8 57
+"female" 2018 "kom" "657" "n.admissions" "d12" 1 1 15.4 4
+"female" 2018 "kom" "657" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "657" "n.prevalence" "d12" 1 1 138.9 37
+"female" 2018 "kom" "661" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "661" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "661" "n.prevalence" "d12" 1 1 181.1 33
+"female" 2018 "kom" "665" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "665" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "665" "n.prevalence" "d12" 1 1 122.8 9
+"female" 2018 "kom" "671" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "671" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "671" "n.prevalence" "d12" 1 1 152.3 11
+"female" 2018 "kom" "706" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "706" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "706" "n.prevalence" "d12" 1 1 112.8 17
+"female" 2018 "kom" "707" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "707" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "707" "n.prevalence" "d12" 1 1 175.7 24
+"female" 2018 "kom" "710" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "710" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "710" "n.prevalence" "d12" 1 1 231.8 31
+"female" 2018 "kom" "727" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "727" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "727" "n.prevalence" "d12" 1 1 63.6 5
+"female" 2018 "kom" "730" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "730" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "730" "n.prevalence" "d12" 1 1 117.2 37
+"female" 2018 "kom" "740" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "740" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "740" "n.prevalence" "d12" 1 1 166.1 45
+"female" 2018 "kom" "741" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "741" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "741" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "kom" "746" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "746" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "746" "n.prevalence" "d12" 1 1 185.9 29
+"female" 2018 "kom" "751" "n.admissions" "d12" 1 1 9.4 8
+"female" 2018 "kom" "751" "n.admissions.ppl" "d12" 1 1 9 7
+"female" 2018 "kom" "751" "n.prevalence" "d12" 1 1 140.5 112
+"female" 2018 "kom" "756" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "756" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "756" "n.prevalence" "d12" 1 1 131.6 17
+"female" 2018 "kom" "760" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "760" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "760" "n.prevalence" "d12" 1 1 118 23
+"female" 2018 "kom" "766" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "766" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "766" "n.prevalence" "d12" 1 1 137.9 19
+"female" 2018 "kom" "773" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "773" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "773" "n.prevalence" "d12" 1 1 147.7 12
+"female" 2018 "kom" "779" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "779" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "779" "n.prevalence" "d12" 1 1 149.8 25
+"female" 2018 "kom" "787" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "787" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "787" "n.prevalence" "d12" 1 1 167.2 26
+"female" 2018 "kom" "791" "n.admissions" "d12" 1 1 12 4
+"female" 2018 "kom" "791" "n.admissions.ppl" "d12" 1 1 12 4
+"female" 2018 "kom" "791" "n.prevalence" "d12" 1 1 142.3 42
+"female" 2018 "kom" "810" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "810" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "810" "n.prevalence" "d12" 1 1 139 17
+"female" 2018 "kom" "813" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "813" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "813" "n.prevalence" "d12" 1 1 123.4 31
+"female" 2018 "kom" "820" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "820" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "820" "n.prevalence" "d12" 1 1 79.3 10
+"female" 2018 "kom" "825" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "825" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "825" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "kom" "840" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "840" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "840" "n.prevalence" "d12" 1 1 158 14
+"female" 2018 "kom" "846" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "846" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "846" "n.prevalence" "d12" 1 1 135.4 19
+"female" 2018 "kom" "849" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "kom" "849" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "kom" "849" "n.prevalence" "d12" 1 1 128.8 17
+"female" 2018 "kom" "851" "n.admissions" "d12" 1 1 14.4 9
+"female" 2018 "kom" "851" "n.admissions.ppl" "d12" 1 1 12.2 7
+"female" 2018 "kom" "851" "n.prevalence" "d12" 1 1 131.3 80
+"female" 2018 "kom" "860" "n.admissions" "d12" 1 1 22.3 5
+"female" 2018 "kom" "860" "n.admissions.ppl" "d12" 1 1 17.9 4
+"female" 2018 "kom" "860" "n.prevalence" "d12" 1 1 134.4 31
+"female" 2018 "national" "national" "n.admissions" "d12" 0 1 10.8 198
+"female" 2018 "national" "national" "n.admissions.ppl" "d12" 0 1 9.8 180
+"female" 2018 "national" "national" "n.dead.year" "d12" 0 1 3.6 66
+"female" 2018 "national" "national" "n.dead1" "d12" 0 1 NA 85
+"female" 2018 "national" "national" "n.dead30" "d12" 0 1 NA 52
+"female" 2018 "national" "national" "n.incidence" "d12" 0 1 23 420
+"female" 2018 "national" "national" "n.prevalence" "d12" 0 1 152.6 2792
+"female" 2018 "national" "national" "n.readmissions.30" "d12" 0 1 1.7 31
+"female" 2018 "national" "national" "n.readmissions.ppl.30" "d12" 0 1 NA 28
+"female" 2018 "region" "1" "n.admissions" "d12" 1 1 10.3 52
+"female" 2018 "region" "1" "n.admissions.ppl" "d12" 1 1 8.5 43
+"female" 2018 "region" "1" "n.dead.year" "d12" 1 1 2.1 11
+"female" 2018 "region" "1" "n.dead1" "d12" 1 1 7898.2 18
+"female" 2018 "region" "1" "n.dead30" "d12" 1 1 3329.6 9
+"female" 2018 "region" "1" "n.incidence" "d12" 1 1 22.8 116
+"female" 2018 "region" "1" "n.prevalence" "d12" 1 1 158.9 813
+"female" 2018 "region" "1" "n.readmissions.30" "d12" 1 1 1.6 8
+"female" 2018 "region" "1" "n.readmissions.ppl.30" "d12" 1 1 NA 8
+"female" 2018 "region" "4" "n.admissions" "d12" 1 1 9.4 28
+"female" 2018 "region" "4" "n.admissions.ppl" "d12" 1 1 8.7 26
+"female" 2018 "region" "4" "n.dead.year" "d12" 1 1 3.1 9
+"female" 2018 "region" "4" "n.dead1" "d12" 1 1 NA 13
+"female" 2018 "region" "4" "n.dead30" "d12" 1 1 NA 6
+"female" 2018 "region" "4" "n.incidence" "d12" 1 1 23.8 69
+"female" 2018 "region" "4" "n.prevalence" "d12" 1 1 141.8 407
+"female" 2018 "region" "4" "n.readmissions.30" "d12" 1 1 1.5 4
+"female" 2018 "region" "4" "n.readmissions.ppl.30" "d12" 1 1 NA 4
+"female" 2018 "region" "5" "n.admissions" "d12" 1 1 14.1 57
+"female" 2018 "region" "5" "n.admissions.ppl" "d12" 1 1 12.1 49
+"female" 2018 "region" "5" "n.dead.year" "d12" 1 1 3.1 13
+"female" 2018 "region" "5" "n.dead1" "d12" 1 1 NA 20
+"female" 2018 "region" "5" "n.dead30" "d12" 1 1 NA 10
+"female" 2018 "region" "5" "n.incidence" "d12" 1 1 27.6 112
+"female" 2018 "region" "5" "n.prevalence" "d12" 1 1 172.6 702
+"female" 2018 "region" "5" "n.readmissions.30" "d12" 1 1 2.3 10
+"female" 2018 "region" "5" "n.readmissions.ppl.30" "d12" 1 1 NA 9
+"female" 2018 "region" "2" "n.admissions" "d12" 1 1 10.5 40
+"female" 2018 "region" "2" "n.admissions.ppl" "d12" 1 1 10 39
+"female" 2018 "region" "2" "n.dead.year" "d12" 1 1 4 16
+"female" 2018 "region" "2" "n.dead1" "d12" 1 1 NA 18
+"female" 2018 "region" "2" "n.dead30" "d12" 1 1 NA 13
+"female" 2018 "region" "2" "n.incidence" "d12" 1 1 23.9 93
+"female" 2018 "region" "2" "n.prevalence" "d12" 1 1 144.3 555
+"female" 2018 "region" "2" "n.readmissions.30" "d12" 1 1 1.3 5
+"female" 2018 "region" "2" "n.readmissions.ppl.30" "d12" 1 1 NA 4
+"female" 2018 "region" "3" "n.admissions" "d12" 1 1 12.8 25
+"female" 2018 "region" "3" "n.admissions.ppl" "d12" 1 1 11.2 22
+"female" 2018 "region" "3" "n.dead.year" "d12" 1 1 3.6 7
+"female" 2018 "region" "3" "n.dead1" "d12" 1 1 NA 8
+"female" 2018 "region" "3" "n.dead30" "d12" 1 1 NA 4
+"female" 2018 "region" "3" "n.incidence" "d12" 1 1 25.5 49
+"female" 2018 "region" "3" "n.prevalence" "d12" 1 1 131.9 258
+"female" 2018 "region" "3" "n.readmissions.30" "d12" 1 1 2 4
+"female" 2018 "region" "3" "n.readmissions.ppl.30" "d12" 1 1 NA 4
+"female" 2018 "region" "9" "n.admissions" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.admissions.ppl" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.dead.year" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.dead1" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.dead30" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.incidence" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.prevalence" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.readmissions.30" "d12" 1 1 NA NA
+"female" 2018 "region" "9" "n.readmissions.ppl.30" "d12" 1 1 NA NA
 "male" 2004 "age" "85+" "n.admissions" "d12" 0 0 113.8 33
 "male" 2004 "age" "85+" "n.admissions.ppl" "d12" 0 0 103.5 30
 "male" 2004 "age" "85+" "n.dead.year" "d12" 0 0 65.5 19
@@ -7652,6 +8132,7 @@
 "male" 2014 "age" "85+" "n.dead.year" "d12" 0 0 93.5 35
 "male" 2014 "age" "85+" "n.dead1" "d12" 0 0 40800 51
 "male" 2014 "age" "85+" "n.dead30" "d12" 0 0 27200 34
+"male" 2014 "age" "85+" "n.dead5" "d12" 0 0 84000 105
 "male" 2014 "age" "85+" "n.incidence" "d12" 0 0 333.9 125
 "male" 2014 "age" "85+" "n.prevalence" "d12" 0 0 1797.6 673
 "male" 2014 "age" "85+" "n.readmissions.30" "d12" 0 0 NA NA
@@ -7661,6 +8142,7 @@
 "male" 2014 "age" "65 - 74" "n.dead.year" "d12" 0 0 12.8 38
 "male" 2014 "age" "65 - 74" "n.dead1" "d12" 0 0 10401.2 70
 "male" 2014 "age" "65 - 74" "n.dead30" "d12" 0 0 4754.8 32
+"male" 2014 "age" "65 - 74" "n.dead5" "d12" 0 0 31055 209
 "male" 2014 "age" "65 - 74" "n.incidence" "d12" 0 0 226.4 673
 "male" 2014 "age" "65 - 74" "n.prevalence" "d12" 0 0 1080 3210
 "male" 2014 "age" "65 - 74" "n.readmissions.30" "d12" 0 0 28.9 86
@@ -7670,6 +8152,7 @@
 "male" 2014 "age" "75 - 84" "n.dead.year" "d12" 0 0 47.9 63
 "male" 2014 "age" "75 - 84" "n.dead1" "d12" 0 0 21673 114
 "male" 2014 "age" "75 - 84" "n.dead30" "d12" 0 0 9315.6 49
+"male" 2014 "age" "75 - 84" "n.dead5" "d12" 0 0 53422.1 281
 "male" 2014 "age" "75 - 84" "n.incidence" "d12" 0 0 400 526
 "male" 2014 "age" "75 - 84" "n.prevalence" "d12" 0 0 2469.8 3248
 "male" 2014 "age" "75 - 84" "n.readmissions.30" "d12" 0 0 44.1 58
@@ -7679,6 +8162,7 @@
 "male" 2014 "age" "45 - 54" "n.dead.year" "d12" 0 0 NA NA
 "male" 2014 "age" "45 - 54" "n.dead1" "d12" 0 0 NA NA
 "male" 2014 "age" "45 - 54" "n.dead30" "d12" 0 0 NA NA
+"male" 2014 "age" "45 - 54" "n.dead5" "d12" 0 0 NA NA
 "male" 2014 "age" "45 - 54" "n.incidence" "d12" 0 0 11.1 45
 "male" 2014 "age" "45 - 54" "n.prevalence" "d12" 0 0 31 126
 "male" 2014 "age" "45 - 54" "n.readmissions.30" "d12" 0 0 NA NA
@@ -7688,6 +8172,7 @@
 "male" 2014 "age" "55 - 64" "n.dead.year" "d12" 0 0 NA NA
 "male" 2014 "age" "55 - 64" "n.dead1" "d12" 0 0 7389.2 15
 "male" 2014 "age" "55 - 64" "n.dead30" "d12" 0 0 NA NA
+"male" 2014 "age" "55 - 64" "n.dead5" "d12" 0 0 21674.9 44
 "male" 2014 "age" "55 - 64" "n.incidence" "d12" 0 0 59 203
 "male" 2014 "age" "55 - 64" "n.prevalence" "d12" 0 0 221.9 763
 "male" 2014 "age" "55 - 64" "n.readmissions.30" "d12" 0 0 5.8 20
@@ -7697,6 +8182,7 @@
 "male" 2014 "age" "35 - 44" "n.dead.year" "d12" 0 0 NA NA
 "male" 2014 "age" "35 - 44" "n.dead1" "d12" 0 0 NA NA
 "male" 2014 "age" "35 - 44" "n.dead30" "d12" 0 0 NA NA
+"male" 2014 "age" "35 - 44" "n.dead5" "d12" 0 0 NA NA
 "male" 2014 "age" "35 - 44" "n.incidence" "d12" 0 0 NA NA
 "male" 2014 "age" "35 - 44" "n.prevalence" "d12" 0 0 5.6 21
 "male" 2014 "age" "35 - 44" "n.readmissions.30" "d12" 0 0 NA NA
@@ -7706,6 +8192,7 @@
 "male" 2014 "edu" "unknown" "n.dead.year" "d12" 1 1 NA NA
 "male" 2014 "edu" "unknown" "n.dead1" "d12" 1 1 NA NA
 "male" 2014 "edu" "unknown" "n.dead30" "d12" 1 1 NA NA
+"male" 2014 "edu" "unknown" "n.dead5" "d12" 1 1 NA 10
 "male" 2014 "edu" "unknown" "n.incidence" "d12" 1 1 94.8 29
 "male" 2014 "edu" "unknown" "n.prevalence" "d12" 1 1 397.1 123
 "male" 2014 "edu" "unknown" "n.readmissions.30" "d12" 1 1 20.4 6
@@ -7715,6 +8202,7 @@
 "male" 2014 "edu" "basic" "n.dead.year" "d12" 1 1 8.2 34
 "male" 2014 "edu" "basic" "n.dead1" "d12" 1 1 NA 70
 "male" 2014 "edu" "basic" "n.dead30" "d12" 1 1 NA 35
+"male" 2014 "edu" "basic" "n.dead5" "d12" 1 1 NA 163
 "male" 2014 "edu" "basic" "n.incidence" "d12" 1 1 103.4 433
 "male" 2014 "edu" "basic" "n.prevalence" "d12" 1 1 458.5 1927
 "male" 2014 "edu" "basic" "n.readmissions.30" "d12" 1 1 11.2 47
@@ -7724,6 +8212,7 @@
 "male" 2014 "edu" "tertiary" "n.dead.year" "d12" 1 1 4.9 9
 "male" 2014 "edu" "tertiary" "n.dead1" "d12" 1 1 6298.7 19
 "male" 2014 "edu" "tertiary" "n.dead30" "d12" 1 1 2522.8 8
+"male" 2014 "edu" "tertiary" "n.dead5" "d12" 1 1 14163.6 49
 "male" 2014 "edu" "tertiary" "n.incidence" "d12" 1 1 75.9 156
 "male" 2014 "edu" "tertiary" "n.prevalence" "d12" 1 1 371.2 735
 "male" 2014 "edu" "tertiary" "n.readmissions.30" "d12" 1 1 7 15
@@ -7733,6 +8222,7 @@
 "male" 2014 "edu" "secondary" "n.dead.year" "d12" 1 1 7.1 39
 "male" 2014 "edu" "secondary" "n.dead1" "d12" 1 1 7513 68
 "male" 2014 "edu" "secondary" "n.dead30" "d12" 1 1 4072.2 31
+"male" 2014 "edu" "secondary" "n.dead5" "d12" 1 1 16659.9 176
 "male" 2014 "edu" "secondary" "n.incidence" "d12" 1 1 95.9 565
 "male" 2014 "edu" "secondary" "n.prevalence" "d12" 1 1 467.5 2668
 "male" 2014 "edu" "secondary" "n.readmissions.30" "d12" 1 1 12.2 71
@@ -7742,6 +8232,7 @@
 "male" 2014 "edu" "postgraduate" "n.dead.year" "d12" 1 1 NA NA
 "male" 2014 "edu" "postgraduate" "n.dead1" "d12" 1 1 NA 6
 "male" 2014 "edu" "postgraduate" "n.dead30" "d12" 1 1 NA NA
+"male" 2014 "edu" "postgraduate" "n.dead5" "d12" 1 1 NA 14
 "male" 2014 "edu" "postgraduate" "n.incidence" "d12" 1 1 59.6 56
 "male" 2014 "edu" "postgraduate" "n.prevalence" "d12" 1 1 255.7 233
 "male" 2014 "edu" "postgraduate" "n.readmissions.30" "d12" 1 1 NA NA
@@ -8051,6 +8542,7 @@
 "male" 2014 "national" "national" "n.dead.year" "d12" 0 1 11.9 143
 "male" 2014 "national" "national" "n.dead1" "d12" 0 1 NA 251
 "male" 2014 "national" "national" "n.dead30" "d12" 0 1 NA 121
+"male" 2014 "national" "national" "n.dead5" "d12" 0 1 NA 643
 "male" 2014 "national" "national" "n.incidence" "d12" 0 1 113.5 1579
 "male" 2014 "national" "national" "n.prevalence" "d12" 0 1 594.9 8041
 "male" 2014 "national" "national" "n.readmissions.30" "d12" 0 1 12.3 175
@@ -8060,6 +8552,7 @@
 "male" 2014 "region" "1" "n.dead.year" "d12" 1 1 12.1 40
 "male" 2014 "region" "1" "n.dead1" "d12" 1 1 9253.2 72
 "male" 2014 "region" "1" "n.dead30" "d12" 1 1 4787.2 34
+"male" 2014 "region" "1" "n.dead5" "d12" 1 1 20574 166
 "male" 2014 "region" "1" "n.incidence" "d12" 1 1 109.7 405
 "male" 2014 "region" "1" "n.prevalence" "d12" 1 1 531.3 1888
 "male" 2014 "region" "1" "n.readmissions.30" "d12" 1 1 12.2 47
@@ -8069,6 +8562,7 @@
 "male" 2014 "region" "4" "n.dead.year" "d12" 1 1 10 19
 "male" 2014 "region" "4" "n.dead1" "d12" 1 1 9620.1 45
 "male" 2014 "region" "4" "n.dead30" "d12" 1 1 4845.5 20
+"male" 2014 "region" "4" "n.dead5" "d12" 1 1 20621.3 103
 "male" 2014 "region" "4" "n.incidence" "d12" 1 1 107.1 242
 "male" 2014 "region" "4" "n.prevalence" "d12" 1 1 531.5 1159
 "male" 2014 "region" "4" "n.readmissions.30" "d12" 1 1 14.1 33
@@ -8078,6 +8572,7 @@
 "male" 2014 "region" "5" "n.dead.year" "d12" 1 1 13.2 35
 "male" 2014 "region" "5" "n.dead1" "d12" 1 1 NA 64
 "male" 2014 "region" "5" "n.dead30" "d12" 1 1 NA 31
+"male" 2014 "region" "5" "n.dead5" "d12" 1 1 NA 165
 "male" 2014 "region" "5" "n.incidence" "d12" 1 1 127 395
 "male" 2014 "region" "5" "n.prevalence" "d12" 1 1 594.2 1813
 "male" 2014 "region" "5" "n.readmissions.30" "d12" 1 1 13.6 43
@@ -8087,6 +8582,7 @@
 "male" 2014 "region" "2" "n.dead.year" "d12" 1 1 16.2 42
 "male" 2014 "region" "2" "n.dead1" "d12" 1 1 NA 55
 "male" 2014 "region" "2" "n.dead30" "d12" 1 1 NA 31
+"male" 2014 "region" "2" "n.dead5" "d12" 1 1 NA 139
 "male" 2014 "region" "2" "n.incidence" "d12" 1 1 119 357
 "male" 2014 "region" "2" "n.prevalence" "d12" 1 1 625.9 1816
 "male" 2014 "region" "2" "n.readmissions.30" "d12" 1 1 12 36
@@ -8096,6 +8592,7 @@
 "male" 2014 "region" "3" "n.dead.year" "d12" 1 1 16.7 23
 "male" 2014 "region" "3" "n.dead1" "d12" 1 1 NA 33
 "male" 2014 "region" "3" "n.dead30" "d12" 1 1 NA 20
+"male" 2014 "region" "3" "n.dead5" "d12" 1 1 NA 69
 "male" 2014 "region" "3" "n.incidence" "d12" 1 1 101.2 157
 "male" 2014 "region" "3" "n.prevalence" "d12" 1 1 534.5 809
 "male" 2014 "region" "3" "n.readmissions.30" "d12" 1 1 6 10
@@ -8105,6 +8602,7 @@
 "male" 2014 "region" "9" "n.dead.year" "d12" 1 1 NA NA
 "male" 2014 "region" "9" "n.dead1" "d12" 1 1 NA NA
 "male" 2014 "region" "9" "n.dead30" "d12" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead5" "d12" 1 1 NA NA
 "male" 2014 "region" "9" "n.incidence" "d12" 1 1 NA NA
 "male" 2014 "region" "9" "n.prevalence" "d12" 1 1 NA NA
 "male" 2014 "region" "9" "n.readmissions.30" "d12" 1 1 NA NA
@@ -9035,7 +9533,7 @@
 "male" 2016 "region" "9" "n.readmissions.ppl.30" "d12" 1 1 NA NA
 "male" 2017 "age" "85+" "n.admissions" "d12" 0 0 126.3 51
 "male" 2017 "age" "85+" "n.admissions.ppl" "d12" 0 0 116.4 47
-"male" 2017 "age" "85+" "n.dead.year" "d12" 0 0 79.3 32
+"male" 2017 "age" "85+" "n.dead.year" "d12" 0 0 81.8 33
 "male" 2017 "age" "85+" "n.dead1" "d12" 0 0 41666.7 40
 "male" 2017 "age" "85+" "n.dead30" "d12" 0 0 21875 21
 "male" 2017 "age" "85+" "n.incidence" "d12" 0 0 237.8 96
@@ -9044,7 +9542,7 @@
 "male" 2017 "age" "85+" "n.readmissions.ppl.30" "d12" 0 0 NA NA
 "male" 2017 "age" "65 - 74" "n.admissions" "d12" 0 0 107.7 337
 "male" 2017 "age" "65 - 74" "n.admissions.ppl" "d12" 0 0 92.6 290
-"male" 2017 "age" "65 - 74" "n.dead.year" "d12" 0 0 12.1 38
+"male" 2017 "age" "65 - 74" "n.dead.year" "d12" 0 0 12.8 40
 "male" 2017 "age" "65 - 74" "n.dead1" "d12" 0 0 9394.9 59
 "male" 2017 "age" "65 - 74" "n.dead30" "d12" 0 0 3662.4 23
 "male" 2017 "age" "65 - 74" "n.incidence" "d12" 0 0 200.6 628
@@ -9116,7 +9614,7 @@
 "male" 2017 "edu" "tertiary" "n.readmissions.ppl.30" "d12" 1 1 NA 13
 "male" 2017 "edu" "secondary" "n.admissions" "d12" 1 1 55.6 366
 "male" 2017 "edu" "secondary" "n.admissions.ppl" "d12" 1 1 47.3 310
-"male" 2017 "edu" "secondary" "n.dead.year" "d12" 1 1 5.9 37
+"male" 2017 "edu" "secondary" "n.dead.year" "d12" 1 1 6 38
 "male" 2017 "edu" "secondary" "n.dead1" "d12" 1 1 6542.5 68
 "male" 2017 "edu" "secondary" "n.dead30" "d12" 1 1 3554.4 29
 "male" 2017 "edu" "secondary" "n.incidence" "d12" 1 1 95.4 636
@@ -9434,7 +9932,7 @@
 "male" 2017 "kom" "860" "n.prevalence" "d12" 1 1 512.7 99
 "male" 2017 "national" "national" "n.admissions" "d12" 0 1 54.8 826
 "male" 2017 "national" "national" "n.admissions.ppl" "d12" 0 1 48.4 728
-"male" 2017 "national" "national" "n.dead.year" "d12" 0 1 9.4 125
+"male" 2017 "national" "national" "n.dead.year" "d12" 0 1 9.6 128
 "male" 2017 "national" "national" "n.dead1" "d12" 0 1 6686.3 199
 "male" 2017 "national" "national" "n.dead30" "d12" 0 1 3281.5 87
 "male" 2017 "national" "national" "n.incidence" "d12" 0 1 95.8 1468
@@ -9443,7 +9941,7 @@
 "male" 2017 "national" "national" "n.readmissions.ppl.30" "d12" 0 1 NA 141
 "male" 2017 "region" "1" "n.admissions" "d12" 1 1 60 236
 "male" 2017 "region" "1" "n.admissions.ppl" "d12" 1 1 48.8 191
-"male" 2017 "region" "1" "n.dead.year" "d12" 1 1 10.6 36
+"male" 2017 "region" "1" "n.dead.year" "d12" 1 1 10.8 37
 "male" 2017 "region" "1" "n.dead1" "d12" 1 1 7235.8 56
 "male" 2017 "region" "1" "n.dead30" "d12" 1 1 3856.7 27
 "male" 2017 "region" "1" "n.incidence" "d12" 1 1 93.8 372
@@ -9470,7 +9968,7 @@
 "male" 2017 "region" "5" "n.readmissions.ppl.30" "d12" 1 1 NA 36
 "male" 2017 "region" "2" "n.admissions" "d12" 1 1 54.5 180
 "male" 2017 "region" "2" "n.admissions.ppl" "d12" 1 1 49.9 164
-"male" 2017 "region" "2" "n.dead.year" "d12" 1 1 12.8 37
+"male" 2017 "region" "2" "n.dead.year" "d12" 1 1 12.9 37
 "male" 2017 "region" "2" "n.dead1" "d12" 1 1 NA 48
 "male" 2017 "region" "2" "n.dead30" "d12" 1 1 NA 25
 "male" 2017 "region" "2" "n.incidence" "d12" 1 1 120.7 402
@@ -9495,3 +9993,465 @@
 "male" 2017 "region" "9" "n.prevalence" "d12" 1 1 NA NA
 "male" 2017 "region" "9" "n.readmissions.30" "d12" 1 1 NA NA
 "male" 2017 "region" "9" "n.readmissions.ppl.30" "d12" 1 1 NA NA
+"male" 2018 "age" "85+" "n.admissions" "d12" 0 0 234.9 97
+"male" 2018 "age" "85+" "n.admissions.ppl" "d12" 0 0 210.7 87
+"male" 2018 "age" "85+" "n.dead.year" "d12" 0 0 123.5 51
+"male" 2018 "age" "85+" "n.dead1" "d12" 0 0 41525.4 49
+"male" 2018 "age" "85+" "n.dead30" "d12" 0 0 23728.8 28
+"male" 2018 "age" "85+" "n.incidence" "d12" 0 0 285.7 118
+"male" 2018 "age" "85+" "n.prevalence" "d12" 0 0 2404.6 993
+"male" 2018 "age" "85+" "n.readmissions.30" "d12" 0 0 29.1 12
+"male" 2018 "age" "85+" "n.readmissions.ppl.30" "d12" 0 0 11494.3 10
+"male" 2018 "age" "65 - 74" "n.admissions" "d12" 0 0 116.1 365
+"male" 2018 "age" "65 - 74" "n.admissions.ppl" "d12" 0 0 98.6 310
+"male" 2018 "age" "65 - 74" "n.dead.year" "d12" 0 0 9.5 30
+"male" 2018 "age" "65 - 74" "n.dead1" "d12" 0 0 10508.5 62
+"male" 2018 "age" "65 - 74" "n.dead30" "d12" 0 0 4915.3 29
+"male" 2018 "age" "65 - 74" "n.incidence" "d12" 0 0 187.7 590
+"male" 2018 "age" "65 - 74" "n.prevalence" "d12" 0 0 1154.8 3630
+"male" 2018 "age" "65 - 74" "n.readmissions.30" "d12" 0 0 19.7 62
+"male" 2018 "age" "65 - 74" "n.readmissions.ppl.30" "d12" 0 0 17741.9 55
+"male" 2018 "age" "75 - 84" "n.admissions" "d12" 0 0 237.9 373
+"male" 2018 "age" "75 - 84" "n.admissions.ppl" "d12" 0 0 206 323
+"male" 2018 "age" "75 - 84" "n.dead.year" "d12" 0 0 42.7 67
+"male" 2018 "age" "75 - 84" "n.dead1" "d12" 0 0 19845.9 103
+"male" 2018 "age" "75 - 84" "n.dead30" "d12" 0 0 9826.6 51
+"male" 2018 "age" "75 - 84" "n.incidence" "d12" 0 0 331 519
+"male" 2018 "age" "75 - 84" "n.prevalence" "d12" 0 0 2748.5 4310
+"male" 2018 "age" "75 - 84" "n.readmissions.30" "d12" 0 0 38.9 61
+"male" 2018 "age" "75 - 84" "n.readmissions.ppl.30" "d12" 0 0 17956.7 58
+"male" 2018 "age" "45 - 54" "n.admissions" "d12" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.admissions.ppl" "d12" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.dead.year" "d12" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.dead1" "d12" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.dead30" "d12" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.incidence" "d12" 0 0 9.7 40
+"male" 2018 "age" "45 - 54" "n.prevalence" "d12" 0 0 38.2 157
+"male" 2018 "age" "45 - 54" "n.readmissions.30" "d12" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.readmissions.ppl.30" "d12" 0 0 NA NA
+"male" 2018 "age" "55 - 64" "n.admissions" "d12" 0 0 29.2 103
+"male" 2018 "age" "55 - 64" "n.admissions.ppl" "d12" 0 0 22.4 79
+"male" 2018 "age" "55 - 64" "n.dead.year" "d12" 0 0 NA NA
+"male" 2018 "age" "55 - 64" "n.dead1" "d12" 0 0 7594.9 12
+"male" 2018 "age" "55 - 64" "n.dead30" "d12" 0 0 NA NA
+"male" 2018 "age" "55 - 64" "n.incidence" "d12" 0 0 44.8 158
+"male" 2018 "age" "55 - 64" "n.prevalence" "d12" 0 0 247.6 874
+"male" 2018 "age" "55 - 64" "n.readmissions.30" "d12" 0 0 5.7 20
+"male" 2018 "age" "55 - 64" "n.readmissions.ppl.30" "d12" 0 0 22784.8 18
+"male" 2018 "age" "35 - 44" "n.admissions" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.admissions.ppl" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.dead.year" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.dead1" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.dead30" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.incidence" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.prevalence" "d12" 0 0 5.8 21
+"male" 2018 "age" "35 - 44" "n.readmissions.30" "d12" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.readmissions.ppl.30" "d12" 0 0 NA NA
+"male" 2018 "edu" "unknown" "n.admissions" "d12" 1 1 44.3 13
+"male" 2018 "edu" "unknown" "n.admissions.ppl" "d12" 1 1 37 11
+"male" 2018 "edu" "unknown" "n.dead.year" "d12" 1 1 NA NA
+"male" 2018 "edu" "unknown" "n.dead1" "d12" 1 1 NA 4
+"male" 2018 "edu" "unknown" "n.dead30" "d12" 1 1 NA NA
+"male" 2018 "edu" "unknown" "n.incidence" "d12" 1 1 74.3 23
+"male" 2018 "edu" "unknown" "n.prevalence" "d12" 1 1 450.9 142
+"male" 2018 "edu" "unknown" "n.readmissions.30" "d12" 1 1 NA NA
+"male" 2018 "edu" "unknown" "n.readmissions.ppl.30" "d12" 1 1 NA NA
+"male" 2018 "edu" "basic" "n.admissions" "d12" 1 1 50.8 211
+"male" 2018 "edu" "basic" "n.admissions.ppl" "d12" 1 1 44.1 183
+"male" 2018 "edu" "basic" "n.dead.year" "d12" 1 1 5.5 23
+"male" 2018 "edu" "basic" "n.dead1" "d12" 1 1 NA 42
+"male" 2018 "edu" "basic" "n.dead30" "d12" 1 1 NA 21
+"male" 2018 "edu" "basic" "n.incidence" "d12" 1 1 92.8 381
+"male" 2018 "edu" "basic" "n.prevalence" "d12" 1 1 522.6 2190
+"male" 2018 "edu" "basic" "n.readmissions.30" "d12" 1 1 9.6 40
+"male" 2018 "edu" "basic" "n.readmissions.ppl.30" "d12" 1 1 NA 36
+"male" 2018 "edu" "tertiary" "n.admissions" "d12" 1 1 42.4 104
+"male" 2018 "edu" "tertiary" "n.admissions.ppl" "d12" 1 1 36.4 88
+"male" 2018 "edu" "tertiary" "n.dead.year" "d12" 1 1 2.9 7
+"male" 2018 "edu" "tertiary" "n.dead1" "d12" 1 1 NA 12
+"male" 2018 "edu" "tertiary" "n.dead30" "d12" 1 1 NA 6
+"male" 2018 "edu" "tertiary" "n.incidence" "d12" 1 1 69.4 174
+"male" 2018 "edu" "tertiary" "n.prevalence" "d12" 1 1 390.5 961
+"male" 2018 "edu" "tertiary" "n.readmissions.30" "d12" 1 1 6.2 16
+"male" 2018 "edu" "tertiary" "n.readmissions.ppl.30" "d12" 1 1 NA 13
+"male" 2018 "edu" "secondary" "n.admissions" "d12" 1 1 52 352
+"male" 2018 "edu" "secondary" "n.admissions.ppl" "d12" 1 1 44.2 299
+"male" 2018 "edu" "secondary" "n.dead.year" "d12" 1 1 5.1 34
+"male" 2018 "edu" "secondary" "n.dead1" "d12" 1 1 4649.3 65
+"male" 2018 "edu" "secondary" "n.dead30" "d12" 1 1 1893.8 27
+"male" 2018 "edu" "secondary" "n.incidence" "d12" 1 1 85.2 589
+"male" 2018 "edu" "secondary" "n.prevalence" "d12" 1 1 501.1 3359
+"male" 2018 "edu" "secondary" "n.readmissions.30" "d12" 1 1 9.8 67
+"male" 2018 "edu" "secondary" "n.readmissions.ppl.30" "d12" 1 1 NA 59
+"male" 2018 "edu" "postgraduate" "n.admissions" "d12" 1 1 21.7 24
+"male" 2018 "edu" "postgraduate" "n.admissions.ppl" "d12" 1 1 17.9 20
+"male" 2018 "edu" "postgraduate" "n.dead.year" "d12" 1 1 NA NA
+"male" 2018 "edu" "postgraduate" "n.dead1" "d12" 1 1 NA 5
+"male" 2018 "edu" "postgraduate" "n.dead30" "d12" 1 1 NA NA
+"male" 2018 "edu" "postgraduate" "n.incidence" "d12" 1 1 39.9 48
+"male" 2018 "edu" "postgraduate" "n.prevalence" "d12" 1 1 272.8 317
+"male" 2018 "edu" "postgraduate" "n.readmissions.30" "d12" 1 1 4.5 5
+"male" 2018 "edu" "postgraduate" "n.readmissions.ppl.30" "d12" 1 1 NA 5
+"male" 2018 "kom" "unknown" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "unknown" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "unknown" "n.prevalence" "d12" 1 1 NA NA
+"male" 2018 "kom" "101" "n.admissions" "d12" 1 1 56.4 47
+"male" 2018 "kom" "101" "n.admissions.ppl" "d12" 1 1 45.6 37
+"male" 2018 "kom" "101" "n.prevalence" "d12" 1 1 632.2 477
+"male" 2018 "kom" "147" "n.admissions" "d12" 1 1 66 13
+"male" 2018 "kom" "147" "n.admissions.ppl" "d12" 1 1 51.3 10
+"male" 2018 "kom" "147" "n.prevalence" "d12" 1 1 594.6 124
+"male" 2018 "kom" "151" "n.admissions" "d12" 1 1 64.8 9
+"male" 2018 "kom" "151" "n.admissions.ppl" "d12" 1 1 52.7 7
+"male" 2018 "kom" "151" "n.prevalence" "d12" 1 1 615.8 83
+"male" 2018 "kom" "153" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "153" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "153" "n.prevalence" "d12" 1 1 613.8 55
+"male" 2018 "kom" "155" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "155" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "155" "n.prevalence" "d12" 1 1 514.3 24
+"male" 2018 "kom" "157" "n.admissions" "d12" 1 1 46.8 9
+"male" 2018 "kom" "157" "n.admissions.ppl" "d12" 1 1 41.8 8
+"male" 2018 "kom" "157" "n.prevalence" "d12" 1 1 553.6 106
+"male" 2018 "kom" "159" "n.admissions" "d12" 1 1 48.7 7
+"male" 2018 "kom" "159" "n.admissions.ppl" "d12" 1 1 43 6
+"male" 2018 "kom" "159" "n.prevalence" "d12" 1 1 705.4 100
+"male" 2018 "kom" "161" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "161" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "161" "n.prevalence" "d12" 1 1 721.2 38
+"male" 2018 "kom" "163" "n.admissions" "d12" 1 1 82.6 6
+"male" 2018 "kom" "163" "n.admissions.ppl" "d12" 1 1 57 4
+"male" 2018 "kom" "163" "n.prevalence" "d12" 1 1 587.5 38
+"male" 2018 "kom" "165" "n.admissions" "d12" 1 1 88.3 5
+"male" 2018 "kom" "165" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "165" "n.prevalence" "d12" 1 1 520.7 33
+"male" 2018 "kom" "167" "n.admissions" "d12" 1 1 87.1 10
+"male" 2018 "kom" "167" "n.admissions.ppl" "d12" 1 1 68 8
+"male" 2018 "kom" "167" "n.prevalence" "d12" 1 1 674.6 79
+"male" 2018 "kom" "169" "n.admissions" "d12" 1 1 56.2 6
+"male" 2018 "kom" "169" "n.admissions.ppl" "d12" 1 1 50.3 5
+"male" 2018 "kom" "169" "n.prevalence" "d12" 1 1 728.7 80
+"male" 2018 "kom" "173" "n.admissions" "d12" 1 1 33.3 4
+"male" 2018 "kom" "173" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "173" "n.prevalence" "d12" 1 1 536.3 70
+"male" 2018 "kom" "175" "n.admissions" "d12" 1 1 59.7 5
+"male" 2018 "kom" "175" "n.admissions.ppl" "d12" 1 1 49.1 4
+"male" 2018 "kom" "175" "n.prevalence" "d12" 1 1 675.8 59
+"male" 2018 "kom" "183" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "183" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "183" "n.prevalence" "d12" 1 1 466.6 23
+"male" 2018 "kom" "185" "n.admissions" "d12" 1 1 44.8 5
+"male" 2018 "kom" "185" "n.admissions.ppl" "d12" 1 1 39.4 4
+"male" 2018 "kom" "185" "n.prevalence" "d12" 1 1 635.6 68
+"male" 2018 "kom" "187" "n.admissions" "d12" 1 1 115.8 4
+"male" 2018 "kom" "187" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "187" "n.prevalence" "d12" 1 1 938.7 37
+"male" 2018 "kom" "190" "n.admissions" "d12" 1 1 93 11
+"male" 2018 "kom" "190" "n.admissions.ppl" "d12" 1 1 66.4 8
+"male" 2018 "kom" "190" "n.prevalence" "d12" 1 1 524.9 62
+"male" 2018 "kom" "201" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "201" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "201" "n.prevalence" "d12" 1 1 445.3 31
+"male" 2018 "kom" "210" "n.admissions" "d12" 1 1 38.7 5
+"male" 2018 "kom" "210" "n.admissions.ppl" "d12" 1 1 38.7 5
+"male" 2018 "kom" "210" "n.prevalence" "d12" 1 1 538.5 62
+"male" 2018 "kom" "217" "n.admissions" "d12" 1 1 64.8 11
+"male" 2018 "kom" "217" "n.admissions.ppl" "d12" 1 1 50.1 9
+"male" 2018 "kom" "217" "n.prevalence" "d12" 1 1 576.4 111
+"male" 2018 "kom" "219" "n.admissions" "d12" 1 1 53.2 6
+"male" 2018 "kom" "219" "n.admissions.ppl" "d12" 1 1 44.8 5
+"male" 2018 "kom" "219" "n.prevalence" "d12" 1 1 490.8 58
+"male" 2018 "kom" "223" "n.admissions" "d12" 1 1 53.3 5
+"male" 2018 "kom" "223" "n.admissions.ppl" "d12" 1 1 42.5 4
+"male" 2018 "kom" "223" "n.prevalence" "d12" 1 1 487 42
+"male" 2018 "kom" "230" "n.admissions" "d12" 1 1 49.8 8
+"male" 2018 "kom" "230" "n.admissions.ppl" "d12" 1 1 43.9 7
+"male" 2018 "kom" "230" "n.prevalence" "d12" 1 1 515.7 87
+"male" 2018 "kom" "240" "n.admissions" "d12" 1 1 93.7 10
+"male" 2018 "kom" "240" "n.admissions.ppl" "d12" 1 1 68.1 7
+"male" 2018 "kom" "240" "n.prevalence" "d12" 1 1 730.9 78
+"male" 2018 "kom" "250" "n.admissions" "d12" 1 1 51.3 6
+"male" 2018 "kom" "250" "n.admissions.ppl" "d12" 1 1 44.6 5
+"male" 2018 "kom" "250" "n.prevalence" "d12" 1 1 583.9 77
+"male" 2018 "kom" "253" "n.admissions" "d12" 1 1 55.4 7
+"male" 2018 "kom" "253" "n.admissions.ppl" "d12" 1 1 50.8 6
+"male" 2018 "kom" "253" "n.prevalence" "d12" 1 1 678.3 90
+"male" 2018 "kom" "259" "n.admissions" "d12" 1 1 40.5 6
+"male" 2018 "kom" "259" "n.admissions.ppl" "d12" 1 1 36.8 6
+"male" 2018 "kom" "259" "n.prevalence" "d12" 1 1 633.6 96
+"male" 2018 "kom" "260" "n.admissions" "d12" 1 1 55.5 6
+"male" 2018 "kom" "260" "n.admissions.ppl" "d12" 1 1 39.9 4
+"male" 2018 "kom" "260" "n.prevalence" "d12" 1 1 734.8 74
+"male" 2018 "kom" "265" "n.admissions" "d12" 1 1 69.5 15
+"male" 2018 "kom" "265" "n.admissions.ppl" "d12" 1 1 56.4 12
+"male" 2018 "kom" "265" "n.prevalence" "d12" 1 1 527.3 116
+"male" 2018 "kom" "269" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "269" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "269" "n.prevalence" "d12" 1 1 576.1 34
+"male" 2018 "kom" "270" "n.admissions" "d12" 1 1 69.8 10
+"male" 2018 "kom" "270" "n.admissions.ppl" "d12" 1 1 54.1 8
+"male" 2018 "kom" "270" "n.prevalence" "d12" 1 1 663.2 98
+"male" 2018 "kom" "306" "n.admissions" "d12" 1 1 83.4 12
+"male" 2018 "kom" "306" "n.admissions.ppl" "d12" 1 1 64.7 9
+"male" 2018 "kom" "306" "n.prevalence" "d12" 1 1 641.3 86
+"male" 2018 "kom" "316" "n.admissions" "d12" 1 1 52.9 10
+"male" 2018 "kom" "316" "n.admissions.ppl" "d12" 1 1 44.2 9
+"male" 2018 "kom" "316" "n.prevalence" "d12" 1 1 724.2 137
+"male" 2018 "kom" "320" "n.admissions" "d12" 1 1 66 7
+"male" 2018 "kom" "320" "n.admissions.ppl" "d12" 1 1 63.5 7
+"male" 2018 "kom" "320" "n.prevalence" "d12" 1 1 726.4 76
+"male" 2018 "kom" "326" "n.admissions" "d12" 1 1 49.7 8
+"male" 2018 "kom" "326" "n.admissions.ppl" "d12" 1 1 45.9 7
+"male" 2018 "kom" "326" "n.prevalence" "d12" 1 1 670.6 103
+"male" 2018 "kom" "329" "n.admissions" "d12" 1 1 71.6 6
+"male" 2018 "kom" "329" "n.admissions.ppl" "d12" 1 1 71.6 6
+"male" 2018 "kom" "329" "n.prevalence" "d12" 1 1 718.1 55
+"male" 2018 "kom" "330" "n.admissions" "d12" 1 1 62.4 15
+"male" 2018 "kom" "330" "n.admissions.ppl" "d12" 1 1 53.6 12
+"male" 2018 "kom" "330" "n.prevalence" "d12" 1 1 562.9 122
+"male" 2018 "kom" "336" "n.admissions" "d12" 1 1 62.5 5
+"male" 2018 "kom" "336" "n.admissions.ppl" "d12" 1 1 50.1 4
+"male" 2018 "kom" "336" "n.prevalence" "d12" 1 1 791 59
+"male" 2018 "kom" "340" "n.admissions" "d12" 1 1 66.6 6
+"male" 2018 "kom" "340" "n.admissions.ppl" "d12" 1 1 56.5 5
+"male" 2018 "kom" "340" "n.prevalence" "d12" 1 1 656.1 54
+"male" 2018 "kom" "350" "n.admissions" "d12" 1 1 56.9 4
+"male" 2018 "kom" "350" "n.admissions.ppl" "d12" 1 1 52.7 4
+"male" 2018 "kom" "350" "n.prevalence" "d12" 1 1 732.9 58
+"male" 2018 "kom" "360" "n.admissions" "d12" 1 1 71.8 12
+"male" 2018 "kom" "360" "n.admissions.ppl" "d12" 1 1 61.4 10
+"male" 2018 "kom" "360" "n.prevalence" "d12" 1 1 628 105
+"male" 2018 "kom" "370" "n.admissions" "d12" 1 1 56.1 14
+"male" 2018 "kom" "370" "n.admissions.ppl" "d12" 1 1 50.9 12
+"male" 2018 "kom" "370" "n.prevalence" "d12" 1 1 581.2 130
+"male" 2018 "kom" "376" "n.admissions" "d12" 1 1 80.4 18
+"male" 2018 "kom" "376" "n.admissions.ppl" "d12" 1 1 70.9 16
+"male" 2018 "kom" "376" "n.prevalence" "d12" 1 1 620.9 134
+"male" 2018 "kom" "390" "n.admissions" "d12" 1 1 49.4 8
+"male" 2018 "kom" "390" "n.admissions.ppl" "d12" 1 1 45.3 7
+"male" 2018 "kom" "390" "n.prevalence" "d12" 1 1 509.2 81
+"male" 2018 "kom" "400" "n.admissions" "d12" 1 1 60.6 9
+"male" 2018 "kom" "400" "n.admissions.ppl" "d12" 1 1 50.2 8
+"male" 2018 "kom" "400" "n.prevalence" "d12" 1 1 397.2 59
+"male" 2018 "kom" "410" "n.admissions" "d12" 1 1 77.2 9
+"male" 2018 "kom" "410" "n.admissions.ppl" "d12" 1 1 65.7 8
+"male" 2018 "kom" "410" "n.prevalence" "d12" 1 1 663.8 74
+"male" 2018 "kom" "411" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "411" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "411" "n.prevalence" "d12" 1 1 NA NA
+"male" 2018 "kom" "420" "n.admissions" "d12" 1 1 97.5 12
+"male" 2018 "kom" "420" "n.admissions.ppl" "d12" 1 1 78.6 10
+"male" 2018 "kom" "420" "n.prevalence" "d12" 1 1 736.5 92
+"male" 2018 "kom" "430" "n.admissions" "d12" 1 1 64.5 11
+"male" 2018 "kom" "430" "n.admissions.ppl" "d12" 1 1 55.6 9
+"male" 2018 "kom" "430" "n.prevalence" "d12" 1 1 590.1 99
+"male" 2018 "kom" "440" "n.admissions" "d12" 1 1 61.8 5
+"male" 2018 "kom" "440" "n.admissions.ppl" "d12" 1 1 61.8 5
+"male" 2018 "kom" "440" "n.prevalence" "d12" 1 1 602.8 48
+"male" 2018 "kom" "450" "n.admissions" "d12" 1 1 44.2 5
+"male" 2018 "kom" "450" "n.admissions.ppl" "d12" 1 1 38.7 4
+"male" 2018 "kom" "450" "n.prevalence" "d12" 1 1 589.1 58
+"male" 2018 "kom" "461" "n.admissions" "d12" 1 1 97.8 42
+"male" 2018 "kom" "461" "n.admissions.ppl" "d12" 1 1 81.2 35
+"male" 2018 "kom" "461" "n.prevalence" "d12" 1 1 676.7 298
+"male" 2018 "kom" "479" "n.admissions" "d12" 1 1 76.5 14
+"male" 2018 "kom" "479" "n.admissions.ppl" "d12" 1 1 62.1 11
+"male" 2018 "kom" "479" "n.prevalence" "d12" 1 1 493.8 90
+"male" 2018 "kom" "480" "n.admissions" "d12" 1 1 74.6 7
+"male" 2018 "kom" "480" "n.admissions.ppl" "d12" 1 1 63 6
+"male" 2018 "kom" "480" "n.prevalence" "d12" 1 1 660.5 57
+"male" 2018 "kom" "482" "n.admissions" "d12" 1 1 110.1 6
+"male" 2018 "kom" "482" "n.admissions.ppl" "d12" 1 1 95 5
+"male" 2018 "kom" "482" "n.prevalence" "d12" 1 1 607.1 35
+"male" 2018 "kom" "492" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "492" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "492" "n.prevalence" "d12" 1 1 373.9 11
+"male" 2018 "kom" "510" "n.admissions" "d12" 1 1 54.1 9
+"male" 2018 "kom" "510" "n.admissions.ppl" "d12" 1 1 46.1 8
+"male" 2018 "kom" "510" "n.prevalence" "d12" 1 1 583.9 94
+"male" 2018 "kom" "530" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "530" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "530" "n.prevalence" "d12" 1 1 525.4 39
+"male" 2018 "kom" "540" "n.admissions" "d12" 1 1 88.5 20
+"male" 2018 "kom" "540" "n.admissions.ppl" "d12" 1 1 71.4 17
+"male" 2018 "kom" "540" "n.prevalence" "d12" 1 1 766.8 183
+"male" 2018 "kom" "550" "n.admissions" "d12" 1 1 91.2 12
+"male" 2018 "kom" "550" "n.admissions.ppl" "d12" 1 1 83.1 11
+"male" 2018 "kom" "550" "n.prevalence" "d12" 1 1 702.3 89
+"male" 2018 "kom" "561" "n.admissions" "d12" 1 1 62.6 20
+"male" 2018 "kom" "561" "n.admissions.ppl" "d12" 1 1 57.9 19
+"male" 2018 "kom" "561" "n.prevalence" "d12" 1 1 765.5 233
+"male" 2018 "kom" "563" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "563" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "563" "n.prevalence" "d12" 1 1 688.2 9
+"male" 2018 "kom" "573" "n.admissions" "d12" 1 1 44.3 7
+"male" 2018 "kom" "573" "n.admissions.ppl" "d12" 1 1 37.8 6
+"male" 2018 "kom" "573" "n.prevalence" "d12" 1 1 643.3 97
+"male" 2018 "kom" "575" "n.admissions" "d12" 1 1 84.3 11
+"male" 2018 "kom" "575" "n.admissions.ppl" "d12" 1 1 71.6 9
+"male" 2018 "kom" "575" "n.prevalence" "d12" 1 1 832.9 102
+"male" 2018 "kom" "580" "n.admissions" "d12" 1 1 67.4 13
+"male" 2018 "kom" "580" "n.admissions.ppl" "d12" 1 1 56.6 11
+"male" 2018 "kom" "580" "n.prevalence" "d12" 1 1 686.6 123
+"male" 2018 "kom" "607" "n.admissions" "d12" 1 1 63.7 9
+"male" 2018 "kom" "607" "n.admissions.ppl" "d12" 1 1 61.8 9
+"male" 2018 "kom" "607" "n.prevalence" "d12" 1 1 784.5 109
+"male" 2018 "kom" "615" "n.admissions" "d12" 1 1 50.3 11
+"male" 2018 "kom" "615" "n.admissions.ppl" "d12" 1 1 43 10
+"male" 2018 "kom" "615" "n.prevalence" "d12" 1 1 840.5 181
+"male" 2018 "kom" "621" "n.admissions" "d12" 1 1 77.5 18
+"male" 2018 "kom" "621" "n.admissions.ppl" "d12" 1 1 73.9 17
+"male" 2018 "kom" "621" "n.prevalence" "d12" 1 1 831 189
+"male" 2018 "kom" "630" "n.admissions" "d12" 1 1 77.6 22
+"male" 2018 "kom" "630" "n.admissions.ppl" "d12" 1 1 65.2 19
+"male" 2018 "kom" "630" "n.prevalence" "d12" 1 1 746.3 215
+"male" 2018 "kom" "657" "n.admissions" "d12" 1 1 57.1 13
+"male" 2018 "kom" "657" "n.admissions.ppl" "d12" 1 1 47.3 10
+"male" 2018 "kom" "657" "n.prevalence" "d12" 1 1 737.9 168
+"male" 2018 "kom" "661" "n.admissions" "d12" 1 1 52.2 9
+"male" 2018 "kom" "661" "n.admissions.ppl" "d12" 1 1 46.1 8
+"male" 2018 "kom" "661" "n.prevalence" "d12" 1 1 830.2 131
+"male" 2018 "kom" "665" "n.admissions" "d12" 1 1 56 4
+"male" 2018 "kom" "665" "n.admissions.ppl" "d12" 1 1 56 4
+"male" 2018 "kom" "665" "n.prevalence" "d12" 1 1 761.7 52
+"male" 2018 "kom" "671" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "671" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "671" "n.prevalence" "d12" 1 1 743.4 51
+"male" 2018 "kom" "706" "n.admissions" "d12" 1 1 54.5 8
+"male" 2018 "kom" "706" "n.admissions.ppl" "d12" 1 1 49.9 7
+"male" 2018 "kom" "706" "n.prevalence" "d12" 1 1 719 104
+"male" 2018 "kom" "707" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "707" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "707" "n.prevalence" "d12" 1 1 670.7 81
+"male" 2018 "kom" "710" "n.admissions" "d12" 1 1 81.7 9
+"male" 2018 "kom" "710" "n.admissions.ppl" "d12" 1 1 73.6 8
+"male" 2018 "kom" "710" "n.prevalence" "d12" 1 1 755.2 89
+"male" 2018 "kom" "727" "n.admissions" "d12" 1 1 72.6 5
+"male" 2018 "kom" "727" "n.admissions.ppl" "d12" 1 1 67.2 5
+"male" 2018 "kom" "727" "n.prevalence" "d12" 1 1 638.4 41
+"male" 2018 "kom" "730" "n.admissions" "d12" 1 1 67.3 18
+"male" 2018 "kom" "730" "n.admissions.ppl" "d12" 1 1 57.8 16
+"male" 2018 "kom" "730" "n.prevalence" "d12" 1 1 672.8 176
+"male" 2018 "kom" "740" "n.admissions" "d12" 1 1 46 12
+"male" 2018 "kom" "740" "n.admissions.ppl" "d12" 1 1 44.8 11
+"male" 2018 "kom" "740" "n.prevalence" "d12" 1 1 804.4 183
+"male" 2018 "kom" "741" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "741" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "741" "n.prevalence" "d12" 1 1 784.5 14
+"male" 2018 "kom" "746" "n.admissions" "d12" 1 1 46.2 7
+"male" 2018 "kom" "746" "n.admissions.ppl" "d12" 1 1 41.6 7
+"male" 2018 "kom" "746" "n.prevalence" "d12" 1 1 737.8 102
+"male" 2018 "kom" "751" "n.admissions" "d12" 1 1 41.7 27
+"male" 2018 "kom" "751" "n.admissions.ppl" "d12" 1 1 37.5 24
+"male" 2018 "kom" "751" "n.prevalence" "d12" 1 1 711.8 442
+"male" 2018 "kom" "756" "n.admissions" "d12" 1 1 54.2 6
+"male" 2018 "kom" "756" "n.admissions.ppl" "d12" 1 1 51.1 5
+"male" 2018 "kom" "756" "n.prevalence" "d12" 1 1 810.9 91
+"male" 2018 "kom" "760" "n.admissions" "d12" 1 1 54 9
+"male" 2018 "kom" "760" "n.admissions.ppl" "d12" 1 1 44.7 8
+"male" 2018 "kom" "760" "n.prevalence" "d12" 1 1 658.1 113
+"male" 2018 "kom" "766" "n.admissions" "d12" 1 1 43.6 6
+"male" 2018 "kom" "766" "n.admissions.ppl" "d12" 1 1 43.6 6
+"male" 2018 "kom" "766" "n.prevalence" "d12" 1 1 677.2 85
+"male" 2018 "kom" "773" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "773" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "773" "n.prevalence" "d12" 1 1 739 52
+"male" 2018 "kom" "779" "n.admissions" "d12" 1 1 43 6
+"male" 2018 "kom" "779" "n.admissions.ppl" "d12" 1 1 38.9 6
+"male" 2018 "kom" "779" "n.prevalence" "d12" 1 1 615.4 91
+"male" 2018 "kom" "787" "n.admissions" "d12" 1 1 64.3 9
+"male" 2018 "kom" "787" "n.admissions.ppl" "d12" 1 1 61.2 8
+"male" 2018 "kom" "787" "n.prevalence" "d12" 1 1 680.2 91
+"male" 2018 "kom" "791" "n.admissions" "d12" 1 1 73.8 19
+"male" 2018 "kom" "791" "n.admissions.ppl" "d12" 1 1 68.3 17
+"male" 2018 "kom" "791" "n.prevalence" "d12" 1 1 869.1 220
+"male" 2018 "kom" "810" "n.admissions" "d12" 1 1 38.4 4
+"male" 2018 "kom" "810" "n.admissions.ppl" "d12" 1 1 35.5 4
+"male" 2018 "kom" "810" "n.prevalence" "d12" 1 1 642.9 70
+"male" 2018 "kom" "813" "n.admissions" "d12" 1 1 86.7 19
+"male" 2018 "kom" "813" "n.admissions.ppl" "d12" 1 1 77.8 17
+"male" 2018 "kom" "813" "n.prevalence" "d12" 1 1 551.8 117
+"male" 2018 "kom" "820" "n.admissions" "d12" 1 1 61.6 7
+"male" 2018 "kom" "820" "n.admissions.ppl" "d12" 1 1 55.7 7
+"male" 2018 "kom" "820" "n.prevalence" "d12" 1 1 603.9 71
+"male" 2018 "kom" "825" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "825" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "825" "n.prevalence" "d12" 1 1 773.9 8
+"male" 2018 "kom" "840" "n.admissions" "d12" 1 1 53 4
+"male" 2018 "kom" "840" "n.admissions.ppl" "d12" 1 1 49.6 4
+"male" 2018 "kom" "840" "n.prevalence" "d12" 1 1 585.9 44
+"male" 2018 "kom" "846" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "kom" "846" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "kom" "846" "n.prevalence" "d12" 1 1 500.8 65
+"male" 2018 "kom" "849" "n.admissions" "d12" 1 1 65.7 8
+"male" 2018 "kom" "849" "n.admissions.ppl" "d12" 1 1 65.7 8
+"male" 2018 "kom" "849" "n.prevalence" "d12" 1 1 487.2 61
+"male" 2018 "kom" "851" "n.admissions" "d12" 1 1 57.9 29
+"male" 2018 "kom" "851" "n.admissions.ppl" "d12" 1 1 50.4 25
+"male" 2018 "kom" "851" "n.prevalence" "d12" 1 1 542.8 271
+"male" 2018 "kom" "860" "n.admissions" "d12" 1 1 54.2 11
+"male" 2018 "kom" "860" "n.admissions.ppl" "d12" 1 1 47.5 10
+"male" 2018 "kom" "860" "n.prevalence" "d12" 1 1 550.2 109
+"male" 2018 "national" "national" "n.admissions" "d12" 0 1 62.2 947
+"male" 2018 "national" "national" "n.admissions.ppl" "d12" 0 1 53.1 805
+"male" 2018 "national" "national" "n.dead.year" "d12" 0 1 11.8 154
+"male" 2018 "national" "national" "n.dead1" "d12" 0 1 9522.6 228
+"male" 2018 "national" "national" "n.dead30" "d12" 0 1 5855.1 113
+"male" 2018 "national" "national" "n.incidence" "d12" 0 1 92.1 1428
+"male" 2018 "national" "national" "n.prevalence" "d12" 0 1 659.6 9985
+"male" 2018 "national" "national" "n.readmissions.30" "d12" 0 1 10.2 158
+"male" 2018 "national" "national" "n.readmissions.ppl.30" "d12" 0 1 NA 142
+"male" 2018 "region" "1" "n.admissions" "d12" 1 1 58.1 231
+"male" 2018 "region" "1" "n.admissions.ppl" "d12" 1 1 47.1 186
+"male" 2018 "region" "1" "n.dead.year" "d12" 1 1 10.6 36
+"male" 2018 "region" "1" "n.dead1" "d12" 1 1 7188.4 58
+"male" 2018 "region" "1" "n.dead30" "d12" 1 1 3625.7 26
+"male" 2018 "region" "1" "n.incidence" "d12" 1 1 87.9 355
+"male" 2018 "region" "1" "n.prevalence" "d12" 1 1 593.8 2332
+"male" 2018 "region" "1" "n.readmissions.30" "d12" 1 1 11 46
+"male" 2018 "region" "1" "n.readmissions.ppl.30" "d12" 1 1 NA 39
+"male" 2018 "region" "4" "n.admissions" "d12" 1 1 61.6 155
+"male" 2018 "region" "4" "n.admissions.ppl" "d12" 1 1 54 135
+"male" 2018 "region" "4" "n.dead.year" "d12" 1 1 8.8 20
+"male" 2018 "region" "4" "n.dead1" "d12" 1 1 NA 36
+"male" 2018 "region" "4" "n.dead30" "d12" 1 1 NA 16
+"male" 2018 "region" "4" "n.incidence" "d12" 1 1 97.7 246
+"male" 2018 "region" "4" "n.prevalence" "d12" 1 1 629.2 1537
+"male" 2018 "region" "4" "n.readmissions.30" "d12" 1 1 13.6 36
+"male" 2018 "region" "4" "n.readmissions.ppl.30" "d12" 1 1 NA 32
+"male" 2018 "region" "5" "n.admissions" "d12" 1 1 74.7 257
+"male" 2018 "region" "5" "n.admissions.ppl" "d12" 1 1 64.3 222
+"male" 2018 "region" "5" "n.dead.year" "d12" 1 1 9.8 29
+"male" 2018 "region" "5" "n.dead1" "d12" 1 1 NA 57
+"male" 2018 "region" "5" "n.dead30" "d12" 1 1 NA 24
+"male" 2018 "region" "5" "n.incidence" "d12" 1 1 114.8 406
+"male" 2018 "region" "5" "n.prevalence" "d12" 1 1 688.4 2345
+"male" 2018 "region" "5" "n.readmissions.30" "d12" 1 1 11.8 40
+"male" 2018 "region" "5" "n.readmissions.ppl.30" "d12" 1 1 NA 35
+"male" 2018 "region" "2" "n.admissions" "d12" 1 1 53 178
+"male" 2018 "region" "2" "n.admissions.ppl" "d12" 1 1 47.8 160
+"male" 2018 "region" "2" "n.dead.year" "d12" 1 1 13 38
+"male" 2018 "region" "2" "n.dead1" "d12" 1 1 NA 47
+"male" 2018 "region" "2" "n.dead30" "d12" 1 1 NA 25
+"male" 2018 "region" "2" "n.incidence" "d12" 1 1 102.3 352
+"male" 2018 "region" "2" "n.prevalence" "d12" 1 1 739.5 2415
+"male" 2018 "region" "2" "n.readmissions.30" "d12" 1 1 8 28
+"male" 2018 "region" "2" "n.readmissions.ppl.30" "d12" 1 1 NA 26
+"male" 2018 "region" "3" "n.admissions" "d12" 1 1 56.8 97
+"male" 2018 "region" "3" "n.admissions.ppl" "d12" 1 1 51.5 88
+"male" 2018 "region" "3" "n.dead.year" "d12" 1 1 12.3 18
+"male" 2018 "region" "3" "n.dead1" "d12" 1 1 NA 24
+"male" 2018 "region" "3" "n.dead30" "d12" 1 1 NA 15
+"male" 2018 "region" "3" "n.incidence" "d12" 1 1 99.4 171
+"male" 2018 "region" "3" "n.prevalence" "d12" 1 1 570.8 959
+"male" 2018 "region" "3" "n.readmissions.30" "d12" 1 1 8.1 14
+"male" 2018 "region" "3" "n.readmissions.ppl.30" "d12" 1 1 NA 13
+"male" 2018 "region" "9" "n.admissions" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.admissions.ppl" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.dead.year" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.dead1" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.dead30" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.incidence" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.prevalence" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.readmissions.30" "d12" 1 1 NA NA
+"male" 2018 "region" "9" "n.readmissions.ppl.30" "d12" 1 1 NA NA
