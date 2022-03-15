@@ -1,0 +1,3197 @@
+"sex" "year" "aggr_level" "aggr_level_val" "event" "ht.code" "mov.avg" "age.std" "rate" "n.events"
+"female" 2004 "age" "85+" "n.admissions" "d17" 0 0 32.6 23
+"female" 2004 "age" "85+" "n.admissions.ppl" "d17" 0 0 27 19
+"female" 2004 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"female" 2004 "age" "85+" "n.dead1" "d17" 0 0 72222.2 13
+"female" 2004 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"female" 2004 "age" "85+" "n.dead5" "d17" 0 0 88888.9 16
+"female" 2004 "age" "85+" "n.incidence" "d17" 0 0 25.5 18
+"female" 2004 "age" "85+" "n.prevalence" "d17" 0 0 69.5 49
+"female" 2004 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2004 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2004 "age" "65 - 74" "n.admissions" "d17" 0 0 17.7 40
+"female" 2004 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 16 36
+"female" 2004 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2004 "age" "65 - 74" "n.dead1" "d17" 0 0 59259.3 16
+"female" 2004 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2004 "age" "65 - 74" "n.dead5" "d17" 0 0 70370.4 19
+"female" 2004 "age" "65 - 74" "n.incidence" "d17" 0 0 12 27
+"female" 2004 "age" "65 - 74" "n.prevalence" "d17" 0 0 44.8 101
+"female" 2004 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2004 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2004 "age" "75 - 84" "n.admissions" "d17" 0 0 35.4 59
+"female" 2004 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 32.4 54
+"female" 2004 "age" "75 - 84" "n.dead.year" "d17" 0 0 8.4 14
+"female" 2004 "age" "75 - 84" "n.dead1" "d17" 0 0 53191.5 25
+"female" 2004 "age" "75 - 84" "n.dead30" "d17" 0 0 29787.2 14
+"female" 2004 "age" "75 - 84" "n.dead5" "d17" 0 0 82978.7 39
+"female" 2004 "age" "75 - 84" "n.incidence" "d17" 0 0 28.2 47
+"female" 2004 "age" "75 - 84" "n.prevalence" "d17" 0 0 74.3 124
+"female" 2004 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 9.6 16
+"female" 2004 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 27777.8 15
+"female" 2004 "age" "45 - 54" "n.admissions" "d17" 0 0 7.5 27
+"female" 2004 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 5 18
+"female" 2004 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2004 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2004 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2004 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2004 "age" "45 - 54" "n.incidence" "d17" 0 0 3.6 13
+"female" 2004 "age" "45 - 54" "n.prevalence" "d17" 0 0 17.4 63
+"female" 2004 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2004 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2004 "age" "55 - 64" "n.admissions" "d17" 0 0 8.1 28
+"female" 2004 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 6.6 23
+"female" 2004 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2004 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2004 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2004 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2004 "age" "55 - 64" "n.incidence" "d17" 0 0 4 14
+"female" 2004 "age" "55 - 64" "n.prevalence" "d17" 0 0 22.7 79
+"female" 2004 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2004 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.admissions" "d17" 0 0 4.1 15
+"female" 2004 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.prevalence" "d17" 0 0 13.5 49
+"female" 2004 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2004 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2004 "national" "national" "n.admissions" "d17" 0 1 12.6 192
+"female" 2004 "national" "national" "n.admissions.ppl" "d17" 0 1 10.4 158
+"female" 2004 "national" "national" "n.dead.year" "d17" 0 1 1.6 25
+"female" 2004 "national" "national" "n.dead1" "d17" 0 1 35099.2 64
+"female" 2004 "national" "national" "n.dead30" "d17" 0 1 14447.4 33
+"female" 2004 "national" "national" "n.dead5" "d17" 0 1 50657.3 90
+"female" 2004 "national" "national" "n.incidence" "d17" 0 1 8.2 125
+"female" 2004 "national" "national" "n.prevalence" "d17" 0 1 30.6 465
+"female" 2004 "national" "national" "n.readmissions.30" "d17" 0 1 3.2 49
+"female" 2004 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 37230.6 42
+"female" 2005 "age" "85+" "n.admissions" "d17" 0 0 31 22
+"female" 2005 "age" "85+" "n.admissions.ppl" "d17" 0 0 31 22
+"female" 2005 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"female" 2005 "age" "85+" "n.dead1" "d17" 0 0 60000 12
+"female" 2005 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"female" 2005 "age" "85+" "n.dead5" "d17" 0 0 90000 18
+"female" 2005 "age" "85+" "n.incidence" "d17" 0 0 28.2 20
+"female" 2005 "age" "85+" "n.prevalence" "d17" 0 0 69.1 49
+"female" 2005 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2005 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2005 "age" "65 - 74" "n.admissions" "d17" 0 0 16.2 37
+"female" 2005 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 13.6 31
+"female" 2005 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2005 "age" "65 - 74" "n.dead1" "d17" 0 0 NA NA
+"female" 2005 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2005 "age" "65 - 74" "n.dead5" "d17" 0 0 57142.9 16
+"female" 2005 "age" "65 - 74" "n.incidence" "d17" 0 0 12.3 28
+"female" 2005 "age" "65 - 74" "n.prevalence" "d17" 0 0 40.3 92
+"female" 2005 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2005 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2005 "age" "75 - 84" "n.admissions" "d17" 0 0 27.7 46
+"female" 2005 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 25.3 42
+"female" 2005 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"female" 2005 "age" "75 - 84" "n.dead1" "d17" 0 0 44444.4 16
+"female" 2005 "age" "75 - 84" "n.dead30" "d17" 0 0 27777.8 10
+"female" 2005 "age" "75 - 84" "n.dead5" "d17" 0 0 72222.2 26
+"female" 2005 "age" "75 - 84" "n.incidence" "d17" 0 0 21.7 36
+"female" 2005 "age" "75 - 84" "n.prevalence" "d17" 0 0 75.3 125
+"female" 2005 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2005 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2005 "age" "45 - 54" "n.admissions" "d17" 0 0 10 36
+"female" 2005 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 8 29
+"female" 2005 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2005 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2005 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2005 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2005 "age" "45 - 54" "n.incidence" "d17" 0 0 4.1 15
+"female" 2005 "age" "45 - 54" "n.prevalence" "d17" 0 0 18.8 68
+"female" 2005 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3.6 13
+"female" 2005 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 34482.8 10
+"female" 2005 "age" "55 - 64" "n.admissions" "d17" 0 0 9.3 33
+"female" 2005 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 6.8 24
+"female" 2005 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2005 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2005 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2005 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2005 "age" "55 - 64" "n.incidence" "d17" 0 0 5.1 18
+"female" 2005 "age" "55 - 64" "n.prevalence" "d17" 0 0 20.6 73
+"female" 2005 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2005 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.admissions" "d17" 0 0 5.2 19
+"female" 2005 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 3.6 13
+"female" 2005 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.prevalence" "d17" 0 0 13.2 48
+"female" 2005 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2005 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2005 "national" "national" "n.admissions" "d17" 0 1 12.8 193
+"female" 2005 "national" "national" "n.admissions.ppl" "d17" 0 1 10.6 161
+"female" 2005 "national" "national" "n.dead.year" "d17" 0 1 1.2 20
+"female" 2005 "national" "national" "n.dead1" "d17" 0 1 36236.9 51
+"female" 2005 "national" "national" "n.dead30" "d17" 0 1 20248.6 32
+"female" 2005 "national" "national" "n.dead5" "d17" 0 1 47985.3 76
+"female" 2005 "national" "national" "n.incidence" "d17" 0 1 8.1 123
+"female" 2005 "national" "national" "n.prevalence" "d17" 0 1 29.7 455
+"female" 2005 "national" "national" "n.readmissions.30" "d17" 0 1 3.2 48
+"female" 2005 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 29829.1 38
+"female" 2006 "age" "85+" "n.admissions" "d17" 0 0 27.4 20
+"female" 2006 "age" "85+" "n.admissions.ppl" "d17" 0 0 26.1 19
+"female" 2006 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"female" 2006 "age" "85+" "n.dead1" "d17" 0 0 61111.1 11
+"female" 2006 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"female" 2006 "age" "85+" "n.dead5" "d17" 0 0 94444.4 17
+"female" 2006 "age" "85+" "n.incidence" "d17" 0 0 24.7 18
+"female" 2006 "age" "85+" "n.prevalence" "d17" 0 0 68.6 50
+"female" 2006 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2006 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2006 "age" "65 - 74" "n.admissions" "d17" 0 0 18.1 42
+"female" 2006 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 15.5 36
+"female" 2006 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2006 "age" "65 - 74" "n.dead1" "d17" 0 0 39285.7 11
+"female" 2006 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2006 "age" "65 - 74" "n.dead5" "d17" 0 0 64285.7 18
+"female" 2006 "age" "65 - 74" "n.incidence" "d17" 0 0 12 28
+"female" 2006 "age" "65 - 74" "n.prevalence" "d17" 0 0 42.2 98
+"female" 2006 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2006 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2006 "age" "75 - 84" "n.admissions" "d17" 0 0 42.1 69
+"female" 2006 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 29.9 49
+"female" 2006 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"female" 2006 "age" "75 - 84" "n.dead1" "d17" 0 0 46341.5 19
+"female" 2006 "age" "75 - 84" "n.dead30" "d17" 0 0 36585.4 15
+"female" 2006 "age" "75 - 84" "n.dead5" "d17" 0 0 68292.7 28
+"female" 2006 "age" "75 - 84" "n.incidence" "d17" 0 0 25 41
+"female" 2006 "age" "75 - 84" "n.prevalence" "d17" 0 0 80 131
+"female" 2006 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 12.2 20
+"female" 2006 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 24489.8 12
+"female" 2006 "age" "45 - 54" "n.admissions" "d17" 0 0 5 18
+"female" 2006 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 4.1 15
+"female" 2006 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2006 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2006 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2006 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2006 "age" "45 - 54" "n.incidence" "d17" 0 0 3 11
+"female" 2006 "age" "45 - 54" "n.prevalence" "d17" 0 0 18.8 68
+"female" 2006 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2006 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2006 "age" "55 - 64" "n.admissions" "d17" 0 0 8.9 32
+"female" 2006 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 5.8 21
+"female" 2006 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2006 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2006 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2006 "age" "55 - 64" "n.dead5" "d17" 0 0 62500 10
+"female" 2006 "age" "55 - 64" "n.incidence" "d17" 0 0 4.4 16
+"female" 2006 "age" "55 - 64" "n.prevalence" "d17" 0 0 20.2 73
+"female" 2006 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2006 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.admissions" "d17" 0 0 3.3 12
+"female" 2006 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.prevalence" "d17" 0 0 11.9 43
+"female" 2006 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2006 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2006 "national" "national" "n.admissions" "d17" 0 1 12.7 193
+"female" 2006 "national" "national" "n.admissions.ppl" "d17" 0 1 9.7 147
+"female" 2006 "national" "national" "n.dead.year" "d17" 0 1 1.4 21
+"female" 2006 "national" "national" "n.dead1" "d17" 0 1 39381.1 55
+"female" 2006 "national" "national" "n.dead30" "d17" 0 1 16992.1 33
+"female" 2006 "national" "national" "n.dead5" "d17" 0 1 53155.2 80
+"female" 2006 "national" "national" "n.incidence" "d17" 0 1 7.7 118
+"female" 2006 "national" "national" "n.prevalence" "d17" 0 1 30.1 463
+"female" 2006 "national" "national" "n.readmissions.30" "d17" 0 1 3.1 47
+"female" 2006 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 26470.7 32
+"female" 2007 "age" "85+" "n.admissions" "d17" 0 0 30.9 23
+"female" 2007 "age" "85+" "n.admissions.ppl" "d17" 0 0 24.2 18
+"female" 2007 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"female" 2007 "age" "85+" "n.dead1" "d17" 0 0 77777.8 14
+"female" 2007 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"female" 2007 "age" "85+" "n.dead5" "d17" 0 0 88888.9 16
+"female" 2007 "age" "85+" "n.incidence" "d17" 0 0 24.2 18
+"female" 2007 "age" "85+" "n.prevalence" "d17" 0 0 87.3 65
+"female" 2007 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2007 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2007 "age" "65 - 74" "n.admissions" "d17" 0 0 18.1 43
+"female" 2007 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 13.1 31
+"female" 2007 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2007 "age" "65 - 74" "n.dead1" "d17" 0 0 38461.5 10
+"female" 2007 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2007 "age" "65 - 74" "n.dead5" "d17" 0 0 61538.5 16
+"female" 2007 "age" "65 - 74" "n.incidence" "d17" 0 0 11 26
+"female" 2007 "age" "65 - 74" "n.prevalence" "d17" 0 0 42.1 100
+"female" 2007 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 6.3 15
+"female" 2007 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2007 "age" "75 - 84" "n.admissions" "d17" 0 0 39.6 64
+"female" 2007 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 33.4 54
+"female" 2007 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"female" 2007 "age" "75 - 84" "n.dead1" "d17" 0 0 62222.2 28
+"female" 2007 "age" "75 - 84" "n.dead30" "d17" 0 0 31111.1 14
+"female" 2007 "age" "75 - 84" "n.dead5" "d17" 0 0 73333.3 33
+"female" 2007 "age" "75 - 84" "n.incidence" "d17" 0 0 27.8 45
+"female" 2007 "age" "75 - 84" "n.prevalence" "d17" 0 0 74.9 121
+"female" 2007 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 10.5 17
+"female" 2007 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 20370.4 11
+"female" 2007 "age" "45 - 54" "n.admissions" "d17" 0 0 5.5 20
+"female" 2007 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 3.8 14
+"female" 2007 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2007 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2007 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2007 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2007 "age" "45 - 54" "n.incidence" "d17" 0 0 2.7 10
+"female" 2007 "age" "45 - 54" "n.prevalence" "d17" 0 0 18.4 67
+"female" 2007 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 2.7 10
+"female" 2007 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2007 "age" "55 - 64" "n.admissions" "d17" 0 0 6 22
+"female" 2007 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 4.7 17
+"female" 2007 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2007 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2007 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2007 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2007 "age" "55 - 64" "n.incidence" "d17" 0 0 3.8 14
+"female" 2007 "age" "55 - 64" "n.prevalence" "d17" 0 0 19.5 71
+"female" 2007 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2007 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.admissions" "d17" 0 0 3.9 14
+"female" 2007 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.prevalence" "d17" 0 0 9.9 36
+"female" 2007 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2007 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2007 "national" "national" "n.admissions" "d17" 0 1 12.4 186
+"female" 2007 "national" "national" "n.admissions.ppl" "d17" 0 1 9.5 143
+"female" 2007 "national" "national" "n.dead.year" "d17" 0 1 1.4 21
+"female" 2007 "national" "national" "n.dead1" "d17" 0 1 30608.3 58
+"female" 2007 "national" "national" "n.dead30" "d17" 0 1 12976.5 31
+"female" 2007 "national" "national" "n.dead5" "d17" 0 1 48226.1 75
+"female" 2007 "national" "national" "n.incidence" "d17" 0 1 7.9 119
+"female" 2007 "national" "national" "n.prevalence" "d17" 0 1 29.7 460
+"female" 2007 "national" "national" "n.readmissions.30" "d17" 0 1 4.1 60
+"female" 2007 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 45491.4 40
+"female" 2008 "age" "85+" "n.admissions" "d17" 0 0 42.8 32
+"female" 2008 "age" "85+" "n.admissions.ppl" "d17" 0 0 38.8 29
+"female" 2008 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"female" 2008 "age" "85+" "n.dead1" "d17" 0 0 76923.1 20
+"female" 2008 "age" "85+" "n.dead30" "d17" 0 0 46153.8 12
+"female" 2008 "age" "85+" "n.dead5" "d17" 0 0 96153.8 25
+"female" 2008 "age" "85+" "n.incidence" "d17" 0 0 34.8 26
+"female" 2008 "age" "85+" "n.prevalence" "d17" 0 0 76.2 57
+"female" 2008 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2008 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2008 "age" "65 - 74" "n.admissions" "d17" 0 0 26.1 64
+"female" 2008 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 20.8 51
+"female" 2008 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2008 "age" "65 - 74" "n.dead1" "d17" 0 0 42105.3 16
+"female" 2008 "age" "65 - 74" "n.dead30" "d17" 0 0 36842.1 14
+"female" 2008 "age" "65 - 74" "n.dead5" "d17" 0 0 60526.3 23
+"female" 2008 "age" "65 - 74" "n.incidence" "d17" 0 0 15.5 38
+"female" 2008 "age" "65 - 74" "n.prevalence" "d17" 0 0 41.6 102
+"female" 2008 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 5.3 13
+"female" 2008 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 21568.6 11
+"female" 2008 "age" "75 - 84" "n.admissions" "d17" 0 0 50.4 81
+"female" 2008 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 41.7 67
+"female" 2008 "age" "75 - 84" "n.dead.year" "d17" 0 0 6.2 10
+"female" 2008 "age" "75 - 84" "n.dead1" "d17" 0 0 52631.6 30
+"female" 2008 "age" "75 - 84" "n.dead30" "d17" 0 0 29824.6 17
+"female" 2008 "age" "75 - 84" "n.dead5" "d17" 0 0 70175.4 40
+"female" 2008 "age" "75 - 84" "n.incidence" "d17" 0 0 35.5 57
+"female" 2008 "age" "75 - 84" "n.prevalence" "d17" 0 0 94.6 152
+"female" 2008 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 13.7 22
+"female" 2008 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 25373.1 17
+"female" 2008 "age" "45 - 54" "n.admissions" "d17" 0 0 10.3 38
+"female" 2008 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 5.7 21
+"female" 2008 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2008 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2008 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2008 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2008 "age" "45 - 54" "n.incidence" "d17" 0 0 4.1 15
+"female" 2008 "age" "45 - 54" "n.prevalence" "d17" 0 0 19.6 72
+"female" 2008 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 4.6 17
+"female" 2008 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2008 "age" "55 - 64" "n.admissions" "d17" 0 0 9.3 34
+"female" 2008 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 8.2 30
+"female" 2008 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2008 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2008 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2008 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2008 "age" "55 - 64" "n.incidence" "d17" 0 0 4.7 17
+"female" 2008 "age" "55 - 64" "n.prevalence" "d17" 0 0 18.3 67
+"female" 2008 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2008 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.admissions" "d17" 0 0 3.9 14
+"female" 2008 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 3.3 12
+"female" 2008 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.prevalence" "d17" 0 0 8.8 32
+"female" 2008 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2008 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2008 "national" "national" "n.admissions" "d17" 0 1 16.8 263
+"female" 2008 "national" "national" "n.admissions.ppl" "d17" 0 1 13.4 210
+"female" 2008 "national" "national" "n.dead.year" "d17" 0 1 1.8 28
+"female" 2008 "national" "national" "n.dead1" "d17" 0 1 34148.6 79
+"female" 2008 "national" "national" "n.dead30" "d17" 0 1 18927.1 49
+"female" 2008 "national" "national" "n.dead5" "d17" 0 1 45169.1 105
+"female" 2008 "national" "national" "n.incidence" "d17" 0 1 10.4 162
+"female" 2008 "national" "national" "n.prevalence" "d17" 0 1 31 482
+"female" 2008 "national" "national" "n.readmissions.30" "d17" 0 1 4.1 64
+"female" 2008 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 19690.5 46
+"female" 2009 "age" "85+" "n.admissions" "d17" 0 0 30.3 23
+"female" 2009 "age" "85+" "n.admissions.ppl" "d17" 0 0 26.4 20
+"female" 2009 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"female" 2009 "age" "85+" "n.dead1" "d17" 0 0 70000 14
+"female" 2009 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"female" 2009 "age" "85+" "n.dead5" "d17" 0 0 95000 19
+"female" 2009 "age" "85+" "n.incidence" "d17" 0 0 26.4 20
+"female" 2009 "age" "85+" "n.prevalence" "d17" 0 0 76.5 58
+"female" 2009 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2009 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2009 "age" "65 - 74" "n.admissions" "d17" 0 0 19.6 50
+"female" 2009 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 14.1 36
+"female" 2009 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2009 "age" "65 - 74" "n.dead1" "d17" 0 0 52000 13
+"female" 2009 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2009 "age" "65 - 74" "n.dead5" "d17" 0 0 80000 20
+"female" 2009 "age" "65 - 74" "n.incidence" "d17" 0 0 9.8 25
+"female" 2009 "age" "65 - 74" "n.prevalence" "d17" 0 0 39.9 102
+"female" 2009 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 8.6 22
+"female" 2009 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 33333.3 12
+"female" 2009 "age" "75 - 84" "n.admissions" "d17" 0 0 35.1 56
+"female" 2009 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 27.6 44
+"female" 2009 "age" "75 - 84" "n.dead.year" "d17" 0 0 7.5 12
+"female" 2009 "age" "75 - 84" "n.dead1" "d17" 0 0 46153.8 18
+"female" 2009 "age" "75 - 84" "n.dead30" "d17" 0 0 38461.5 15
+"female" 2009 "age" "75 - 84" "n.dead5" "d17" 0 0 66666.7 26
+"female" 2009 "age" "75 - 84" "n.incidence" "d17" 0 0 24.4 39
+"female" 2009 "age" "75 - 84" "n.prevalence" "d17" 0 0 89 142
+"female" 2009 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 12.5 20
+"female" 2009 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 38636.4 17
+"female" 2009 "age" "45 - 54" "n.admissions" "d17" 0 0 3 11
+"female" 2009 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.incidence" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.prevalence" "d17" 0 0 21.2 79
+"female" 2009 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2009 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2009 "age" "55 - 64" "n.admissions" "d17" 0 0 6.8 25
+"female" 2009 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 5.2 19
+"female" 2009 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2009 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2009 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2009 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2009 "age" "55 - 64" "n.incidence" "d17" 0 0 4.7 17
+"female" 2009 "age" "55 - 64" "n.prevalence" "d17" 0 0 17.8 65
+"female" 2009 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2009 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.admissions" "d17" 0 0 3.9 14
+"female" 2009 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.prevalence" "d17" 0 0 9.1 33
+"female" 2009 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2009 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2009 "national" "national" "n.admissions" "d17" 0 1 11.3 179
+"female" 2009 "national" "national" "n.admissions.ppl" "d17" 0 1 8.4 134
+"female" 2009 "national" "national" "n.dead.year" "d17" 0 1 1.4 23
+"female" 2009 "national" "national" "n.dead1" "d17" 0 1 34605.4 52
+"female" 2009 "national" "national" "n.dead30" "d17" 0 1 24681.1 32
+"female" 2009 "national" "national" "n.dead5" "d17" 0 1 49265.5 76
+"female" 2009 "national" "national" "n.incidence" "d17" 0 1 7 112
+"female" 2009 "national" "national" "n.prevalence" "d17" 0 1 30.5 479
+"female" 2009 "national" "national" "n.readmissions.30" "d17" 0 1 4.1 65
+"female" 2009 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 29645.8 46
+"female" 2009 "region" "1" "n.admissions" "d17" 1 1 16.2 74
+"female" 2009 "region" "1" "n.admissions.ppl" "d17" 1 1 10.4 48
+"female" 2009 "region" "1" "n.dead.year" "d17" 1 1 1.1 5
+"female" 2009 "region" "1" "n.dead1" "d17" 1 1 29037.2 18
+"female" 2009 "region" "1" "n.dead30" "d17" 1 1 14288.1 9
+"female" 2009 "region" "1" "n.dead5" "d17" 1 1 43938.3 24
+"female" 2009 "region" "1" "n.incidence" "d17" 1 1 7.8 36
+"female" 2009 "region" "1" "n.prevalence" "d17" 1 1 32.5 149
+"female" 2009 "region" "1" "n.readmissions.30" "d17" 1 1 7.5 34
+"female" 2009 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 51652.1 20
+"female" 2009 "region" "4" "n.admissions" "d17" 1 1 13.1 31
+"female" 2009 "region" "4" "n.admissions.ppl" "d17" 1 1 10.5 25
+"female" 2009 "region" "4" "n.dead.year" "d17" 1 1 NA NA
+"female" 2009 "region" "4" "n.dead1" "d17" 1 1 NA 9
+"female" 2009 "region" "4" "n.dead30" "d17" 1 1 NA 6
+"female" 2009 "region" "4" "n.dead5" "d17" 1 1 NA 12
+"female" 2009 "region" "4" "n.incidence" "d17" 1 1 8 19
+"female" 2009 "region" "4" "n.prevalence" "d17" 1 1 27.1 65
+"female" 2009 "region" "4" "n.readmissions.30" "d17" 1 1 4.1 10
+"female" 2009 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 23702.8 7
+"female" 2009 "region" "5" "n.admissions" "d17" 1 1 12.7 44
+"female" 2009 "region" "5" "n.admissions.ppl" "d17" 1 1 11.3 39
+"female" 2009 "region" "5" "n.dead.year" "d17" 1 1 2.2 8
+"female" 2009 "region" "5" "n.dead1" "d17" 1 1 42651.1 16
+"female" 2009 "region" "5" "n.dead30" "d17" 1 1 25886.8 10
+"female" 2009 "region" "5" "n.dead5" "d17" 1 1 52435.7 19
+"female" 2009 "region" "5" "n.incidence" "d17" 1 1 9.1 31
+"female" 2009 "region" "5" "n.prevalence" "d17" 1 1 30.2 107
+"female" 2009 "region" "5" "n.readmissions.30" "d17" 1 1 1.8 6
+"female" 2009 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 20073.2 5
+"female" 2009 "region" "2" "n.admissions" "d17" 1 1 14.7 50
+"female" 2009 "region" "2" "n.admissions.ppl" "d17" 1 1 12 40
+"female" 2009 "region" "2" "n.dead.year" "d17" 1 1 1.8 6
+"female" 2009 "region" "2" "n.dead1" "d17" 1 1 30438.3 15
+"female" 2009 "region" "2" "n.dead30" "d17" 1 1 13832.9 9
+"female" 2009 "region" "2" "n.dead5" "d17" 1 1 57370.7 22
+"female" 2009 "region" "2" "n.incidence" "d17" 1 1 10.2 34
+"female" 2009 "region" "2" "n.prevalence" "d17" 1 1 36.1 120
+"female" 2009 "region" "2" "n.readmissions.30" "d17" 1 1 3.3 11
+"female" 2009 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 36443.4 9
+"female" 2009 "region" "3" "n.admissions" "d17" 1 1 6.4 11
+"female" 2009 "region" "3" "n.admissions.ppl" "d17" 1 1 5.6 10
+"female" 2009 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"female" 2009 "region" "3" "n.dead1" "d17" 1 1 NA 5
+"female" 2009 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"female" 2009 "region" "3" "n.dead5" "d17" 1 1 NA 7
+"female" 2009 "region" "3" "n.incidence" "d17" 1 1 5.9 10
+"female" 2009 "region" "3" "n.prevalence" "d17" 1 1 19.2 33
+"female" 2009 "region" "3" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2009 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2009 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2010 "age" "85+" "n.admissions" "d17" 0 0 26.2 20
+"female" 2010 "age" "85+" "n.admissions.ppl" "d17" 0 0 23.6 18
+"female" 2010 "age" "85+" "n.dead.year" "d17" 0 0 13.1 10
+"female" 2010 "age" "85+" "n.dead1" "d17" 0 0 75000 15
+"female" 2010 "age" "85+" "n.dead30" "d17" 0 0 50000 10
+"female" 2010 "age" "85+" "n.dead5" "d17" 0 0 90000 18
+"female" 2010 "age" "85+" "n.incidence" "d17" 0 0 26.2 20
+"female" 2010 "age" "85+" "n.prevalence" "d17" 0 0 83.7 64
+"female" 2010 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2010 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2010 "age" "65 - 74" "n.admissions" "d17" 0 0 36.7 98
+"female" 2010 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 20.2 54
+"female" 2010 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2010 "age" "65 - 74" "n.dead1" "d17" 0 0 35294.1 12
+"female" 2010 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2010 "age" "65 - 74" "n.dead5" "d17" 0 0 52941.2 18
+"female" 2010 "age" "65 - 74" "n.incidence" "d17" 0 0 12.7 34
+"female" 2010 "age" "65 - 74" "n.prevalence" "d17" 0 0 38.2 102
+"female" 2010 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 15 40
+"female" 2010 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 33333.3 18
+"female" 2010 "age" "75 - 84" "n.admissions" "d17" 0 0 27.6 44
+"female" 2010 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 23.8 38
+"female" 2010 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"female" 2010 "age" "75 - 84" "n.dead1" "d17" 0 0 70000 21
+"female" 2010 "age" "75 - 84" "n.dead30" "d17" 0 0 43333.3 13
+"female" 2010 "age" "75 - 84" "n.dead5" "d17" 0 0 80000 24
+"female" 2010 "age" "75 - 84" "n.incidence" "d17" 0 0 18.8 30
+"female" 2010 "age" "75 - 84" "n.prevalence" "d17" 0 0 84.1 134
+"female" 2010 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2010 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.admissions" "d17" 0 0 4.8 18
+"female" 2010 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 3.2 12
+"female" 2010 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.incidence" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.prevalence" "d17" 0 0 17.7 67
+"female" 2010 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2010 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2010 "age" "55 - 64" "n.admissions" "d17" 0 0 12.7 46
+"female" 2010 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 8.3 30
+"female" 2010 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2010 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2010 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2010 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2010 "age" "55 - 64" "n.incidence" "d17" 0 0 6.3 23
+"female" 2010 "age" "55 - 64" "n.prevalence" "d17" 0 0 19.3 70
+"female" 2010 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 5.5 20
+"female" 2010 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 43333.3 13
+"female" 2010 "age" "35 - 44" "n.admissions" "d17" 0 0 3.6 13
+"female" 2010 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.prevalence" "d17" 0 0 8.9 32
+"female" 2010 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2010 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2010 "national" "national" "n.admissions" "d17" 0 1 14.9 239
+"female" 2010 "national" "national" "n.admissions.ppl" "d17" 0 1 10.1 161
+"female" 2010 "national" "national" "n.dead.year" "d17" 0 1 1.7 28
+"female" 2010 "national" "national" "n.dead1" "d17" 0 1 NA 56
+"female" 2010 "national" "national" "n.dead30" "d17" 0 1 NA 35
+"female" 2010 "national" "national" "n.dead5" "d17" 0 1 NA 71
+"female" 2010 "national" "national" "n.incidence" "d17" 0 1 7.4 119
+"female" 2010 "national" "national" "n.prevalence" "d17" 0 1 29.3 469
+"female" 2010 "national" "national" "n.readmissions.30" "d17" 0 1 5.1 84
+"female" 2010 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 NA 51
+"female" 2010 "region" "1" "n.admissions" "d17" 1 1 17.7 82
+"female" 2010 "region" "1" "n.admissions.ppl" "d17" 1 1 10.1 47
+"female" 2010 "region" "1" "n.dead.year" "d17" 1 1 1.3 6
+"female" 2010 "region" "1" "n.dead1" "d17" 1 1 NA 17
+"female" 2010 "region" "1" "n.dead30" "d17" 1 1 NA 9
+"female" 2010 "region" "1" "n.dead5" "d17" 1 1 NA 24
+"female" 2010 "region" "1" "n.incidence" "d17" 1 1 7.2 34
+"female" 2010 "region" "1" "n.prevalence" "d17" 1 1 31.6 146
+"female" 2010 "region" "1" "n.readmissions.30" "d17" 1 1 8.7 40
+"female" 2010 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 NA 22
+"female" 2010 "region" "4" "n.admissions" "d17" 1 1 14.7 36
+"female" 2010 "region" "4" "n.admissions.ppl" "d17" 1 1 11.6 28
+"female" 2010 "region" "4" "n.dead.year" "d17" 1 1 1.4 4
+"female" 2010 "region" "4" "n.dead1" "d17" 1 1 27956.5 9
+"female" 2010 "region" "4" "n.dead30" "d17" 1 1 24243.6 7
+"female" 2010 "region" "4" "n.dead5" "d17" 1 1 36533.8 12
+"female" 2010 "region" "4" "n.incidence" "d17" 1 1 8.7 21
+"female" 2010 "region" "4" "n.prevalence" "d17" 1 1 26.7 65
+"female" 2010 "region" "4" "n.readmissions.30" "d17" 1 1 4.6 11
+"female" 2010 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 32831.8 9
+"female" 2010 "region" "5" "n.admissions" "d17" 1 1 12.5 45
+"female" 2010 "region" "5" "n.admissions.ppl" "d17" 1 1 11.1 40
+"female" 2010 "region" "5" "n.dead.year" "d17" 1 1 2.3 8
+"female" 2010 "region" "5" "n.dead1" "d17" 1 1 42390.4 18
+"female" 2010 "region" "5" "n.dead30" "d17" 1 1 33269.5 11
+"female" 2010 "region" "5" "n.dead5" "d17" 1 1 55099.3 21
+"female" 2010 "region" "5" "n.incidence" "d17" 1 1 8.9 32
+"female" 2010 "region" "5" "n.prevalence" "d17" 1 1 30.5 108
+"female" 2010 "region" "5" "n.readmissions.30" "d17" 1 1 1.8 7
+"female" 2010 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 21684.6 6
+"female" 2010 "region" "2" "n.admissions" "d17" 1 1 14.2 48
+"female" 2010 "region" "2" "n.admissions.ppl" "d17" 1 1 11.4 39
+"female" 2010 "region" "2" "n.dead.year" "d17" 1 1 1.6 6
+"female" 2010 "region" "2" "n.dead1" "d17" 1 1 NA 14
+"female" 2010 "region" "2" "n.dead30" "d17" 1 1 NA 8
+"female" 2010 "region" "2" "n.dead5" "d17" 1 1 NA 20
+"female" 2010 "region" "2" "n.incidence" "d17" 1 1 9.1 31
+"female" 2010 "region" "2" "n.prevalence" "d17" 1 1 36.5 124
+"female" 2010 "region" "2" "n.readmissions.30" "d17" 1 1 3 10
+"female" 2010 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 NA 8
+"female" 2010 "region" "3" "n.admissions" "d17" 1 1 9.2 16
+"female" 2010 "region" "3" "n.admissions.ppl" "d17" 1 1 8.3 14
+"female" 2010 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"female" 2010 "region" "3" "n.dead1" "d17" 1 1 NA 5
+"female" 2010 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"female" 2010 "region" "3" "n.dead5" "d17" 1 1 NA 8
+"female" 2010 "region" "3" "n.incidence" "d17" 1 1 7.3 13
+"female" 2010 "region" "3" "n.prevalence" "d17" 1 1 19.4 34
+"female" 2010 "region" "3" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2010 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2010 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2011 "age" "85+" "n.admissions" "d17" 0 0 44.2 34
+"female" 2011 "age" "85+" "n.admissions.ppl" "d17" 0 0 39 30
+"female" 2011 "age" "85+" "n.dead.year" "d17" 0 0 15.6 12
+"female" 2011 "age" "85+" "n.dead1" "d17" 0 0 67647.1 23
+"female" 2011 "age" "85+" "n.dead30" "d17" 0 0 52941.2 18
+"female" 2011 "age" "85+" "n.dead5" "d17" 0 0 79411.8 27
+"female" 2011 "age" "85+" "n.incidence" "d17" 0 0 44.2 34
+"female" 2011 "age" "85+" "n.prevalence" "d17" 0 0 91 70
+"female" 2011 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2011 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2011 "age" "65 - 74" "n.admissions" "d17" 0 0 20.7 58
+"female" 2011 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 17.8 50
+"female" 2011 "age" "65 - 74" "n.dead.year" "d17" 0 0 4.3 12
+"female" 2011 "age" "65 - 74" "n.dead1" "d17" 0 0 50000 17
+"female" 2011 "age" "65 - 74" "n.dead30" "d17" 0 0 35294.1 12
+"female" 2011 "age" "65 - 74" "n.dead5" "d17" 0 0 70588.2 24
+"female" 2011 "age" "65 - 74" "n.incidence" "d17" 0 0 12.1 34
+"female" 2011 "age" "65 - 74" "n.prevalence" "d17" 0 0 42.8 120
+"female" 2011 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 5.4 15
+"female" 2011 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 28000 14
+"female" 2011 "age" "75 - 84" "n.admissions" "d17" 0 0 47 75
+"female" 2011 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 34.4 55
+"female" 2011 "age" "75 - 84" "n.dead.year" "d17" 0 0 6.9 11
+"female" 2011 "age" "75 - 84" "n.dead1" "d17" 0 0 63043.5 29
+"female" 2011 "age" "75 - 84" "n.dead30" "d17" 0 0 43478.3 20
+"female" 2011 "age" "75 - 84" "n.dead5" "d17" 0 0 76087 35
+"female" 2011 "age" "75 - 84" "n.incidence" "d17" 0 0 28.8 46
+"female" 2011 "age" "75 - 84" "n.prevalence" "d17" 0 0 73.3 117
+"female" 2011 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 18.2 29
+"female" 2011 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 30909.1 17
+"female" 2011 "age" "45 - 54" "n.admissions" "d17" 0 0 5.5 21
+"female" 2011 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 4.2 16
+"female" 2011 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2011 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2011 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2011 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2011 "age" "45 - 54" "n.incidence" "d17" 0 0 2.6 10
+"female" 2011 "age" "45 - 54" "n.prevalence" "d17" 0 0 15.3 59
+"female" 2011 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2011 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2011 "age" "55 - 64" "n.admissions" "d17" 0 0 10.9 39
+"female" 2011 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 8.1 29
+"female" 2011 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2011 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2011 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2011 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2011 "age" "55 - 64" "n.incidence" "d17" 0 0 6.1 22
+"female" 2011 "age" "55 - 64" "n.prevalence" "d17" 0 0 20.9 75
+"female" 2011 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 3.6 13
+"female" 2011 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2011 "age" "35 - 44" "n.admissions" "d17" 0 0 6.8 24
+"female" 2011 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 4.5 16
+"female" 2011 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2011 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2011 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2011 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2011 "age" "35 - 44" "n.incidence" "d17" 0 0 2.8 10
+"female" 2011 "age" "35 - 44" "n.prevalence" "d17" 0 0 8.2 29
+"female" 2011 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 2.8 10
+"female" 2011 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2011 "national" "national" "n.admissions" "d17" 0 1 15.4 251
+"female" 2011 "national" "national" "n.admissions.ppl" "d17" 0 1 12 196
+"female" 2011 "national" "national" "n.dead.year" "d17" 0 1 2.3 37
+"female" 2011 "national" "national" "n.dead1" "d17" 0 1 26001 76
+"female" 2011 "national" "national" "n.dead30" "d17" 0 1 16087.7 53
+"female" 2011 "national" "national" "n.dead5" "d17" 0 1 37931.2 99
+"female" 2011 "national" "national" "n.incidence" "d17" 0 1 9.5 156
+"female" 2011 "national" "national" "n.prevalence" "d17" 0 1 28.9 470
+"female" 2011 "national" "national" "n.readmissions.30" "d17" 0 1 5.2 84
+"female" 2011 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 31639.2 57
+"female" 2011 "region" "1" "n.admissions" "d17" 1 1 18.3 86
+"female" 2011 "region" "1" "n.admissions.ppl" "d17" 1 1 10.5 50
+"female" 2011 "region" "1" "n.dead.year" "d17" 1 1 1.4 7
+"female" 2011 "region" "1" "n.dead1" "d17" 1 1 NA 19
+"female" 2011 "region" "1" "n.dead30" "d17" 1 1 NA 10
+"female" 2011 "region" "1" "n.dead5" "d17" 1 1 NA 25
+"female" 2011 "region" "1" "n.incidence" "d17" 1 1 7.9 38
+"female" 2011 "region" "1" "n.prevalence" "d17" 1 1 29.9 140
+"female" 2011 "region" "1" "n.readmissions.30" "d17" 1 1 9.2 43
+"female" 2011 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 NA 25
+"female" 2011 "region" "4" "n.admissions" "d17" 1 1 15 38
+"female" 2011 "region" "4" "n.admissions.ppl" "d17" 1 1 11.3 28
+"female" 2011 "region" "4" "n.dead.year" "d17" 1 1 1.7 4
+"female" 2011 "region" "4" "n.dead1" "d17" 1 1 30832.1 10
+"female" 2011 "region" "4" "n.dead30" "d17" 1 1 26285.5 8
+"female" 2011 "region" "4" "n.dead5" "d17" 1 1 38296.2 12
+"female" 2011 "region" "4" "n.incidence" "d17" 1 1 8.7 22
+"female" 2011 "region" "4" "n.prevalence" "d17" 1 1 25.9 64
+"female" 2011 "region" "4" "n.readmissions.30" "d17" 1 1 4.9 13
+"female" 2011 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 35611.8 8
+"female" 2011 "region" "5" "n.admissions" "d17" 1 1 9.9 36
+"female" 2011 "region" "5" "n.admissions.ppl" "d17" 1 1 8.8 32
+"female" 2011 "region" "5" "n.dead.year" "d17" 1 1 2.5 9
+"female" 2011 "region" "5" "n.dead1" "d17" 1 1 42492.7 15
+"female" 2011 "region" "5" "n.dead30" "d17" 1 1 27756.3 10
+"female" 2011 "region" "5" "n.dead5" "d17" 1 1 53868.4 17
+"female" 2011 "region" "5" "n.incidence" "d17" 1 1 7.1 26
+"female" 2011 "region" "5" "n.prevalence" "d17" 1 1 30.6 111
+"female" 2011 "region" "5" "n.readmissions.30" "d17" 1 1 2 7
+"female" 2011 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 25545.4 6
+"female" 2011 "region" "2" "n.admissions" "d17" 1 1 14.2 49
+"female" 2011 "region" "2" "n.admissions.ppl" "d17" 1 1 12 41
+"female" 2011 "region" "2" "n.dead.year" "d17" 1 1 1.7 6
+"female" 2011 "region" "2" "n.dead1" "d17" 1 1 26519.1 14
+"female" 2011 "region" "2" "n.dead30" "d17" 1 1 9750.9 9
+"female" 2011 "region" "2" "n.dead5" "d17" 1 1 40252.4 21
+"female" 2011 "region" "2" "n.incidence" "d17" 1 1 9.3 32
+"female" 2011 "region" "2" "n.prevalence" "d17" 1 1 35.5 123
+"female" 2011 "region" "2" "n.readmissions.30" "d17" 1 1 3.2 11
+"female" 2011 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 31005.8 9
+"female" 2011 "region" "3" "n.admissions" "d17" 1 1 8.2 14
+"female" 2011 "region" "3" "n.admissions.ppl" "d17" 1 1 7.4 13
+"female" 2011 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"female" 2011 "region" "3" "n.dead1" "d17" 1 1 NA 4
+"female" 2011 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"female" 2011 "region" "3" "n.dead5" "d17" 1 1 NA 7
+"female" 2011 "region" "3" "n.incidence" "d17" 1 1 6.5 11
+"female" 2011 "region" "3" "n.prevalence" "d17" 1 1 20.4 36
+"female" 2011 "region" "3" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2011 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2011 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2012 "age" "85+" "n.admissions" "d17" 0 0 43.8 34
+"female" 2012 "age" "85+" "n.admissions.ppl" "d17" 0 0 34.8 27
+"female" 2012 "age" "85+" "n.dead.year" "d17" 0 0 18.1 14
+"female" 2012 "age" "85+" "n.dead1" "d17" 0 0 68750 22
+"female" 2012 "age" "85+" "n.dead30" "d17" 0 0 40625 13
+"female" 2012 "age" "85+" "n.dead5" "d17" 0 0 90625 29
+"female" 2012 "age" "85+" "n.incidence" "d17" 0 0 41.3 32
+"female" 2012 "age" "85+" "n.prevalence" "d17" 0 0 105.7 82
+"female" 2012 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2012 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2012 "age" "65 - 74" "n.admissions" "d17" 0 0 24.1 71
+"female" 2012 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 17 50
+"female" 2012 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2012 "age" "65 - 74" "n.dead1" "d17" 0 0 52381 22
+"female" 2012 "age" "65 - 74" "n.dead30" "d17" 0 0 28571.4 12
+"female" 2012 "age" "65 - 74" "n.dead5" "d17" 0 0 64285.7 27
+"female" 2012 "age" "65 - 74" "n.incidence" "d17" 0 0 14.3 42
+"female" 2012 "age" "65 - 74" "n.prevalence" "d17" 0 0 39.8 117
+"female" 2012 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 7.1 21
+"female" 2012 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 24000 12
+"female" 2012 "age" "75 - 84" "n.admissions" "d17" 0 0 42.8 69
+"female" 2012 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 36.6 59
+"female" 2012 "age" "75 - 84" "n.dead.year" "d17" 0 0 9.9 16
+"female" 2012 "age" "75 - 84" "n.dead1" "d17" 0 0 61538.5 32
+"female" 2012 "age" "75 - 84" "n.dead30" "d17" 0 0 40384.6 21
+"female" 2012 "age" "75 - 84" "n.dead5" "d17" 0 0 78846.2 41
+"female" 2012 "age" "75 - 84" "n.incidence" "d17" 0 0 32.2 52
+"female" 2012 "age" "75 - 84" "n.prevalence" "d17" 0 0 75 121
+"female" 2012 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 9.9 16
+"female" 2012 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 23728.8 14
+"female" 2012 "age" "45 - 54" "n.admissions" "d17" 0 0 4.6 18
+"female" 2012 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 3.6 14
+"female" 2012 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2012 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2012 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2012 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2012 "age" "45 - 54" "n.incidence" "d17" 0 0 NA NA
+"female" 2012 "age" "45 - 54" "n.prevalence" "d17" 0 0 16.3 64
+"female" 2012 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2012 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2012 "age" "55 - 64" "n.admissions" "d17" 0 0 11.3 40
+"female" 2012 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 8.5 30
+"female" 2012 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2012 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2012 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2012 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2012 "age" "55 - 64" "n.incidence" "d17" 0 0 6.5 23
+"female" 2012 "age" "55 - 64" "n.prevalence" "d17" 0 0 22.9 81
+"female" 2012 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 4.5 16
+"female" 2012 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 36666.7 11
+"female" 2012 "age" "35 - 44" "n.admissions" "d17" 0 0 6 21
+"female" 2012 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 3.4 12
+"female" 2012 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2012 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2012 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2012 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2012 "age" "35 - 44" "n.incidence" "d17" 0 0 2.9 10
+"female" 2012 "age" "35 - 44" "n.prevalence" "d17" 0 0 7.7 27
+"female" 2012 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2012 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2012 "national" "national" "n.admissions" "d17" 0 1 15.5 253
+"female" 2012 "national" "national" "n.admissions.ppl" "d17" 0 1 11.6 192
+"female" 2012 "national" "national" "n.dead.year" "d17" 0 1 2.5 43
+"female" 2012 "national" "national" "n.dead1" "d17" 0 1 30012.3 87
+"female" 2012 "national" "national" "n.dead30" "d17" 0 1 20200.3 55
+"female" 2012 "national" "national" "n.dead5" "d17" 0 1 39237 112
+"female" 2012 "national" "national" "n.incidence" "d17" 0 1 10.2 168
+"female" 2012 "national" "national" "n.prevalence" "d17" 0 1 29.7 492
+"female" 2012 "national" "national" "n.readmissions.30" "d17" 0 1 4.7 75
+"female" 2012 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 35461.6 51
+"female" 2012 "region" "1" "n.admissions" "d17" 1 1 20.9 99
+"female" 2012 "region" "1" "n.admissions.ppl" "d17" 1 1 11.9 57
+"female" 2012 "region" "1" "n.dead.year" "d17" 1 1 1.7 8
+"female" 2012 "region" "1" "n.dead1" "d17" 1 1 33504.2 22
+"female" 2012 "region" "1" "n.dead30" "d17" 1 1 19466.2 14
+"female" 2012 "region" "1" "n.dead5" "d17" 1 1 43100.5 28
+"female" 2012 "region" "1" "n.incidence" "d17" 1 1 9.3 45
+"female" 2012 "region" "1" "n.prevalence" "d17" 1 1 29.2 139
+"female" 2012 "region" "1" "n.readmissions.30" "d17" 1 1 10.2 48
+"female" 2012 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 54208.7 26
+"female" 2012 "region" "4" "n.admissions" "d17" 1 1 13.8 36
+"female" 2012 "region" "4" "n.admissions.ppl" "d17" 1 1 10.7 28
+"female" 2012 "region" "4" "n.dead.year" "d17" 1 1 1.5 4
+"female" 2012 "region" "4" "n.dead1" "d17" 1 1 NA 8
+"female" 2012 "region" "4" "n.dead30" "d17" 1 1 NA 5
+"female" 2012 "region" "4" "n.dead5" "d17" 1 1 NA 11
+"female" 2012 "region" "4" "n.incidence" "d17" 1 1 7.6 19
+"female" 2012 "region" "4" "n.prevalence" "d17" 1 1 25.4 64
+"female" 2012 "region" "4" "n.readmissions.30" "d17" 1 1 3.7 10
+"female" 2012 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 NA 6
+"female" 2012 "region" "5" "n.admissions" "d17" 1 1 12.3 45
+"female" 2012 "region" "5" "n.admissions.ppl" "d17" 1 1 10.9 40
+"female" 2012 "region" "5" "n.dead.year" "d17" 1 1 3.4 13
+"female" 2012 "region" "5" "n.dead1" "d17" 1 1 50499.3 21
+"female" 2012 "region" "5" "n.dead30" "d17" 1 1 27173.4 15
+"female" 2012 "region" "5" "n.dead5" "d17" 1 1 56515.4 24
+"female" 2012 "region" "5" "n.incidence" "d17" 1 1 9.2 34
+"female" 2012 "region" "5" "n.prevalence" "d17" 1 1 30.2 111
+"female" 2012 "region" "5" "n.readmissions.30" "d17" 1 1 2.2 8
+"female" 2012 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 29779.2 7
+"female" 2012 "region" "2" "n.admissions" "d17" 1 1 15.3 54
+"female" 2012 "region" "2" "n.admissions.ppl" "d17" 1 1 13.2 46
+"female" 2012 "region" "2" "n.dead.year" "d17" 1 1 2.5 9
+"female" 2012 "region" "2" "n.dead1" "d17" 1 1 27095 18
+"female" 2012 "region" "2" "n.dead30" "d17" 1 1 13330.2 11
+"female" 2012 "region" "2" "n.dead5" "d17" 1 1 38685.4 24
+"female" 2012 "region" "2" "n.incidence" "d17" 1 1 11 39
+"female" 2012 "region" "2" "n.prevalence" "d17" 1 1 35.2 124
+"female" 2012 "region" "2" "n.readmissions.30" "d17" 1 1 3.4 12
+"female" 2012 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 31113.2 10
+"female" 2012 "region" "3" "n.admissions" "d17" 1 1 8.2 14
+"female" 2012 "region" "3" "n.admissions.ppl" "d17" 1 1 7.4 13
+"female" 2012 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"female" 2012 "region" "3" "n.dead1" "d17" 1 1 NA NA
+"female" 2012 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"female" 2012 "region" "3" "n.dead5" "d17" 1 1 NA 7
+"female" 2012 "region" "3" "n.incidence" "d17" 1 1 6.3 11
+"female" 2012 "region" "3" "n.prevalence" "d17" 1 1 21.8 39
+"female" 2012 "region" "3" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2012 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2012 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2013 "age" "85+" "n.admissions" "d17" 0 0 58.8 46
+"female" 2013 "age" "85+" "n.admissions.ppl" "d17" 0 0 47.3 37
+"female" 2013 "age" "85+" "n.dead.year" "d17" 0 0 12.8 10
+"female" 2013 "age" "85+" "n.dead1" "d17" 0 0 62500 20
+"female" 2013 "age" "85+" "n.dead30" "d17" 0 0 43750 14
+"female" 2013 "age" "85+" "n.dead5" "d17" 0 0 87500 28
+"female" 2013 "age" "85+" "n.incidence" "d17" 0 0 40.9 32
+"female" 2013 "age" "85+" "n.prevalence" "d17" 0 0 116.4 91
+"female" 2013 "age" "85+" "n.readmissions.30" "d17" 0 0 14.1 11
+"female" 2013 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2013 "age" "65 - 74" "n.admissions" "d17" 0 0 25.5 78
+"female" 2013 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 18.3 56
+"female" 2013 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2013 "age" "65 - 74" "n.dead1" "d17" 0 0 32432.4 12
+"female" 2013 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2013 "age" "65 - 74" "n.dead5" "d17" 0 0 48648.6 18
+"female" 2013 "age" "65 - 74" "n.incidence" "d17" 0 0 12.1 37
+"female" 2013 "age" "65 - 74" "n.prevalence" "d17" 0 0 40.9 125
+"female" 2013 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 10.1 31
+"female" 2013 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 32142.9 18
+"female" 2013 "age" "75 - 84" "n.admissions" "d17" 0 0 41.4 68
+"female" 2013 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 36.5 60
+"female" 2013 "age" "75 - 84" "n.dead.year" "d17" 0 0 9.1 15
+"female" 2013 "age" "75 - 84" "n.dead1" "d17" 0 0 55357.1 31
+"female" 2013 "age" "75 - 84" "n.dead30" "d17" 0 0 39285.7 22
+"female" 2013 "age" "75 - 84" "n.dead5" "d17" 0 0 76785.7 43
+"female" 2013 "age" "75 - 84" "n.incidence" "d17" 0 0 34.1 56
+"female" 2013 "age" "75 - 84" "n.prevalence" "d17" 0 0 73.7 121
+"female" 2013 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 11.6 19
+"female" 2013 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 30000 18
+"female" 2013 "age" "45 - 54" "n.admissions" "d17" 0 0 6.3 25
+"female" 2013 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 3.5 14
+"female" 2013 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2013 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2013 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2013 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2013 "age" "45 - 54" "n.incidence" "d17" 0 0 3.3 13
+"female" 2013 "age" "45 - 54" "n.prevalence" "d17" 0 0 14.9 59
+"female" 2013 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3.5 14
+"female" 2013 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2013 "age" "55 - 64" "n.admissions" "d17" 0 0 14 49
+"female" 2013 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 7.7 27
+"female" 2013 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2013 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2013 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2013 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2013 "age" "55 - 64" "n.incidence" "d17" 0 0 5.2 18
+"female" 2013 "age" "55 - 64" "n.prevalence" "d17" 0 0 26.3 92
+"female" 2013 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 6 21
+"female" 2013 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 48148.1 13
+"female" 2013 "age" "35 - 44" "n.admissions" "d17" 0 0 4.7 16
+"female" 2013 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.prevalence" "d17" 0 0 10.5 36
+"female" 2013 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2013 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2013 "national" "national" "n.admissions" "d17" 0 1 17 282
+"female" 2013 "national" "national" "n.admissions.ppl" "d17" 0 1 12.1 200
+"female" 2013 "national" "national" "n.dead.year" "d17" 0 1 1.8 31
+"female" 2013 "national" "national" "n.dead1" "d17" 0 1 33631 72
+"female" 2013 "national" "national" "n.dead30" "d17" 0 1 18745.2 50
+"female" 2013 "national" "national" "n.dead5" "d17" 0 1 54227 105
+"female" 2013 "national" "national" "n.incidence" "d17" 0 1 9.6 160
+"female" 2013 "national" "national" "n.prevalence" "d17" 0 1 31.4 524
+"female" 2013 "national" "national" "n.readmissions.30" "d17" 0 1 6.2 103
+"female" 2013 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 38734.7 66
+"female" 2013 "region" "1" "n.admissions" "d17" 1 1 21 101
+"female" 2013 "region" "1" "n.admissions.ppl" "d17" 1 1 13.2 64
+"female" 2013 "region" "1" "n.dead.year" "d17" 1 1 1.7 9
+"female" 2013 "region" "1" "n.dead1" "d17" 1 1 31030.3 23
+"female" 2013 "region" "1" "n.dead30" "d17" 1 1 19016.9 16
+"female" 2013 "region" "1" "n.dead5" "d17" 1 1 48693.5 32
+"female" 2013 "region" "1" "n.incidence" "d17" 1 1 10.1 49
+"female" 2013 "region" "1" "n.prevalence" "d17" 1 1 29.8 143
+"female" 2013 "region" "1" "n.readmissions.30" "d17" 1 1 9.8 46
+"female" 2013 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 53780.4 28
+"female" 2013 "region" "4" "n.admissions" "d17" 1 1 15.1 39
+"female" 2013 "region" "4" "n.admissions.ppl" "d17" 1 1 10.6 27
+"female" 2013 "region" "4" "n.dead.year" "d17" 1 1 NA NA
+"female" 2013 "region" "4" "n.dead1" "d17" 1 1 23852.7 9
+"female" 2013 "region" "4" "n.dead30" "d17" 1 1 15265.8 5
+"female" 2013 "region" "4" "n.dead5" "d17" 1 1 33223.6 12
+"female" 2013 "region" "4" "n.incidence" "d17" 1 1 7.5 19
+"female" 2013 "region" "4" "n.prevalence" "d17" 1 1 25.5 66
+"female" 2013 "region" "4" "n.readmissions.30" "d17" 1 1 5 13
+"female" 2013 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 36543.9 6
+"female" 2013 "region" "5" "n.admissions" "d17" 1 1 12 44
+"female" 2013 "region" "5" "n.admissions.ppl" "d17" 1 1 10.6 39
+"female" 2013 "region" "5" "n.dead.year" "d17" 1 1 3.1 12
+"female" 2013 "region" "5" "n.dead1" "d17" 1 1 NA 21
+"female" 2013 "region" "5" "n.dead30" "d17" 1 1 NA 16
+"female" 2013 "region" "5" "n.dead5" "d17" 1 1 NA 24
+"female" 2013 "region" "5" "n.incidence" "d17" 1 1 9.9 37
+"female" 2013 "region" "5" "n.prevalence" "d17" 1 1 31 115
+"female" 2013 "region" "5" "n.readmissions.30" "d17" 1 1 2.1 8
+"female" 2013 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 25289.4 6
+"female" 2013 "region" "2" "n.admissions" "d17" 1 1 17.6 62
+"female" 2013 "region" "2" "n.admissions.ppl" "d17" 1 1 14.9 53
+"female" 2013 "region" "2" "n.dead.year" "d17" 1 1 3.2 11
+"female" 2013 "region" "2" "n.dead1" "d17" 1 1 31081.4 22
+"female" 2013 "region" "2" "n.dead30" "d17" 1 1 17631.5 14
+"female" 2013 "region" "2" "n.dead5" "d17" 1 1 45520.3 29
+"female" 2013 "region" "2" "n.incidence" "d17" 1 1 12.7 45
+"female" 2013 "region" "2" "n.prevalence" "d17" 1 1 35.9 129
+"female" 2013 "region" "2" "n.readmissions.30" "d17" 1 1 4.5 16
+"female" 2013 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 29834 13
+"female" 2013 "region" "3" "n.admissions" "d17" 1 1 8.7 15
+"female" 2013 "region" "3" "n.admissions.ppl" "d17" 1 1 7.5 13
+"female" 2013 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"female" 2013 "region" "3" "n.dead1" "d17" 1 1 NA NA
+"female" 2013 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"female" 2013 "region" "3" "n.dead5" "d17" 1 1 NA 8
+"female" 2013 "region" "3" "n.incidence" "d17" 1 1 6.5 12
+"female" 2013 "region" "3" "n.prevalence" "d17" 1 1 23.4 42
+"female" 2013 "region" "3" "n.readmissions.30" "d17" 1 1 2.8 5
+"female" 2013 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 5
+"female" 2013 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2013 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2014 "age" "85+" "n.admissions" "d17" 0 0 47.2 37
+"female" 2014 "age" "85+" "n.admissions.ppl" "d17" 0 0 43.4 34
+"female" 2014 "age" "85+" "n.dead.year" "d17" 0 0 21.7 17
+"female" 2014 "age" "85+" "n.dead1" "d17" 0 0 70967.7 22
+"female" 2014 "age" "85+" "n.dead30" "d17" 0 0 58064.5 18
+"female" 2014 "age" "85+" "n.dead5" "d17" 0 0 83871 26
+"female" 2014 "age" "85+" "n.incidence" "d17" 0 0 39.5 31
+"female" 2014 "age" "85+" "n.prevalence" "d17" 0 0 126.2 99
+"female" 2014 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2014 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2014 "age" "65 - 74" "n.admissions" "d17" 0 0 30.9 97
+"female" 2014 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 21.9 69
+"female" 2014 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2014 "age" "65 - 74" "n.dead1" "d17" 0 0 49019.6 25
+"female" 2014 "age" "65 - 74" "n.dead30" "d17" 0 0 29411.8 15
+"female" 2014 "age" "65 - 74" "n.dead5" "d17" 0 0 62745.1 32
+"female" 2014 "age" "65 - 74" "n.incidence" "d17" 0 0 16.2 51
+"female" 2014 "age" "65 - 74" "n.prevalence" "d17" 0 0 41.4 130
+"female" 2014 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 9.2 29
+"female" 2014 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 30434.8 21
+"female" 2014 "age" "75 - 84" "n.admissions" "d17" 0 0 53.1 89
+"female" 2014 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 42.3 71
+"female" 2014 "age" "75 - 84" "n.dead.year" "d17" 0 0 6 10
+"female" 2014 "age" "75 - 84" "n.dead1" "d17" 0 0 51923.1 27
+"female" 2014 "age" "75 - 84" "n.dead30" "d17" 0 0 34615.4 18
+"female" 2014 "age" "75 - 84" "n.dead5" "d17" 0 0 69230.8 36
+"female" 2014 "age" "75 - 84" "n.incidence" "d17" 0 0 31 52
+"female" 2014 "age" "75 - 84" "n.prevalence" "d17" 0 0 76.9 129
+"female" 2014 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 13.1 22
+"female" 2014 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 22535.2 16
+"female" 2014 "age" "45 - 54" "n.admissions" "d17" 0 0 4.5 18
+"female" 2014 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 3.5 14
+"female" 2014 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2014 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2014 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2014 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"female" 2014 "age" "45 - 54" "n.incidence" "d17" 0 0 NA NA
+"female" 2014 "age" "45 - 54" "n.prevalence" "d17" 0 0 15.8 63
+"female" 2014 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 2.8 11
+"female" 2014 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2014 "age" "55 - 64" "n.admissions" "d17" 0 0 19.5 68
+"female" 2014 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 10.3 36
+"female" 2014 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2014 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2014 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2014 "age" "55 - 64" "n.dead5" "d17" 0 0 NA NA
+"female" 2014 "age" "55 - 64" "n.incidence" "d17" 0 0 4.9 17
+"female" 2014 "age" "55 - 64" "n.prevalence" "d17" 0 0 27.6 96
+"female" 2014 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 9.2 32
+"female" 2014 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 41666.7 15
+"female" 2014 "age" "35 - 44" "n.admissions" "d17" 0 0 4.4 15
+"female" 2014 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 2.9 10
+"female" 2014 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.prevalence" "d17" 0 0 9.7 33
+"female" 2014 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2014 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2014 "national" "national" "n.admissions" "d17" 0 1 19.3 324
+"female" 2014 "national" "national" "n.admissions.ppl" "d17" 0 1 13.9 234
+"female" 2014 "national" "national" "n.dead.year" "d17" 0 1 2.1 37
+"female" 2014 "national" "national" "n.dead1" "d17" 0 1 28602.4 83
+"female" 2014 "national" "national" "n.dead30" "d17" 0 1 19813.8 58
+"female" 2014 "national" "national" "n.dead5" "d17" 0 1 48710.9 110
+"female" 2014 "national" "national" "n.incidence" "d17" 0 1 9.8 166
+"female" 2014 "national" "national" "n.prevalence" "d17" 0 1 32.6 550
+"female" 2014 "national" "national" "n.readmissions.30" "d17" 0 1 6.3 106
+"female" 2014 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 44524.6 70
+"female" 2014 "region" "1" "n.admissions" "d17" 1 1 24.3 118
+"female" 2014 "region" "1" "n.admissions.ppl" "d17" 1 1 14.9 73
+"female" 2014 "region" "1" "n.dead.year" "d17" 1 1 2 10
+"female" 2014 "region" "1" "n.dead1" "d17" 1 1 34050.5 26
+"female" 2014 "region" "1" "n.dead30" "d17" 1 1 21887.2 18
+"female" 2014 "region" "1" "n.dead5" "d17" 1 1 49630.2 36
+"female" 2014 "region" "1" "n.incidence" "d17" 1 1 10.6 52
+"female" 2014 "region" "1" "n.prevalence" "d17" 1 1 31.4 153
+"female" 2014 "region" "1" "n.readmissions.30" "d17" 1 1 10.6 50
+"female" 2014 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 51256.1 30
+"female" 2014 "region" "4" "n.admissions" "d17" 1 1 15.7 41
+"female" 2014 "region" "4" "n.admissions.ppl" "d17" 1 1 10.9 28
+"female" 2014 "region" "4" "n.dead.year" "d17" 1 1 NA NA
+"female" 2014 "region" "4" "n.dead1" "d17" 1 1 28758 8
+"female" 2014 "region" "4" "n.dead30" "d17" 1 1 13703.8 4
+"female" 2014 "region" "4" "n.dead5" "d17" 1 1 42852.6 11
+"female" 2014 "region" "4" "n.incidence" "d17" 1 1 6.7 17
+"female" 2014 "region" "4" "n.prevalence" "d17" 1 1 26.8 70
+"female" 2014 "region" "4" "n.readmissions.30" "d17" 1 1 6.4 16
+"female" 2014 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 51626.9 10
+"female" 2014 "region" "5" "n.admissions" "d17" 1 1 12.9 48
+"female" 2014 "region" "5" "n.admissions.ppl" "d17" 1 1 11.3 42
+"female" 2014 "region" "5" "n.dead.year" "d17" 1 1 3 12
+"female" 2014 "region" "5" "n.dead1" "d17" 1 1 NA 21
+"female" 2014 "region" "5" "n.dead30" "d17" 1 1 NA 16
+"female" 2014 "region" "5" "n.dead5" "d17" 1 1 NA 27
+"female" 2014 "region" "5" "n.incidence" "d17" 1 1 10.5 39
+"female" 2014 "region" "5" "n.prevalence" "d17" 1 1 31.8 119
+"female" 2014 "region" "5" "n.readmissions.30" "d17" 1 1 2 7
+"female" 2014 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 NA 6
+"female" 2014 "region" "2" "n.admissions" "d17" 1 1 17 61
+"female" 2014 "region" "2" "n.admissions.ppl" "d17" 1 1 13.8 49
+"female" 2014 "region" "2" "n.dead.year" "d17" 1 1 2.8 10
+"female" 2014 "region" "2" "n.dead1" "d17" 1 1 32238.3 19
+"female" 2014 "region" "2" "n.dead30" "d17" 1 1 20925.3 12
+"female" 2014 "region" "2" "n.dead5" "d17" 1 1 47144.6 25
+"female" 2014 "region" "2" "n.incidence" "d17" 1 1 11.3 40
+"female" 2014 "region" "2" "n.prevalence" "d17" 1 1 36.7 134
+"female" 2014 "region" "2" "n.readmissions.30" "d17" 1 1 4.5 16
+"female" 2014 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 32214.8 12
+"female" 2014 "region" "3" "n.admissions" "d17" 1 1 10.6 19
+"female" 2014 "region" "3" "n.admissions.ppl" "d17" 1 1 8.8 16
+"female" 2014 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"female" 2014 "region" "3" "n.dead1" "d17" 1 1 NA 6
+"female" 2014 "region" "3" "n.dead30" "d17" 1 1 NA 4
+"female" 2014 "region" "3" "n.dead5" "d17" 1 1 NA 10
+"female" 2014 "region" "3" "n.incidence" "d17" 1 1 8.4 15
+"female" 2014 "region" "3" "n.prevalence" "d17" 1 1 25.7 46
+"female" 2014 "region" "3" "n.readmissions.30" "d17" 1 1 2.5 5
+"female" 2014 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 5
+"female" 2014 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2014 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2015 "age" "85+" "n.admissions" "d17" 0 0 53.2 42
+"female" 2015 "age" "85+" "n.admissions.ppl" "d17" 0 0 49.4 39
+"female" 2015 "age" "85+" "n.dead.year" "d17" 0 0 16.5 13
+"female" 2015 "age" "85+" "n.dead1" "d17" 0 0 61538.5 24
+"female" 2015 "age" "85+" "n.dead30" "d17" 0 0 43589.7 17
+"female" 2015 "age" "85+" "n.incidence" "d17" 0 0 49.4 39
+"female" 2015 "age" "85+" "n.prevalence" "d17" 0 0 117.9 93
+"female" 2015 "age" "85+" "n.readmissions.30" "d17" 0 0 12.7 10
+"female" 2015 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 25641 10
+"female" 2015 "age" "65 - 74" "n.admissions" "d17" 0 0 24.9 80
+"female" 2015 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 19.6 63
+"female" 2015 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2015 "age" "65 - 74" "n.dead1" "d17" 0 0 53488.4 23
+"female" 2015 "age" "65 - 74" "n.dead30" "d17" 0 0 27907 12
+"female" 2015 "age" "65 - 74" "n.incidence" "d17" 0 0 13.4 43
+"female" 2015 "age" "65 - 74" "n.prevalence" "d17" 0 0 46.7 150
+"female" 2015 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 9.3 30
+"female" 2015 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 34920.6 22
+"female" 2015 "age" "75 - 84" "n.admissions" "d17" 0 0 59.3 102
+"female" 2015 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 52.4 90
+"female" 2015 "age" "75 - 84" "n.dead.year" "d17" 0 0 11.1 19
+"female" 2015 "age" "75 - 84" "n.dead1" "d17" 0 0 56164.4 41
+"female" 2015 "age" "75 - 84" "n.dead30" "d17" 0 0 32876.7 24
+"female" 2015 "age" "75 - 84" "n.incidence" "d17" 0 0 42.5 73
+"female" 2015 "age" "75 - 84" "n.prevalence" "d17" 0 0 79.7 137
+"female" 2015 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 15.1 26
+"female" 2015 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 22222.2 20
+"female" 2015 "age" "45 - 54" "n.admissions" "d17" 0 0 7.2 29
+"female" 2015 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 4.2 17
+"female" 2015 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2015 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2015 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2015 "age" "45 - 54" "n.incidence" "d17" 0 0 2.5 10
+"female" 2015 "age" "45 - 54" "n.prevalence" "d17" 0 0 13.7 55
+"female" 2015 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3 12
+"female" 2015 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2015 "age" "55 - 64" "n.admissions" "d17" 0 0 14.6 51
+"female" 2015 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 10 35
+"female" 2015 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2015 "age" "55 - 64" "n.dead1" "d17" 0 0 51851.9 14
+"female" 2015 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2015 "age" "55 - 64" "n.incidence" "d17" 0 0 7.7 27
+"female" 2015 "age" "55 - 64" "n.prevalence" "d17" 0 0 28.1 98
+"female" 2015 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 3.7 13
+"female" 2015 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 28571.4 10
+"female" 2015 "age" "35 - 44" "n.admissions" "d17" 0 0 4.1 14
+"female" 2015 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 3 10
+"female" 2015 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2015 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2015 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2015 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2015 "age" "35 - 44" "n.prevalence" "d17" 0 0 10.9 37
+"female" 2015 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2015 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2015 "national" "national" "n.admissions" "d17" 0 1 18.6 318
+"female" 2015 "national" "national" "n.admissions.ppl" "d17" 0 1 14.9 254
+"female" 2015 "national" "national" "n.dead.year" "d17" 0 1 2.7 47
+"female" 2015 "national" "national" "n.dead1" "d17" 0 1 46103.4 109
+"female" 2015 "national" "national" "n.dead30" "d17" 0 1 22983.5 63
+"female" 2015 "national" "national" "n.incidence" "d17" 0 1 11.6 199
+"female" 2015 "national" "national" "n.prevalence" "d17" 0 1 33.4 570
+"female" 2015 "national" "national" "n.readmissions.30" "d17" 0 1 5.4 93
+"female" 2015 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 20867 65
+"female" 2015 "region" "1" "n.admissions" "d17" 1 1 24.8 122
+"female" 2015 "region" "1" "n.admissions.ppl" "d17" 1 1 16 79
+"female" 2015 "region" "1" "n.dead.year" "d17" 1 1 2.2 11
+"female" 2015 "region" "1" "n.dead1" "d17" 1 1 33259 30
+"female" 2015 "region" "1" "n.dead30" "d17" 1 1 19601.5 19
+"female" 2015 "region" "1" "n.incidence" "d17" 1 1 10.7 54
+"female" 2015 "region" "1" "n.prevalence" "d17" 1 1 32.6 160
+"female" 2015 "region" "1" "n.readmissions.30" "d17" 1 1 10.4 51
+"female" 2015 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 39347.5 28
+"female" 2015 "region" "4" "n.admissions" "d17" 1 1 18 48
+"female" 2015 "region" "4" "n.admissions.ppl" "d17" 1 1 12.2 32
+"female" 2015 "region" "4" "n.dead.year" "d17" 1 1 NA NA
+"female" 2015 "region" "4" "n.dead1" "d17" 1 1 26229.2 8
+"female" 2015 "region" "4" "n.dead30" "d17" 1 1 12774.4 4
+"female" 2015 "region" "4" "n.incidence" "d17" 1 1 7.5 20
+"female" 2015 "region" "4" "n.prevalence" "d17" 1 1 28.8 76
+"female" 2015 "region" "4" "n.readmissions.30" "d17" 1 1 7.8 20
+"female" 2015 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 59890.8 14
+"female" 2015 "region" "5" "n.admissions" "d17" 1 1 13.8 52
+"female" 2015 "region" "5" "n.admissions.ppl" "d17" 1 1 12 45
+"female" 2015 "region" "5" "n.dead.year" "d17" 1 1 3.2 12
+"female" 2015 "region" "5" "n.dead1" "d17" 1 1 48701.8 22
+"female" 2015 "region" "5" "n.dead30" "d17" 1 1 34981.1 17
+"female" 2015 "region" "5" "n.incidence" "d17" 1 1 10.8 41
+"female" 2015 "region" "5" "n.prevalence" "d17" 1 1 33.7 127
+"female" 2015 "region" "5" "n.readmissions.30" "d17" 1 1 2.5 10
+"female" 2015 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 23429.2 8
+"female" 2015 "region" "2" "n.admissions" "d17" 1 1 16.2 58
+"female" 2015 "region" "2" "n.admissions.ppl" "d17" 1 1 13.5 49
+"female" 2015 "region" "2" "n.dead.year" "d17" 1 1 2.1 8
+"female" 2015 "region" "2" "n.dead1" "d17" 1 1 31015.8 17
+"female" 2015 "region" "2" "n.dead30" "d17" 1 1 18872.7 11
+"female" 2015 "region" "2" "n.incidence" "d17" 1 1 10.5 38
+"female" 2015 "region" "2" "n.prevalence" "d17" 1 1 36.5 134
+"female" 2015 "region" "2" "n.readmissions.30" "d17" 1 1 3.8 14
+"female" 2015 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 19507.5 11
+"female" 2015 "region" "3" "n.admissions" "d17" 1 1 15.3 28
+"female" 2015 "region" "3" "n.admissions.ppl" "d17" 1 1 12.9 24
+"female" 2015 "region" "3" "n.dead.year" "d17" 1 1 1.9 4
+"female" 2015 "region" "3" "n.dead1" "d17" 1 1 56360.8 10
+"female" 2015 "region" "3" "n.dead30" "d17" 1 1 28146 6
+"female" 2015 "region" "3" "n.incidence" "d17" 1 1 12.5 23
+"female" 2015 "region" "3" "n.prevalence" "d17" 1 1 27.7 50
+"female" 2015 "region" "3" "n.readmissions.30" "d17" 1 1 3.4 6
+"female" 2015 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 6
+"female" 2015 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2015 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2016 "age" "85+" "n.admissions" "d17" 0 0 49.4 39
+"female" 2016 "age" "85+" "n.admissions.ppl" "d17" 0 0 43 34
+"female" 2016 "age" "85+" "n.dead.year" "d17" 0 0 22.8 18
+"female" 2016 "age" "85+" "n.dead1" "d17" 0 0 75000 30
+"female" 2016 "age" "85+" "n.dead30" "d17" 0 0 45000 18
+"female" 2016 "age" "85+" "n.incidence" "d17" 0 0 50.6 40
+"female" 2016 "age" "85+" "n.prevalence" "d17" 0 0 122.7 97
+"female" 2016 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2016 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2016 "age" "65 - 74" "n.admissions" "d17" 0 0 22.9 75
+"female" 2016 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 17.4 57
+"female" 2016 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2016 "age" "65 - 74" "n.dead1" "d17" 0 0 NA NA
+"female" 2016 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2016 "age" "65 - 74" "n.incidence" "d17" 0 0 13.7 45
+"female" 2016 "age" "65 - 74" "n.prevalence" "d17" 0 0 44 144
+"female" 2016 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 7.9 26
+"female" 2016 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 31578.9 18
+"female" 2016 "age" "75 - 84" "n.admissions" "d17" 0 0 53.1 94
+"female" 2016 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 41.8 74
+"female" 2016 "age" "75 - 84" "n.dead.year" "d17" 0 0 6.8 12
+"female" 2016 "age" "75 - 84" "n.dead1" "d17" 0 0 46666.7 28
+"female" 2016 "age" "75 - 84" "n.dead30" "d17" 0 0 30000 18
+"female" 2016 "age" "75 - 84" "n.incidence" "d17" 0 0 33.9 60
+"female" 2016 "age" "75 - 84" "n.prevalence" "d17" 0 0 88.7 157
+"female" 2016 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 13 23
+"female" 2016 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 16216.2 12
+"female" 2016 "age" "45 - 54" "n.admissions" "d17" 0 0 4.7 19
+"female" 2016 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 3.7 15
+"female" 2016 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2016 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2016 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2016 "age" "45 - 54" "n.incidence" "d17" 0 0 NA NA
+"female" 2016 "age" "45 - 54" "n.prevalence" "d17" 0 0 12.7 51
+"female" 2016 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2016 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2016 "age" "55 - 64" "n.admissions" "d17" 0 0 10 35
+"female" 2016 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 7.1 25
+"female" 2016 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2016 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2016 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2016 "age" "55 - 64" "n.incidence" "d17" 0 0 6.6 23
+"female" 2016 "age" "55 - 64" "n.prevalence" "d17" 0 0 28 98
+"female" 2016 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 3.4 12
+"female" 2016 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.admissions" "d17" 0 0 3.6 12
+"female" 2016 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.prevalence" "d17" 0 0 12.2 41
+"female" 2016 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2016 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2016 "national" "national" "n.admissions" "d17" 0 1 15.9 274
+"female" 2016 "national" "national" "n.admissions.ppl" "d17" 0 1 12.1 211
+"female" 2016 "national" "national" "n.dead.year" "d17" 0 1 2.3 41
+"female" 2016 "national" "national" "n.dead1" "d17" 0 1 25472.8 79
+"female" 2016 "national" "national" "n.dead30" "d17" 0 1 17158.6 47
+"female" 2016 "national" "national" "n.incidence" "d17" 0 1 10.2 180
+"female" 2016 "national" "national" "n.prevalence" "d17" 0 1 34.1 588
+"female" 2016 "national" "national" "n.readmissions.30" "d17" 0 1 4.5 78
+"female" 2016 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 33263.2 50
+"female" 2016 "region" "1" "n.admissions" "d17" 1 1 23.5 117
+"female" 2016 "region" "1" "n.admissions.ppl" "d17" 1 1 15.8 79
+"female" 2016 "region" "1" "n.dead.year" "d17" 1 1 2.5 13
+"female" 2016 "region" "1" "n.dead1" "d17" 1 1 32296.8 32
+"female" 2016 "region" "1" "n.dead30" "d17" 1 1 21367.6 19
+"female" 2016 "region" "1" "n.incidence" "d17" 1 1 11.1 56
+"female" 2016 "region" "1" "n.prevalence" "d17" 1 1 32.8 164
+"female" 2016 "region" "1" "n.readmissions.30" "d17" 1 1 8.7 43
+"female" 2016 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 34045.2 25
+"female" 2016 "region" "4" "n.admissions" "d17" 1 1 17.3 47
+"female" 2016 "region" "4" "n.admissions.ppl" "d17" 1 1 11.8 32
+"female" 2016 "region" "4" "n.dead.year" "d17" 1 1 1.5 4
+"female" 2016 "region" "4" "n.dead1" "d17" 1 1 NA 8
+"female" 2016 "region" "4" "n.dead30" "d17" 1 1 NA 5
+"female" 2016 "region" "4" "n.incidence" "d17" 1 1 7.1 19
+"female" 2016 "region" "4" "n.prevalence" "d17" 1 1 29.9 80
+"female" 2016 "region" "4" "n.readmissions.30" "d17" 1 1 7.4 20
+"female" 2016 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 61848.4 13
+"female" 2016 "region" "5" "n.admissions" "d17" 1 1 13.7 52
+"female" 2016 "region" "5" "n.admissions.ppl" "d17" 1 1 12.2 46
+"female" 2016 "region" "5" "n.dead.year" "d17" 1 1 3.3 13
+"female" 2016 "region" "5" "n.dead1" "d17" 1 1 41977.9 21
+"female" 2016 "region" "5" "n.dead30" "d17" 1 1 24630.8 15
+"female" 2016 "region" "5" "n.incidence" "d17" 1 1 10.5 40
+"female" 2016 "region" "5" "n.prevalence" "d17" 1 1 35 134
+"female" 2016 "region" "5" "n.readmissions.30" "d17" 1 1 2.1 8
+"female" 2016 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 24641.5 7
+"female" 2016 "region" "2" "n.admissions" "d17" 1 1 16.4 59
+"female" 2016 "region" "2" "n.admissions.ppl" "d17" 1 1 13.7 50
+"female" 2016 "region" "2" "n.dead.year" "d17" 1 1 1.7 7
+"female" 2016 "region" "2" "n.dead1" "d17" 1 1 NA 19
+"female" 2016 "region" "2" "n.dead30" "d17" 1 1 NA 11
+"female" 2016 "region" "2" "n.incidence" "d17" 1 1 10.9 40
+"female" 2016 "region" "2" "n.prevalence" "d17" 1 1 36.3 134
+"female" 2016 "region" "2" "n.readmissions.30" "d17" 1 1 3.9 14
+"female" 2016 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 26016.3 11
+"female" 2016 "region" "3" "n.admissions" "d17" 1 1 16.1 30
+"female" 2016 "region" "3" "n.admissions.ppl" "d17" 1 1 13.6 26
+"female" 2016 "region" "3" "n.dead.year" "d17" 1 1 2.6 5
+"female" 2016 "region" "3" "n.dead1" "d17" 1 1 NA 11
+"female" 2016 "region" "3" "n.dead30" "d17" 1 1 NA 6
+"female" 2016 "region" "3" "n.incidence" "d17" 1 1 13.7 26
+"female" 2016 "region" "3" "n.prevalence" "d17" 1 1 31.4 58
+"female" 2016 "region" "3" "n.readmissions.30" "d17" 1 1 3.6 7
+"female" 2016 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 6
+"female" 2016 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2016 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2017 "age" "85+" "n.admissions" "d17" 0 0 56.8 45
+"female" 2017 "age" "85+" "n.admissions.ppl" "d17" 0 0 49.2 39
+"female" 2017 "age" "85+" "n.dead.year" "d17" 0 0 30.3 24
+"female" 2017 "age" "85+" "n.dead1" "d17" 0 0 75000 33
+"female" 2017 "age" "85+" "n.dead30" "d17" 0 0 54545.5 24
+"female" 2017 "age" "85+" "n.incidence" "d17" 0 0 55.5 44
+"female" 2017 "age" "85+" "n.prevalence" "d17" 0 0 128.7 102
+"female" 2017 "age" "85+" "n.readmissions.30" "d17" 0 0 15.1 12
+"female" 2017 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2017 "age" "65 - 74" "n.admissions" "d17" 0 0 23.8 79
+"female" 2017 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 17.8 59
+"female" 2017 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2017 "age" "65 - 74" "n.dead1" "d17" 0 0 33333.3 15
+"female" 2017 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"female" 2017 "age" "65 - 74" "n.incidence" "d17" 0 0 13.6 45
+"female" 2017 "age" "65 - 74" "n.prevalence" "d17" 0 0 47.4 157
+"female" 2017 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 8.1 27
+"female" 2017 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 33898.3 20
+"female" 2017 "age" "75 - 84" "n.admissions" "d17" 0 0 73.3 134
+"female" 2017 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 50.9 93
+"female" 2017 "age" "75 - 84" "n.dead.year" "d17" 0 0 9.3 17
+"female" 2017 "age" "75 - 84" "n.dead1" "d17" 0 0 48684.2 37
+"female" 2017 "age" "75 - 84" "n.dead30" "d17" 0 0 28947.4 22
+"female" 2017 "age" "75 - 84" "n.incidence" "d17" 0 0 41.6 76
+"female" 2017 "age" "75 - 84" "n.prevalence" "d17" 0 0 99.1 181
+"female" 2017 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 32.8 60
+"female" 2017 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 37634.4 35
+"female" 2017 "age" "45 - 54" "n.admissions" "d17" 0 0 5.7 23
+"female" 2017 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 5 20
+"female" 2017 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2017 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2017 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2017 "age" "45 - 54" "n.incidence" "d17" 0 0 3 12
+"female" 2017 "age" "45 - 54" "n.prevalence" "d17" 0 0 12.9 52
+"female" 2017 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2017 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2017 "age" "55 - 64" "n.admissions" "d17" 0 0 10.2 36
+"female" 2017 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 8.5 30
+"female" 2017 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2017 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"female" 2017 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2017 "age" "55 - 64" "n.incidence" "d17" 0 0 6.8 24
+"female" 2017 "age" "55 - 64" "n.prevalence" "d17" 0 0 26.1 92
+"female" 2017 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 4 14
+"female" 2017 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 40000 12
+"female" 2017 "age" "35 - 44" "n.admissions" "d17" 0 0 3.6 12
+"female" 2017 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2017 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2017 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2017 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2017 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2017 "age" "35 - 44" "n.prevalence" "d17" 0 0 10.5 35
+"female" 2017 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2017 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2017 "national" "national" "n.admissions" "d17" 0 1 18.8 329
+"female" 2017 "national" "national" "n.admissions.ppl" "d17" 0 1 14.2 250
+"female" 2017 "national" "national" "n.dead.year" "d17" 0 1 3.1 56
+"female" 2017 "national" "national" "n.dead1" "d17" 0 1 33261.3 98
+"female" 2017 "national" "national" "n.dead30" "d17" 0 1 17702.2 61
+"female" 2017 "national" "national" "n.incidence" "d17" 0 1 11.6 206
+"female" 2017 "national" "national" "n.prevalence" "d17" 0 1 35.1 619
+"female" 2017 "national" "national" "n.readmissions.30" "d17" 0 1 7 121
+"female" 2017 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 29079.1 83
+"female" 2017 "region" "1" "n.admissions" "d17" 1 1 20.2 102
+"female" 2017 "region" "1" "n.admissions.ppl" "d17" 1 1 14.6 74
+"female" 2017 "region" "1" "n.dead.year" "d17" 1 1 3.1 16
+"female" 2017 "region" "1" "n.dead1" "d17" 1 1 NA 32
+"female" 2017 "region" "1" "n.dead30" "d17" 1 1 NA 19
+"female" 2017 "region" "1" "n.incidence" "d17" 1 1 11.9 61
+"female" 2017 "region" "1" "n.prevalence" "d17" 1 1 32.2 162
+"female" 2017 "region" "1" "n.readmissions.30" "d17" 1 1 7.6 39
+"female" 2017 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 NA 24
+"female" 2017 "region" "4" "n.admissions" "d17" 1 1 19 52
+"female" 2017 "region" "4" "n.admissions.ppl" "d17" 1 1 12.2 34
+"female" 2017 "region" "4" "n.dead.year" "d17" 1 1 2.4 7
+"female" 2017 "region" "4" "n.dead1" "d17" 1 1 NA 10
+"female" 2017 "region" "4" "n.dead30" "d17" 1 1 NA 7
+"female" 2017 "region" "4" "n.incidence" "d17" 1 1 7.5 21
+"female" 2017 "region" "4" "n.prevalence" "d17" 1 1 30.7 84
+"female" 2017 "region" "4" "n.readmissions.30" "d17" 1 1 7.7 21
+"female" 2017 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 NA 11
+"female" 2017 "region" "5" "n.admissions" "d17" 1 1 13.5 52
+"female" 2017 "region" "5" "n.admissions.ppl" "d17" 1 1 11.8 46
+"female" 2017 "region" "5" "n.dead.year" "d17" 1 1 3.1 12
+"female" 2017 "region" "5" "n.dead1" "d17" 1 1 46618.2 23
+"female" 2017 "region" "5" "n.dead30" "d17" 1 1 21789 15
+"female" 2017 "region" "5" "n.incidence" "d17" 1 1 10.6 42
+"female" 2017 "region" "5" "n.prevalence" "d17" 1 1 36.2 139
+"female" 2017 "region" "5" "n.readmissions.30" "d17" 1 1 2.5 10
+"female" 2017 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 15771.7 9
+"female" 2017 "region" "2" "n.admissions" "d17" 1 1 18.4 68
+"female" 2017 "region" "2" "n.admissions.ppl" "d17" 1 1 15.2 56
+"female" 2017 "region" "2" "n.dead.year" "d17" 1 1 2 8
+"female" 2017 "region" "2" "n.dead1" "d17" 1 1 23325.3 21
+"female" 2017 "region" "2" "n.dead30" "d17" 1 1 11628.4 11
+"female" 2017 "region" "2" "n.incidence" "d17" 1 1 12.2 46
+"female" 2017 "region" "2" "n.prevalence" "d17" 1 1 37.6 141
+"female" 2017 "region" "2" "n.readmissions.30" "d17" 1 1 5.1 19
+"female" 2017 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 29097.3 15
+"female" 2017 "region" "3" "n.admissions" "d17" 1 1 17.3 33
+"female" 2017 "region" "3" "n.admissions.ppl" "d17" 1 1 14.8 28
+"female" 2017 "region" "3" "n.dead.year" "d17" 1 1 2.4 5
+"female" 2017 "region" "3" "n.dead1" "d17" 1 1 NA 10
+"female" 2017 "region" "3" "n.dead30" "d17" 1 1 NA 5
+"female" 2017 "region" "3" "n.incidence" "d17" 1 1 13.8 26
+"female" 2017 "region" "3" "n.prevalence" "d17" 1 1 35.3 66
+"female" 2017 "region" "3" "n.readmissions.30" "d17" 1 1 5 9
+"female" 2017 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 8
+"female" 2017 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2017 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"female" 2018 "age" "85+" "n.admissions" "d17" 0 0 61.7 49
+"female" 2018 "age" "85+" "n.admissions.ppl" "d17" 0 0 50.3 40
+"female" 2018 "age" "85+" "n.dead.year" "d17" 0 0 32.7 26
+"female" 2018 "age" "85+" "n.dead1" "d17" 0 0 69565.2 32
+"female" 2018 "age" "85+" "n.dead30" "d17" 0 0 56521.7 26
+"female" 2018 "age" "85+" "n.incidence" "d17" 0 0 57.9 46
+"female" 2018 "age" "85+" "n.prevalence" "d17" 0 0 142.2 113
+"female" 2018 "age" "85+" "n.readmissions.30" "d17" 0 0 15.1 12
+"female" 2018 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 25000 10
+"female" 2018 "age" "65 - 74" "n.admissions" "d17" 0 0 24 80
+"female" 2018 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 20.1 67
+"female" 2018 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"female" 2018 "age" "65 - 74" "n.dead1" "d17" 0 0 38461.5 20
+"female" 2018 "age" "65 - 74" "n.dead30" "d17" 0 0 25000 13
+"female" 2018 "age" "65 - 74" "n.incidence" "d17" 0 0 15.6 52
+"female" 2018 "age" "65 - 74" "n.prevalence" "d17" 0 0 51.6 172
+"female" 2018 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 6.3 21
+"female" 2018 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 23880.6 16
+"female" 2018 "age" "75 - 84" "n.admissions" "d17" 0 0 57.6 110
+"female" 2018 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 47.7 91
+"female" 2018 "age" "75 - 84" "n.dead.year" "d17" 0 0 11 21
+"female" 2018 "age" "75 - 84" "n.dead1" "d17" 0 0 48809.5 41
+"female" 2018 "age" "75 - 84" "n.dead30" "d17" 0 0 30952.4 26
+"female" 2018 "age" "75 - 84" "n.incidence" "d17" 0 0 44 84
+"female" 2018 "age" "75 - 84" "n.prevalence" "d17" 0 0 102.2 195
+"female" 2018 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 14.7 28
+"female" 2018 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 25274.7 23
+"female" 2018 "age" "45 - 54" "n.admissions" "d17" 0 0 5.7 23
+"female" 2018 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 4.9 20
+"female" 2018 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.incidence" "d17" 0 0 4.4 18
+"female" 2018 "age" "45 - 54" "n.prevalence" "d17" 0 0 13.6 55
+"female" 2018 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2018 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.admissions" "d17" 0 0 13.7 49
+"female" 2018 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 10.4 37
+"female" 2018 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.dead1" "d17" 0 0 41176.5 14
+"female" 2018 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"female" 2018 "age" "55 - 64" "n.incidence" "d17" 0 0 9.5 34
+"female" 2018 "age" "55 - 64" "n.prevalence" "d17" 0 0 23.9 85
+"female" 2018 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 5.1 18
+"female" 2018 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 32432.4 12
+"female" 2018 "age" "35 - 44" "n.admissions" "d17" 0 0 3.7 12
+"female" 2018 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.prevalence" "d17" 0 0 12 39
+"female" 2018 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"female" 2018 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"female" 2018 "national" "national" "n.admissions" "d17" 0 1 18 323
+"female" 2018 "national" "national" "n.admissions.ppl" "d17" 0 1 14.5 261
+"female" 2018 "national" "national" "n.dead.year" "d17" 0 1 3.4 62
+"female" 2018 "national" "national" "n.dead1" "d17" 0 1 NA 111
+"female" 2018 "national" "national" "n.dead30" "d17" 0 1 NA 74
+"female" 2018 "national" "national" "n.incidence" "d17" 0 1 13 235
+"female" 2018 "national" "national" "n.prevalence" "d17" 0 1 36.7 659
+"female" 2018 "national" "national" "n.readmissions.30" "d17" 0 1 4.8 86
+"female" 2018 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 22768.2 67
+"female" 2018 "region" "1" "n.admissions" "d17" 1 1 19 98
+"female" 2018 "region" "1" "n.admissions.ppl" "d17" 1 1 13.9 72
+"female" 2018 "region" "1" "n.dead.year" "d17" 1 1 3.3 17
+"female" 2018 "region" "1" "n.dead1" "d17" 1 1 42145.1 30
+"female" 2018 "region" "1" "n.dead30" "d17" 1 1 18454.6 20
+"female" 2018 "region" "1" "n.incidence" "d17" 1 1 11.9 62
+"female" 2018 "region" "1" "n.prevalence" "d17" 1 1 32.4 166
+"female" 2018 "region" "1" "n.readmissions.30" "d17" 1 1 7.4 38
+"female" 2018 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 34891.1 26
+"female" 2018 "region" "4" "n.admissions" "d17" 1 1 16.5 47
+"female" 2018 "region" "4" "n.admissions.ppl" "d17" 1 1 11.3 32
+"female" 2018 "region" "4" "n.dead.year" "d17" 1 1 3 8
+"female" 2018 "region" "4" "n.dead1" "d17" 1 1 NA 14
+"female" 2018 "region" "4" "n.dead30" "d17" 1 1 NA 9
+"female" 2018 "region" "4" "n.incidence" "d17" 1 1 8.8 25
+"female" 2018 "region" "4" "n.prevalence" "d17" 1 1 30.3 85
+"female" 2018 "region" "4" "n.readmissions.30" "d17" 1 1 6.2 17
+"female" 2018 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 NA 8
+"female" 2018 "region" "5" "n.admissions" "d17" 1 1 15.4 62
+"female" 2018 "region" "5" "n.admissions.ppl" "d17" 1 1 13 52
+"female" 2018 "region" "5" "n.dead.year" "d17" 1 1 3.1 13
+"female" 2018 "region" "5" "n.dead1" "d17" 1 1 NA 22
+"female" 2018 "region" "5" "n.dead30" "d17" 1 1 NA 15
+"female" 2018 "region" "5" "n.incidence" "d17" 1 1 12.2 49
+"female" 2018 "region" "5" "n.prevalence" "d17" 1 1 36.3 142
+"female" 2018 "region" "5" "n.readmissions.30" "d17" 1 1 2.9 11
+"female" 2018 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 NA 10
+"female" 2018 "region" "2" "n.admissions" "d17" 1 1 19.2 72
+"female" 2018 "region" "2" "n.admissions.ppl" "d17" 1 1 15.4 58
+"female" 2018 "region" "2" "n.dead.year" "d17" 1 1 2.6 10
+"female" 2018 "region" "2" "n.dead1" "d17" 1 1 32044.8 22
+"female" 2018 "region" "2" "n.dead30" "d17" 1 1 22122.2 13
+"female" 2018 "region" "2" "n.incidence" "d17" 1 1 12.2 47
+"female" 2018 "region" "2" "n.prevalence" "d17" 1 1 39.9 152
+"female" 2018 "region" "2" "n.readmissions.30" "d17" 1 1 5.3 20
+"female" 2018 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 30149.6 16
+"female" 2018 "region" "3" "n.admissions" "d17" 1 1 15.8 30
+"female" 2018 "region" "3" "n.admissions.ppl" "d17" 1 1 13.5 26
+"female" 2018 "region" "3" "n.dead.year" "d17" 1 1 2.1 4
+"female" 2018 "region" "3" "n.dead1" "d17" 1 1 NA 8
+"female" 2018 "region" "3" "n.dead30" "d17" 1 1 NA 4
+"female" 2018 "region" "3" "n.incidence" "d17" 1 1 12.7 24
+"female" 2018 "region" "3" "n.prevalence" "d17" 1 1 40.9 78
+"female" 2018 "region" "3" "n.readmissions.30" "d17" 1 1 4.4 8
+"female" 2018 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 7
+"female" 2018 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"female" 2018 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2004 "age" "85+" "n.admissions" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.admissions.ppl" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.dead1" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.dead5" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.incidence" "d17" 0 0 34.5 10
+"male" 2004 "age" "85+" "n.prevalence" "d17" 0 0 103.5 30
+"male" 2004 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2004 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2004 "age" "65 - 74" "n.admissions" "d17" 0 0 46 92
+"male" 2004 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 34 68
+"male" 2004 "age" "65 - 74" "n.dead.year" "d17" 0 0 5 10
+"male" 2004 "age" "65 - 74" "n.dead1" "d17" 0 0 44230.8 23
+"male" 2004 "age" "65 - 74" "n.dead30" "d17" 0 0 28846.2 15
+"male" 2004 "age" "65 - 74" "n.dead5" "d17" 0 0 61538.5 32
+"male" 2004 "age" "65 - 74" "n.incidence" "d17" 0 0 26 52
+"male" 2004 "age" "65 - 74" "n.prevalence" "d17" 0 0 92.9 186
+"male" 2004 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 12.5 25
+"male" 2004 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 25000 17
+"male" 2004 "age" "75 - 84" "n.admissions" "d17" 0 0 73.7 83
+"male" 2004 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 58.6 66
+"male" 2004 "age" "75 - 84" "n.dead.year" "d17" 0 0 12.4 14
+"male" 2004 "age" "75 - 84" "n.dead1" "d17" 0 0 58490.6 31
+"male" 2004 "age" "75 - 84" "n.dead30" "d17" 0 0 33962.3 18
+"male" 2004 "age" "75 - 84" "n.dead5" "d17" 0 0 81132.1 43
+"male" 2004 "age" "75 - 84" "n.incidence" "d17" 0 0 47.1 53
+"male" 2004 "age" "75 - 84" "n.prevalence" "d17" 0 0 127.9 144
+"male" 2004 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 20.4 23
+"male" 2004 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 28787.9 19
+"male" 2004 "age" "45 - 54" "n.admissions" "d17" 0 0 14.7 54
+"male" 2004 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 10.3 38
+"male" 2004 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2004 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2004 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2004 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2004 "age" "45 - 54" "n.incidence" "d17" 0 0 7.6 28
+"male" 2004 "age" "45 - 54" "n.prevalence" "d17" 0 0 34.8 128
+"male" 2004 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 4.9 18
+"male" 2004 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 28947.4 11
+"male" 2004 "age" "55 - 64" "n.admissions" "d17" 0 0 21.6 75
+"male" 2004 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 15.8 55
+"male" 2004 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2004 "age" "55 - 64" "n.dead1" "d17" 0 0 25000 10
+"male" 2004 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2004 "age" "55 - 64" "n.dead5" "d17" 0 0 42500 17
+"male" 2004 "age" "55 - 64" "n.incidence" "d17" 0 0 11.5 40
+"male" 2004 "age" "55 - 64" "n.prevalence" "d17" 0 0 52.1 181
+"male" 2004 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 8.9 31
+"male" 2004 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 32727.3 18
+"male" 2004 "age" "35 - 44" "n.admissions" "d17" 0 0 12.8 48
+"male" 2004 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 6.7 25
+"male" 2004 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2004 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2004 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2004 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2004 "age" "35 - 44" "n.incidence" "d17" 0 0 4.3 16
+"male" 2004 "age" "35 - 44" "n.prevalence" "d17" 0 0 24 90
+"male" 2004 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 5.9 22
+"male" 2004 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2004 "national" "national" "n.admissions" "d17" 0 1 28.2 361
+"male" 2004 "national" "national" "n.admissions.ppl" "d17" 0 1 20.9 261
+"male" 2004 "national" "national" "n.dead.year" "d17" 0 1 3.1 33
+"male" 2004 "national" "national" "n.dead1" "d17" 0 1 31069.4 79
+"male" 2004 "national" "national" "n.dead30" "d17" 0 1 19312 47
+"male" 2004 "national" "national" "n.dead5" "d17" 0 1 44732.9 114
+"male" 2004 "national" "national" "n.incidence" "d17" 0 1 16.3 199
+"male" 2004 "national" "national" "n.prevalence" "d17" 0 1 59.3 759
+"male" 2004 "national" "national" "n.readmissions.30" "d17" 0 1 8.9 120
+"male" 2004 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 27892.9 72
+"male" 2005 "age" "85+" "n.admissions" "d17" 0 0 64.9 19
+"male" 2005 "age" "85+" "n.admissions.ppl" "d17" 0 0 58.1 17
+"male" 2005 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2005 "age" "85+" "n.dead1" "d17" 0 0 NA NA
+"male" 2005 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2005 "age" "85+" "n.dead5" "d17" 0 0 92857.1 13
+"male" 2005 "age" "85+" "n.incidence" "d17" 0 0 47.8 14
+"male" 2005 "age" "85+" "n.prevalence" "d17" 0 0 102.5 30
+"male" 2005 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2005 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2005 "age" "65 - 74" "n.admissions" "d17" 0 0 52.8 108
+"male" 2005 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 36.2 74
+"male" 2005 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"male" 2005 "age" "65 - 74" "n.dead1" "d17" 0 0 39682.5 25
+"male" 2005 "age" "65 - 74" "n.dead30" "d17" 0 0 26984.1 17
+"male" 2005 "age" "65 - 74" "n.dead5" "d17" 0 0 55555.6 35
+"male" 2005 "age" "65 - 74" "n.incidence" "d17" 0 0 30.8 63
+"male" 2005 "age" "65 - 74" "n.prevalence" "d17" 0 0 91.9 188
+"male" 2005 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 20 41
+"male" 2005 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 31081.1 23
+"male" 2005 "age" "75 - 84" "n.admissions" "d17" 0 0 84.7 96
+"male" 2005 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 72.4 82
+"male" 2005 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"male" 2005 "age" "75 - 84" "n.dead1" "d17" 0 0 46875 30
+"male" 2005 "age" "75 - 84" "n.dead30" "d17" 0 0 23437.5 15
+"male" 2005 "age" "75 - 84" "n.dead5" "d17" 0 0 76562.5 49
+"male" 2005 "age" "75 - 84" "n.incidence" "d17" 0 0 56.5 64
+"male" 2005 "age" "75 - 84" "n.prevalence" "d17" 0 0 137.6 156
+"male" 2005 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 19.4 22
+"male" 2005 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 21951.2 18
+"male" 2005 "age" "45 - 54" "n.admissions" "d17" 0 0 14.1 52
+"male" 2005 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 10.3 38
+"male" 2005 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2005 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2005 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2005 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2005 "age" "45 - 54" "n.incidence" "d17" 0 0 7.1 26
+"male" 2005 "age" "45 - 54" "n.prevalence" "d17" 0 0 37.2 137
+"male" 2005 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 4.3 16
+"male" 2005 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 31578.9 12
+"male" 2005 "age" "55 - 64" "n.admissions" "d17" 0 0 28.5 101
+"male" 2005 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 19.2 68
+"male" 2005 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2005 "age" "55 - 64" "n.dead1" "d17" 0 0 NA NA
+"male" 2005 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2005 "age" "55 - 64" "n.dead5" "d17" 0 0 31578.9 18
+"male" 2005 "age" "55 - 64" "n.incidence" "d17" 0 0 16.1 57
+"male" 2005 "age" "55 - 64" "n.prevalence" "d17" 0 0 52.8 187
+"male" 2005 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 10.7 38
+"male" 2005 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 36764.7 25
+"male" 2005 "age" "35 - 44" "n.admissions" "d17" 0 0 8 30
+"male" 2005 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.3 20
+"male" 2005 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2005 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2005 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2005 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2005 "age" "35 - 44" "n.incidence" "d17" 0 0 3.2 12
+"male" 2005 "age" "35 - 44" "n.prevalence" "d17" 0 0 22.9 86
+"male" 2005 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 2.7 10
+"male" 2005 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2005 "national" "national" "n.admissions" "d17" 0 1 32.3 406
+"male" 2005 "national" "national" "n.admissions.ppl" "d17" 0 1 24.3 299
+"male" 2005 "national" "national" "n.dead.year" "d17" 0 1 2.1 22
+"male" 2005 "national" "national" "n.dead1" "d17" 0 1 22778.8 79
+"male" 2005 "national" "national" "n.dead30" "d17" 0 1 14225.7 47
+"male" 2005 "national" "national" "n.dead5" "d17" 0 1 36901.2 126
+"male" 2005 "national" "national" "n.incidence" "d17" 0 1 19.4 236
+"male" 2005 "national" "national" "n.prevalence" "d17" 0 1 60.5 784
+"male" 2005 "national" "national" "n.readmissions.30" "d17" 0 1 10 131
+"male" 2005 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 33504.6 90
+"male" 2006 "age" "85+" "n.admissions" "d17" 0 0 75.8 23
+"male" 2006 "age" "85+" "n.admissions.ppl" "d17" 0 0 56 17
+"male" 2006 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2006 "age" "85+" "n.dead1" "d17" 0 0 NA NA
+"male" 2006 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2006 "age" "85+" "n.dead5" "d17" 0 0 NA NA
+"male" 2006 "age" "85+" "n.incidence" "d17" 0 0 36.2 11
+"male" 2006 "age" "85+" "n.prevalence" "d17" 0 0 115.3 35
+"male" 2006 "age" "85+" "n.readmissions.30" "d17" 0 0 32.9 10
+"male" 2006 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2006 "age" "65 - 74" "n.admissions" "d17" 0 0 54.8 115
+"male" 2006 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 41 86
+"male" 2006 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"male" 2006 "age" "65 - 74" "n.dead1" "d17" 0 0 43478.3 30
+"male" 2006 "age" "65 - 74" "n.dead30" "d17" 0 0 24637.7 17
+"male" 2006 "age" "65 - 74" "n.dead5" "d17" 0 0 59420.3 41
+"male" 2006 "age" "65 - 74" "n.incidence" "d17" 0 0 32.9 69
+"male" 2006 "age" "65 - 74" "n.prevalence" "d17" 0 0 96.7 203
+"male" 2006 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 15.7 33
+"male" 2006 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 26744.2 23
+"male" 2006 "age" "75 - 84" "n.admissions" "d17" 0 0 77.4 88
+"male" 2006 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 62.5 71
+"male" 2006 "age" "75 - 84" "n.dead.year" "d17" 0 0 10.6 12
+"male" 2006 "age" "75 - 84" "n.dead1" "d17" 0 0 49180.3 30
+"male" 2006 "age" "75 - 84" "n.dead30" "d17" 0 0 29508.2 18
+"male" 2006 "age" "75 - 84" "n.dead5" "d17" 0 0 80327.9 49
+"male" 2006 "age" "75 - 84" "n.incidence" "d17" 0 0 53.7 61
+"male" 2006 "age" "75 - 84" "n.prevalence" "d17" 0 0 158.4 180
+"male" 2006 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 14.1 16
+"male" 2006 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 21126.8 15
+"male" 2006 "age" "45 - 54" "n.admissions" "d17" 0 0 7.9 29
+"male" 2006 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 7.3 27
+"male" 2006 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2006 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2006 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2006 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2006 "age" "45 - 54" "n.incidence" "d17" 0 0 5.4 20
+"male" 2006 "age" "45 - 54" "n.prevalence" "d17" 0 0 35.8 132
+"male" 2006 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2006 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2006 "age" "55 - 64" "n.admissions" "d17" 0 0 32.3 116
+"male" 2006 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 24.2 87
+"male" 2006 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2006 "age" "55 - 64" "n.dead1" "d17" 0 0 28813.6 17
+"male" 2006 "age" "55 - 64" "n.dead30" "d17" 0 0 16949.2 10
+"male" 2006 "age" "55 - 64" "n.dead5" "d17" 0 0 35593.2 21
+"male" 2006 "age" "55 - 64" "n.incidence" "d17" 0 0 16.4 59
+"male" 2006 "age" "55 - 64" "n.prevalence" "d17" 0 0 62.9 226
+"male" 2006 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 9.7 35
+"male" 2006 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 31034.5 27
+"male" 2006 "age" "35 - 44" "n.admissions" "d17" 0 0 10.9 41
+"male" 2006 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 6.9 26
+"male" 2006 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2006 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2006 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2006 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2006 "age" "35 - 44" "n.incidence" "d17" 0 0 4 15
+"male" 2006 "age" "35 - 44" "n.prevalence" "d17" 0 0 23 86
+"male" 2006 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 3.7 14
+"male" 2006 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2006 "national" "national" "n.admissions" "d17" 0 1 32.4 412
+"male" 2006 "national" "national" "n.admissions.ppl" "d17" 0 1 24.8 314
+"male" 2006 "national" "national" "n.dead.year" "d17" 0 1 2.6 32
+"male" 2006 "national" "national" "n.dead1" "d17" 0 1 30590.7 89
+"male" 2006 "national" "national" "n.dead30" "d17" 0 1 16097 50
+"male" 2006 "national" "national" "n.dead5" "d17" 0 1 41349.8 129
+"male" 2006 "national" "national" "n.incidence" "d17" 0 1 18.8 235
+"male" 2006 "national" "national" "n.prevalence" "d17" 0 1 65.8 862
+"male" 2006 "national" "national" "n.readmissions.30" "d17" 0 1 8.9 112
+"male" 2006 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 25526 82
+"male" 2007 "age" "85+" "n.admissions" "d17" 0 0 70.2 22
+"male" 2007 "age" "85+" "n.admissions.ppl" "d17" 0 0 41.5 13
+"male" 2007 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2007 "age" "85+" "n.dead1" "d17" 0 0 NA NA
+"male" 2007 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2007 "age" "85+" "n.dead5" "d17" 0 0 81250 13
+"male" 2007 "age" "85+" "n.incidence" "d17" 0 0 51 16
+"male" 2007 "age" "85+" "n.prevalence" "d17" 0 0 108.4 34
+"male" 2007 "age" "85+" "n.readmissions.30" "d17" 0 0 31.9 10
+"male" 2007 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2007 "age" "65 - 74" "n.admissions" "d17" 0 0 57 123
+"male" 2007 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 38 82
+"male" 2007 "age" "65 - 74" "n.dead.year" "d17" 0 0 5.1 11
+"male" 2007 "age" "65 - 74" "n.dead1" "d17" 0 0 42623 26
+"male" 2007 "age" "65 - 74" "n.dead30" "d17" 0 0 31147.5 19
+"male" 2007 "age" "65 - 74" "n.dead5" "d17" 0 0 63934.4 39
+"male" 2007 "age" "65 - 74" "n.incidence" "d17" 0 0 28.3 61
+"male" 2007 "age" "65 - 74" "n.prevalence" "d17" 0 0 103.3 223
+"male" 2007 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 20.9 45
+"male" 2007 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 23170.7 19
+"male" 2007 "age" "75 - 84" "n.admissions" "d17" 0 0 83.3 95
+"male" 2007 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 64 73
+"male" 2007 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"male" 2007 "age" "75 - 84" "n.dead1" "d17" 0 0 32653.1 16
+"male" 2007 "age" "75 - 84" "n.dead30" "d17" 0 0 NA NA
+"male" 2007 "age" "75 - 84" "n.dead5" "d17" 0 0 71428.6 35
+"male" 2007 "age" "75 - 84" "n.incidence" "d17" 0 0 43 49
+"male" 2007 "age" "75 - 84" "n.prevalence" "d17" 0 0 175.3 200
+"male" 2007 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 24.5 28
+"male" 2007 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 30137 22
+"male" 2007 "age" "45 - 54" "n.admissions" "d17" 0 0 12.1 45
+"male" 2007 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 8.9 33
+"male" 2007 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2007 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2007 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2007 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2007 "age" "45 - 54" "n.incidence" "d17" 0 0 5.9 22
+"male" 2007 "age" "45 - 54" "n.prevalence" "d17" 0 0 35 130
+"male" 2007 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 4 15
+"male" 2007 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 30303 10
+"male" 2007 "age" "55 - 64" "n.admissions" "d17" 0 0 36.3 132
+"male" 2007 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 23.4 85
+"male" 2007 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2007 "age" "55 - 64" "n.dead1" "d17" 0 0 24590.2 15
+"male" 2007 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2007 "age" "55 - 64" "n.dead5" "d17" 0 0 45901.6 28
+"male" 2007 "age" "55 - 64" "n.incidence" "d17" 0 0 16.8 61
+"male" 2007 "age" "55 - 64" "n.prevalence" "d17" 0 0 64.7 235
+"male" 2007 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 16.2 59
+"male" 2007 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 40000 34
+"male" 2007 "age" "35 - 44" "n.admissions" "d17" 0 0 9.6 36
+"male" 2007 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 6.7 25
+"male" 2007 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2007 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2007 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2007 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2007 "age" "35 - 44" "n.incidence" "d17" 0 0 4.3 16
+"male" 2007 "age" "35 - 44" "n.prevalence" "d17" 0 0 21.4 80
+"male" 2007 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 3.7 14
+"male" 2007 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2007 "national" "national" "n.admissions" "d17" 0 1 34.4 453
+"male" 2007 "national" "national" "n.admissions.ppl" "d17" 0 1 23.8 311
+"male" 2007 "national" "national" "n.dead.year" "d17" 0 1 2.5 28
+"male" 2007 "national" "national" "n.dead1" "d17" 0 1 28203.5 74
+"male" 2007 "national" "national" "n.dead30" "d17" 0 1 16583.7 47
+"male" 2007 "national" "national" "n.dead5" "d17" 0 1 46747.3 127
+"male" 2007 "national" "national" "n.incidence" "d17" 0 1 17.6 225
+"male" 2007 "national" "national" "n.prevalence" "d17" 0 1 68.2 902
+"male" 2007 "national" "national" "n.readmissions.30" "d17" 0 1 12.7 171
+"male" 2007 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 31710 97
+"male" 2008 "age" "85+" "n.admissions" "d17" 0 0 74.8 24
+"male" 2008 "age" "85+" "n.admissions.ppl" "d17" 0 0 74.8 24
+"male" 2008 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2008 "age" "85+" "n.dead1" "d17" 0 0 NA NA
+"male" 2008 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2008 "age" "85+" "n.dead5" "d17" 0 0 78947.4 15
+"male" 2008 "age" "85+" "n.incidence" "d17" 0 0 59.3 19
+"male" 2008 "age" "85+" "n.prevalence" "d17" 0 0 124.7 40
+"male" 2008 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2008 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2008 "age" "65 - 74" "n.admissions" "d17" 0 0 59.9 135
+"male" 2008 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 40.4 91
+"male" 2008 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"male" 2008 "age" "65 - 74" "n.dead1" "d17" 0 0 32876.7 24
+"male" 2008 "age" "65 - 74" "n.dead30" "d17" 0 0 17808.2 13
+"male" 2008 "age" "65 - 74" "n.dead5" "d17" 0 0 58904.1 43
+"male" 2008 "age" "65 - 74" "n.incidence" "d17" 0 0 32.4 73
+"male" 2008 "age" "65 - 74" "n.prevalence" "d17" 0 0 112.8 254
+"male" 2008 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 26.2 59
+"male" 2008 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 40659.3 37
+"male" 2008 "age" "75 - 84" "n.admissions" "d17" 0 0 98.3 113
+"male" 2008 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 75.7 87
+"male" 2008 "age" "75 - 84" "n.dead.year" "d17" 0 0 9.6 11
+"male" 2008 "age" "75 - 84" "n.dead1" "d17" 0 0 46268.7 31
+"male" 2008 "age" "75 - 84" "n.dead30" "d17" 0 0 26865.7 18
+"male" 2008 "age" "75 - 84" "n.dead5" "d17" 0 0 85074.6 57
+"male" 2008 "age" "75 - 84" "n.incidence" "d17" 0 0 58.3 67
+"male" 2008 "age" "75 - 84" "n.prevalence" "d17" 0 0 182.7 210
+"male" 2008 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 30.4 35
+"male" 2008 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 27586.2 24
+"male" 2008 "age" "45 - 54" "n.admissions" "d17" 0 0 15.2 57
+"male" 2008 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 9.1 34
+"male" 2008 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2008 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2008 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2008 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2008 "age" "45 - 54" "n.incidence" "d17" 0 0 6.9 26
+"male" 2008 "age" "45 - 54" "n.prevalence" "d17" 0 0 34.2 128
+"male" 2008 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 6.7 25
+"male" 2008 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 35294.1 12
+"male" 2008 "age" "55 - 64" "n.admissions" "d17" 0 0 29.1 106
+"male" 2008 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 21.7 79
+"male" 2008 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2008 "age" "55 - 64" "n.dead1" "d17" 0 0 31034.5 18
+"male" 2008 "age" "55 - 64" "n.dead30" "d17" 0 0 22413.8 13
+"male" 2008 "age" "55 - 64" "n.dead5" "d17" 0 0 41379.3 24
+"male" 2008 "age" "55 - 64" "n.incidence" "d17" 0 0 15.9 58
+"male" 2008 "age" "55 - 64" "n.prevalence" "d17" 0 0 67 244
+"male" 2008 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 11 40
+"male" 2008 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 34177.2 27
+"male" 2008 "age" "35 - 44" "n.admissions" "d17" 0 0 10.4 39
+"male" 2008 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 7.8 29
+"male" 2008 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2008 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2008 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2008 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2008 "age" "35 - 44" "n.incidence" "d17" 0 0 5.1 19
+"male" 2008 "age" "35 - 44" "n.prevalence" "d17" 0 0 20.3 76
+"male" 2008 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 4.8 18
+"male" 2008 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 44827.6 13
+"male" 2008 "national" "national" "n.admissions" "d17" 0 1 36.2 474
+"male" 2008 "national" "national" "n.admissions.ppl" "d17" 0 1 26.8 344
+"male" 2008 "national" "national" "n.dead.year" "d17" 0 1 2.9 34
+"male" 2008 "national" "national" "n.dead1" "d17" 0 1 27436.8 91
+"male" 2008 "national" "national" "n.dead30" "d17" 0 1 16070.9 54
+"male" 2008 "national" "national" "n.dead5" "d17" 0 1 46173.7 154
+"male" 2008 "national" "national" "n.incidence" "d17" 0 1 20.6 262
+"male" 2008 "national" "national" "n.prevalence" "d17" 0 1 71.2 952
+"male" 2008 "national" "national" "n.readmissions.30" "d17" 0 1 13.4 182
+"male" 2008 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 36611.1 118
+"male" 2009 "age" "85+" "n.admissions" "d17" 0 0 70.3 23
+"male" 2009 "age" "85+" "n.admissions.ppl" "d17" 0 0 64.2 21
+"male" 2009 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2009 "age" "85+" "n.dead1" "d17" 0 0 57894.7 11
+"male" 2009 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2009 "age" "85+" "n.dead5" "d17" 0 0 89473.7 17
+"male" 2009 "age" "85+" "n.incidence" "d17" 0 0 58.1 19
+"male" 2009 "age" "85+" "n.prevalence" "d17" 0 0 168.2 55
+"male" 2009 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2009 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2009 "age" "65 - 74" "n.admissions" "d17" 0 0 63.2 149
+"male" 2009 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 43.3 102
+"male" 2009 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"male" 2009 "age" "65 - 74" "n.dead1" "d17" 0 0 15068.5 11
+"male" 2009 "age" "65 - 74" "n.dead30" "d17" 0 0 NA NA
+"male" 2009 "age" "65 - 74" "n.dead5" "d17" 0 0 39726 29
+"male" 2009 "age" "65 - 74" "n.incidence" "d17" 0 0 31 73
+"male" 2009 "age" "65 - 74" "n.prevalence" "d17" 0 0 117.1 276
+"male" 2009 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 28 66
+"male" 2009 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 38235.3 39
+"male" 2009 "age" "75 - 84" "n.admissions" "d17" 0 0 85.1 99
+"male" 2009 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 65.3 76
+"male" 2009 "age" "75 - 84" "n.dead.year" "d17" 0 0 10.3 12
+"male" 2009 "age" "75 - 84" "n.dead1" "d17" 0 0 40000 24
+"male" 2009 "age" "75 - 84" "n.dead30" "d17" 0 0 28333.3 17
+"male" 2009 "age" "75 - 84" "n.dead5" "d17" 0 0 78333.3 47
+"male" 2009 "age" "75 - 84" "n.incidence" "d17" 0 0 51.6 60
+"male" 2009 "age" "75 - 84" "n.prevalence" "d17" 0 0 190.8 222
+"male" 2009 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 30.9 36
+"male" 2009 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 31578.9 24
+"male" 2009 "age" "45 - 54" "n.admissions" "d17" 0 0 14.8 56
+"male" 2009 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 9.5 36
+"male" 2009 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2009 "age" "45 - 54" "n.dead1" "d17" 0 0 34482.8 10
+"male" 2009 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2009 "age" "45 - 54" "n.dead5" "d17" 0 0 44827.6 13
+"male" 2009 "age" "45 - 54" "n.incidence" "d17" 0 0 7.6 29
+"male" 2009 "age" "45 - 54" "n.prevalence" "d17" 0 0 32.9 125
+"male" 2009 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 5.8 22
+"male" 2009 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 38888.9 14
+"male" 2009 "age" "55 - 64" "n.admissions" "d17" 0 0 29.7 108
+"male" 2009 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 20.3 74
+"male" 2009 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2009 "age" "55 - 64" "n.dead1" "d17" 0 0 27777.8 15
+"male" 2009 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2009 "age" "55 - 64" "n.dead5" "d17" 0 0 50000 27
+"male" 2009 "age" "55 - 64" "n.incidence" "d17" 0 0 14.8 54
+"male" 2009 "age" "55 - 64" "n.prevalence" "d17" 0 0 68.4 249
+"male" 2009 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 11.3 41
+"male" 2009 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 37837.8 28
+"male" 2009 "age" "35 - 44" "n.admissions" "d17" 0 0 8.3 31
+"male" 2009 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.6 21
+"male" 2009 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2009 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2009 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2009 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2009 "age" "35 - 44" "n.incidence" "d17" 0 0 3.5 13
+"male" 2009 "age" "35 - 44" "n.prevalence" "d17" 0 0 22.8 85
+"male" 2009 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2009 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2009 "national" "national" "n.admissions" "d17" 0 1 34.6 466
+"male" 2009 "national" "national" "n.admissions.ppl" "d17" 0 1 25.1 330
+"male" 2009 "national" "national" "n.dead.year" "d17" 0 1 2.6 30
+"male" 2009 "national" "national" "n.dead1" "d17" 0 1 25332.5 73
+"male" 2009 "national" "national" "n.dead30" "d17" 0 1 11145.3 40
+"male" 2009 "national" "national" "n.dead5" "d17" 0 1 43929.8 137
+"male" 2009 "national" "national" "n.incidence" "d17" 0 1 19.1 248
+"male" 2009 "national" "national" "n.prevalence" "d17" 0 1 75.3 1012
+"male" 2009 "national" "national" "n.readmissions.30" "d17" 0 1 13 179
+"male" 2009 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 36149.1 117
+"male" 2009 "region" "1" "n.admissions" "d17" 1 1 49.6 186
+"male" 2009 "region" "1" "n.admissions.ppl" "d17" 1 1 28.7 106
+"male" 2009 "region" "1" "n.dead.year" "d17" 1 1 4.2 12
+"male" 2009 "region" "1" "n.dead1" "d17" 1 1 28542.9 26
+"male" 2009 "region" "1" "n.dead30" "d17" 1 1 14631.7 15
+"male" 2009 "region" "1" "n.dead5" "d17" 1 1 48592.9 44
+"male" 2009 "region" "1" "n.incidence" "d17" 1 1 21.2 76
+"male" 2009 "region" "1" "n.prevalence" "d17" 1 1 79.9 295
+"male" 2009 "region" "1" "n.readmissions.30" "d17" 1 1 26.1 100
+"male" 2009 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 49603 52
+"male" 2009 "region" "4" "n.admissions" "d17" 1 1 32.4 73
+"male" 2009 "region" "4" "n.admissions.ppl" "d17" 1 1 21 45
+"male" 2009 "region" "4" "n.dead.year" "d17" 1 1 NA NA
+"male" 2009 "region" "4" "n.dead1" "d17" 1 1 NA 13
+"male" 2009 "region" "4" "n.dead30" "d17" 1 1 NA 8
+"male" 2009 "region" "4" "n.dead5" "d17" 1 1 NA 19
+"male" 2009 "region" "4" "n.incidence" "d17" 1 1 16.3 34
+"male" 2009 "region" "4" "n.prevalence" "d17" 1 1 66.2 141
+"male" 2009 "region" "4" "n.readmissions.30" "d17" 1 1 14 33
+"male" 2009 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 NA 21
+"male" 2009 "region" "5" "n.admissions" "d17" 1 1 32.4 96
+"male" 2009 "region" "5" "n.admissions.ppl" "d17" 1 1 26.5 79
+"male" 2009 "region" "5" "n.dead.year" "d17" 1 1 2.5 7
+"male" 2009 "region" "5" "n.dead1" "d17" 1 1 28746 20
+"male" 2009 "region" "5" "n.dead30" "d17" 1 1 13380.8 10
+"male" 2009 "region" "5" "n.dead5" "d17" 1 1 47323.9 34
+"male" 2009 "region" "5" "n.incidence" "d17" 1 1 20.3 60
+"male" 2009 "region" "5" "n.prevalence" "d17" 1 1 70.3 219
+"male" 2009 "region" "5" "n.readmissions.30" "d17" 1 1 9 26
+"male" 2009 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 23380 21
+"male" 2009 "region" "2" "n.admissions" "d17" 1 1 26.1 73
+"male" 2009 "region" "2" "n.admissions.ppl" "d17" 1 1 23.6 65
+"male" 2009 "region" "2" "n.dead.year" "d17" 1 1 2.2 6
+"male" 2009 "region" "2" "n.dead1" "d17" 1 1 21838.5 14
+"male" 2009 "region" "2" "n.dead30" "d17" 1 1 15231.3 10
+"male" 2009 "region" "2" "n.dead5" "d17" 1 1 42841.1 28
+"male" 2009 "region" "2" "n.incidence" "d17" 1 1 16.7 46
+"male" 2009 "region" "2" "n.prevalence" "d17" 1 1 68.3 196
+"male" 2009 "region" "2" "n.readmissions.30" "d17" 1 1 4.1 12
+"male" 2009 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 19666.2 10
+"male" 2009 "region" "3" "n.admissions" "d17" 1 1 25.5 37
+"male" 2009 "region" "3" "n.admissions.ppl" "d17" 1 1 23.3 34
+"male" 2009 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"male" 2009 "region" "3" "n.dead1" "d17" 1 1 23214.6 7
+"male" 2009 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"male" 2009 "region" "3" "n.dead5" "d17" 1 1 38232.6 14
+"male" 2009 "region" "3" "n.incidence" "d17" 1 1 20.2 29
+"male" 2009 "region" "3" "n.prevalence" "d17" 1 1 68.7 105
+"male" 2009 "region" "3" "n.readmissions.30" "d17" 1 1 5 7
+"male" 2009 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 20411.3 7
+"male" 2009 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2009 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2010 "age" "85+" "n.admissions" "d17" 0 0 110.3 37
+"male" 2010 "age" "85+" "n.admissions.ppl" "d17" 0 0 80.5 27
+"male" 2010 "age" "85+" "n.dead.year" "d17" 0 0 29.8 10
+"male" 2010 "age" "85+" "n.dead1" "d17" 0 0 70370.4 19
+"male" 2010 "age" "85+" "n.dead30" "d17" 0 0 44444.4 12
+"male" 2010 "age" "85+" "n.dead5" "d17" 0 0 92592.6 25
+"male" 2010 "age" "85+" "n.incidence" "d17" 0 0 80.5 27
+"male" 2010 "age" "85+" "n.prevalence" "d17" 0 0 205.7 69
+"male" 2010 "age" "85+" "n.readmissions.30" "d17" 0 0 44.7 15
+"male" 2010 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2010 "age" "65 - 74" "n.admissions" "d17" 0 0 54.4 135
+"male" 2010 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 41.1 102
+"male" 2010 "age" "65 - 74" "n.dead.year" "d17" 0 0 4.8 12
+"male" 2010 "age" "65 - 74" "n.dead1" "d17" 0 0 39436.6 28
+"male" 2010 "age" "65 - 74" "n.dead30" "d17" 0 0 18309.9 13
+"male" 2010 "age" "65 - 74" "n.dead5" "d17" 0 0 54929.6 39
+"male" 2010 "age" "65 - 74" "n.incidence" "d17" 0 0 28.6 71
+"male" 2010 "age" "65 - 74" "n.prevalence" "d17" 0 0 131.7 327
+"male" 2010 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 21.8 54
+"male" 2010 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 39215.7 40
+"male" 2010 "age" "75 - 84" "n.admissions" "d17" 0 0 87.3 103
+"male" 2010 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 71.2 84
+"male" 2010 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"male" 2010 "age" "75 - 84" "n.dead1" "d17" 0 0 40678 24
+"male" 2010 "age" "75 - 84" "n.dead30" "d17" 0 0 NA NA
+"male" 2010 "age" "75 - 84" "n.dead5" "d17" 0 0 69491.5 41
+"male" 2010 "age" "75 - 84" "n.incidence" "d17" 0 0 50 59
+"male" 2010 "age" "75 - 84" "n.prevalence" "d17" 0 0 188.2 222
+"male" 2010 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 27.1 32
+"male" 2010 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 29761.9 25
+"male" 2010 "age" "45 - 54" "n.admissions" "d17" 0 0 15.8 61
+"male" 2010 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 10.9 42
+"male" 2010 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2010 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2010 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2010 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2010 "age" "45 - 54" "n.incidence" "d17" 0 0 8.8 34
+"male" 2010 "age" "45 - 54" "n.prevalence" "d17" 0 0 34 131
+"male" 2010 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 7.3 28
+"male" 2010 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 45238.1 19
+"male" 2010 "age" "55 - 64" "n.admissions" "d17" 0 0 30.5 110
+"male" 2010 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 21.1 76
+"male" 2010 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2010 "age" "55 - 64" "n.dead1" "d17" 0 0 19230.8 10
+"male" 2010 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2010 "age" "55 - 64" "n.dead5" "d17" 0 0 34615.4 18
+"male" 2010 "age" "55 - 64" "n.incidence" "d17" 0 0 14.4 52
+"male" 2010 "age" "55 - 64" "n.prevalence" "d17" 0 0 66.9 241
+"male" 2010 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 10.5 38
+"male" 2010 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 34210.5 26
+"male" 2010 "age" "35 - 44" "n.admissions" "d17" 0 0 7.6 28
+"male" 2010 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.5 20
+"male" 2010 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2010 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2010 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2010 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2010 "age" "35 - 44" "n.incidence" "d17" 0 0 4.1 15
+"male" 2010 "age" "35 - 44" "n.prevalence" "d17" 0 0 23.2 85
+"male" 2010 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2010 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2010 "national" "national" "n.admissions" "d17" 0 1 35.7 474
+"male" 2010 "national" "national" "n.admissions.ppl" "d17" 0 1 26.6 351
+"male" 2010 "national" "national" "n.dead.year" "d17" 0 1 3.3 37
+"male" 2010 "national" "national" "n.dead1" "d17" 0 1 22344.2 87
+"male" 2010 "national" "national" "n.dead30" "d17" 0 1 10140.8 41
+"male" 2010 "national" "national" "n.dead5" "d17" 0 1 39795 137
+"male" 2010 "national" "national" "n.incidence" "d17" 0 1 19.9 258
+"male" 2010 "national" "national" "n.prevalence" "d17" 0 1 79.2 1075
+"male" 2010 "national" "national" "n.readmissions.30" "d17" 0 1 13.1 175
+"male" 2010 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 37115 127
+"male" 2010 "region" "1" "n.admissions" "d17" 1 1 49.3 185
+"male" 2010 "region" "1" "n.admissions.ppl" "d17" 1 1 29.1 106
+"male" 2010 "region" "1" "n.dead.year" "d17" 1 1 3.6 11
+"male" 2010 "region" "1" "n.dead1" "d17" 1 1 26938.6 25
+"male" 2010 "region" "1" "n.dead30" "d17" 1 1 11616.3 13
+"male" 2010 "region" "1" "n.dead5" "d17" 1 1 49258.3 43
+"male" 2010 "region" "1" "n.incidence" "d17" 1 1 21.7 78
+"male" 2010 "region" "1" "n.prevalence" "d17" 1 1 83.4 309
+"male" 2010 "region" "1" "n.readmissions.30" "d17" 1 1 25.8 99
+"male" 2010 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 54599.4 56
+"male" 2010 "region" "4" "n.admissions" "d17" 1 1 33.3 75
+"male" 2010 "region" "4" "n.admissions.ppl" "d17" 1 1 23.5 51
+"male" 2010 "region" "4" "n.dead.year" "d17" 1 1 2.3 4
+"male" 2010 "region" "4" "n.dead1" "d17" 1 1 NA 13
+"male" 2010 "region" "4" "n.dead30" "d17" 1 1 NA 8
+"male" 2010 "region" "4" "n.dead5" "d17" 1 1 NA 19
+"male" 2010 "region" "4" "n.incidence" "d17" 1 1 16.7 35
+"male" 2010 "region" "4" "n.prevalence" "d17" 1 1 70.4 151
+"male" 2010 "region" "4" "n.readmissions.30" "d17" 1 1 13.9 32
+"male" 2010 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 45756.6 23
+"male" 2010 "region" "5" "n.admissions" "d17" 1 1 31.8 94
+"male" 2010 "region" "5" "n.admissions.ppl" "d17" 1 1 28 82
+"male" 2010 "region" "5" "n.dead.year" "d17" 1 1 3.8 10
+"male" 2010 "region" "5" "n.dead1" "d17" 1 1 25531.5 23
+"male" 2010 "region" "5" "n.dead30" "d17" 1 1 10792.9 12
+"male" 2010 "region" "5" "n.dead5" "d17" 1 1 42243.5 36
+"male" 2010 "region" "5" "n.incidence" "d17" 1 1 21.5 63
+"male" 2010 "region" "5" "n.prevalence" "d17" 1 1 73.9 232
+"male" 2010 "region" "5" "n.readmissions.30" "d17" 1 1 8.1 23
+"male" 2010 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 25889.9 21
+"male" 2010 "region" "2" "n.admissions" "d17" 1 1 28.9 81
+"male" 2010 "region" "2" "n.admissions.ppl" "d17" 1 1 24.1 68
+"male" 2010 "region" "2" "n.dead.year" "d17" 1 1 1.7 5
+"male" 2010 "region" "2" "n.dead1" "d17" 1 1 19821.2 14
+"male" 2010 "region" "2" "n.dead30" "d17" 1 1 13390.5 8
+"male" 2010 "region" "2" "n.dead5" "d17" 1 1 43045 28
+"male" 2010 "region" "2" "n.incidence" "d17" 1 1 17.8 50
+"male" 2010 "region" "2" "n.prevalence" "d17" 1 1 70.7 205
+"male" 2010 "region" "2" "n.readmissions.30" "d17" 1 1 6.2 17
+"male" 2010 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 20017 13
+"male" 2010 "region" "3" "n.admissions" "d17" 1 1 25.2 38
+"male" 2010 "region" "3" "n.admissions.ppl" "d17" 1 1 22.8 34
+"male" 2010 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"male" 2010 "region" "3" "n.dead1" "d17" 1 1 NA 9
+"male" 2010 "region" "3" "n.dead30" "d17" 1 1 NA 4
+"male" 2010 "region" "3" "n.dead5" "d17" 1 1 NA 16
+"male" 2010 "region" "3" "n.incidence" "d17" 1 1 20.8 30
+"male" 2010 "region" "3" "n.prevalence" "d17" 1 1 75.1 116
+"male" 2010 "region" "3" "n.readmissions.30" "d17" 1 1 5.4 8
+"male" 2010 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 7
+"male" 2010 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2010 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2011 "age" "85+" "n.admissions" "d17" 0 0 113.5 39
+"male" 2011 "age" "85+" "n.admissions.ppl" "d17" 0 0 78.6 27
+"male" 2011 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2011 "age" "85+" "n.dead1" "d17" 0 0 50000 11
+"male" 2011 "age" "85+" "n.dead30" "d17" 0 0 NA NA
+"male" 2011 "age" "85+" "n.dead5" "d17" 0 0 95454.5 21
+"male" 2011 "age" "85+" "n.incidence" "d17" 0 0 64 22
+"male" 2011 "age" "85+" "n.prevalence" "d17" 0 0 235.7 81
+"male" 2011 "age" "85+" "n.readmissions.30" "d17" 0 0 46.5 16
+"male" 2011 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2011 "age" "65 - 74" "n.admissions" "d17" 0 0 69 181
+"male" 2011 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 44.2 116
+"male" 2011 "age" "65 - 74" "n.dead.year" "d17" 0 0 NA NA
+"male" 2011 "age" "65 - 74" "n.dead1" "d17" 0 0 32941.2 28
+"male" 2011 "age" "65 - 74" "n.dead30" "d17" 0 0 12941.2 11
+"male" 2011 "age" "65 - 74" "n.dead5" "d17" 0 0 54117.6 46
+"male" 2011 "age" "65 - 74" "n.incidence" "d17" 0 0 32.4 85
+"male" 2011 "age" "65 - 74" "n.prevalence" "d17" 0 0 127.8 335
+"male" 2011 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 30.5 80
+"male" 2011 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 42241.4 49
+"male" 2011 "age" "75 - 84" "n.admissions" "d17" 0 0 99 119
+"male" 2011 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 67.4 81
+"male" 2011 "age" "75 - 84" "n.dead.year" "d17" 0 0 NA NA
+"male" 2011 "age" "75 - 84" "n.dead1" "d17" 0 0 38596.5 22
+"male" 2011 "age" "75 - 84" "n.dead30" "d17" 0 0 19298.2 11
+"male" 2011 "age" "75 - 84" "n.dead5" "d17" 0 0 64912.3 37
+"male" 2011 "age" "75 - 84" "n.incidence" "d17" 0 0 47.4 57
+"male" 2011 "age" "75 - 84" "n.prevalence" "d17" 0 0 198.8 239
+"male" 2011 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 35.8 43
+"male" 2011 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 34567.9 28
+"male" 2011 "age" "45 - 54" "n.admissions" "d17" 0 0 22.7 89
+"male" 2011 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 15.8 62
+"male" 2011 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2011 "age" "45 - 54" "n.dead1" "d17" 0 0 32608.7 15
+"male" 2011 "age" "45 - 54" "n.dead30" "d17" 0 0 21739.1 10
+"male" 2011 "age" "45 - 54" "n.dead5" "d17" 0 0 41304.3 19
+"male" 2011 "age" "45 - 54" "n.incidence" "d17" 0 0 11.7 46
+"male" 2011 "age" "45 - 54" "n.prevalence" "d17" 0 0 36.7 144
+"male" 2011 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 9.7 38
+"male" 2011 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 38709.7 24
+"male" 2011 "age" "55 - 64" "n.admissions" "d17" 0 0 32.9 117
+"male" 2011 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 21.7 77
+"male" 2011 "age" "55 - 64" "n.dead.year" "d17" 0 0 3.1 11
+"male" 2011 "age" "55 - 64" "n.dead1" "d17" 0 0 41666.7 25
+"male" 2011 "age" "55 - 64" "n.dead30" "d17" 0 0 23333.3 14
+"male" 2011 "age" "55 - 64" "n.dead5" "d17" 0 0 60000 36
+"male" 2011 "age" "55 - 64" "n.incidence" "d17" 0 0 16.9 60
+"male" 2011 "age" "55 - 64" "n.prevalence" "d17" 0 0 65.6 233
+"male" 2011 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 14.1 50
+"male" 2011 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 29870.1 23
+"male" 2011 "age" "35 - 44" "n.admissions" "d17" 0 0 11.6 42
+"male" 2011 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 7.2 26
+"male" 2011 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2011 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2011 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2011 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2011 "age" "35 - 44" "n.incidence" "d17" 0 0 5 18
+"male" 2011 "age" "35 - 44" "n.prevalence" "d17" 0 0 21.6 78
+"male" 2011 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 5 18
+"male" 2011 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 46153.8 12
+"male" 2011 "national" "national" "n.admissions" "d17" 0 1 42.9 587
+"male" 2011 "national" "national" "n.admissions.ppl" "d17" 0 1 28.5 389
+"male" 2011 "national" "national" "n.dead.year" "d17" 0 1 3.1 41
+"male" 2011 "national" "national" "n.dead1" "d17" 0 1 34475.9 106
+"male" 2011 "national" "national" "n.dead30" "d17" 0 1 17919.7 54
+"male" 2011 "national" "national" "n.dead5" "d17" 0 1 51049.9 166
+"male" 2011 "national" "national" "n.incidence" "d17" 0 1 21.2 288
+"male" 2011 "national" "national" "n.prevalence" "d17" 0 1 81 1110
+"male" 2011 "national" "national" "n.readmissions.30" "d17" 0 1 17.8 245
+"male" 2011 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 38112.2 144
+"male" 2011 "region" "1" "n.admissions" "d17" 1 1 51.8 193
+"male" 2011 "region" "1" "n.admissions.ppl" "d17" 1 1 29.8 110
+"male" 2011 "region" "1" "n.dead.year" "d17" 1 1 3.7 12
+"male" 2011 "region" "1" "n.dead1" "d17" 1 1 30550.6 28
+"male" 2011 "region" "1" "n.dead30" "d17" 1 1 13652.1 15
+"male" 2011 "region" "1" "n.dead5" "d17" 1 1 46199.6 45
+"male" 2011 "region" "1" "n.incidence" "d17" 1 1 22.1 80
+"male" 2011 "region" "1" "n.prevalence" "d17" 1 1 86.2 322
+"male" 2011 "region" "1" "n.readmissions.30" "d17" 1 1 28.2 106
+"male" 2011 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 54941.6 59
+"male" 2011 "region" "4" "n.admissions" "d17" 1 1 37.8 85
+"male" 2011 "region" "4" "n.admissions.ppl" "d17" 1 1 25.4 55
+"male" 2011 "region" "4" "n.dead.year" "d17" 1 1 2.4 4
+"male" 2011 "region" "4" "n.dead1" "d17" 1 1 19615.7 12
+"male" 2011 "region" "4" "n.dead30" "d17" 1 1 11043 7
+"male" 2011 "region" "4" "n.dead5" "d17" 1 1 32262.6 19
+"male" 2011 "region" "4" "n.incidence" "d17" 1 1 17.5 37
+"male" 2011 "region" "4" "n.prevalence" "d17" 1 1 72.4 157
+"male" 2011 "region" "4" "n.readmissions.30" "d17" 1 1 17 39
+"male" 2011 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 53008 26
+"male" 2011 "region" "5" "n.admissions" "d17" 1 1 32.4 99
+"male" 2011 "region" "5" "n.admissions.ppl" "d17" 1 1 28.1 85
+"male" 2011 "region" "5" "n.dead.year" "d17" 1 1 4 12
+"male" 2011 "region" "5" "n.dead1" "d17" 1 1 33304.5 25
+"male" 2011 "region" "5" "n.dead30" "d17" 1 1 15238.4 12
+"male" 2011 "region" "5" "n.dead5" "d17" 1 1 48877.2 38
+"male" 2011 "region" "5" "n.incidence" "d17" 1 1 21.2 65
+"male" 2011 "region" "5" "n.prevalence" "d17" 1 1 76.9 243
+"male" 2011 "region" "5" "n.readmissions.30" "d17" 1 1 7 21
+"male" 2011 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 19914.6 18
+"male" 2011 "region" "2" "n.admissions" "d17" 1 1 33.9 97
+"male" 2011 "region" "2" "n.admissions.ppl" "d17" 1 1 26.2 76
+"male" 2011 "region" "2" "n.dead.year" "d17" 1 1 1.9 5
+"male" 2011 "region" "2" "n.dead1" "d17" 1 1 25897.4 17
+"male" 2011 "region" "2" "n.dead30" "d17" 1 1 12626.7 8
+"male" 2011 "region" "2" "n.dead5" "d17" 1 1 48048.6 31
+"male" 2011 "region" "2" "n.incidence" "d17" 1 1 19.9 57
+"male" 2011 "region" "2" "n.prevalence" "d17" 1 1 73.4 216
+"male" 2011 "region" "2" "n.readmissions.30" "d17" 1 1 9 25
+"male" 2011 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 24816 18
+"male" 2011 "region" "3" "n.admissions" "d17" 1 1 22.9 35
+"male" 2011 "region" "3" "n.admissions.ppl" "d17" 1 1 19.7 30
+"male" 2011 "region" "3" "n.dead.year" "d17" 1 1 NA NA
+"male" 2011 "region" "3" "n.dead1" "d17" 1 1 23328.4 7
+"male" 2011 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"male" 2011 "region" "3" "n.dead5" "d17" 1 1 50155 14
+"male" 2011 "region" "3" "n.incidence" "d17" 1 1 17.1 26
+"male" 2011 "region" "3" "n.prevalence" "d17" 1 1 83.4 128
+"male" 2011 "region" "3" "n.readmissions.30" "d17" 1 1 5.8 9
+"male" 2011 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 28420.7 8
+"male" 2011 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2011 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2012 "age" "85+" "n.admissions" "d17" 0 0 140.9 50
+"male" 2012 "age" "85+" "n.admissions.ppl" "d17" 0 0 93 33
+"male" 2012 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2012 "age" "85+" "n.dead1" "d17" 0 0 63636.4 21
+"male" 2012 "age" "85+" "n.dead30" "d17" 0 0 39393.9 13
+"male" 2012 "age" "85+" "n.dead5" "d17" 0 0 81818.2 27
+"male" 2012 "age" "85+" "n.incidence" "d17" 0 0 93 33
+"male" 2012 "age" "85+" "n.prevalence" "d17" 0 0 259.3 92
+"male" 2012 "age" "85+" "n.readmissions.30" "d17" 0 0 62 22
+"male" 2012 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 39393.9 13
+"male" 2012 "age" "65 - 74" "n.admissions" "d17" 0 0 88.3 244
+"male" 2012 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 57.9 160
+"male" 2012 "age" "65 - 74" "n.dead.year" "d17" 0 0 5.4 15
+"male" 2012 "age" "65 - 74" "n.dead1" "d17" 0 0 35087.7 40
+"male" 2012 "age" "65 - 74" "n.dead30" "d17" 0 0 17543.9 20
+"male" 2012 "age" "65 - 74" "n.dead5" "d17" 0 0 54386 62
+"male" 2012 "age" "65 - 74" "n.incidence" "d17" 0 0 41.2 114
+"male" 2012 "age" "65 - 74" "n.prevalence" "d17" 0 0 128.1 354
+"male" 2012 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 33.3 92
+"male" 2012 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 39375 63
+"male" 2012 "age" "75 - 84" "n.admissions" "d17" 0 0 117.6 145
+"male" 2012 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 90.8 112
+"male" 2012 "age" "75 - 84" "n.dead.year" "d17" 0 0 14.6 18
+"male" 2012 "age" "75 - 84" "n.dead1" "d17" 0 0 40659.3 37
+"male" 2012 "age" "75 - 84" "n.dead30" "d17" 0 0 18681.3 17
+"male" 2012 "age" "75 - 84" "n.dead5" "d17" 0 0 68131.9 62
+"male" 2012 "age" "75 - 84" "n.incidence" "d17" 0 0 73.8 91
+"male" 2012 "age" "75 - 84" "n.prevalence" "d17" 0 0 206.8 255
+"male" 2012 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 48.7 60
+"male" 2012 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 36607.1 41
+"male" 2012 "age" "45 - 54" "n.admissions" "d17" 0 0 18.8 75
+"male" 2012 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 12 48
+"male" 2012 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2012 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2012 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2012 "age" "45 - 54" "n.dead5" "d17" 0 0 NA NA
+"male" 2012 "age" "45 - 54" "n.incidence" "d17" 0 0 7 28
+"male" 2012 "age" "45 - 54" "n.prevalence" "d17" 0 0 37.8 151
+"male" 2012 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 7 28
+"male" 2012 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 37500 18
+"male" 2012 "age" "55 - 64" "n.admissions" "d17" 0 0 38.9 136
+"male" 2012 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 23.2 81
+"male" 2012 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2012 "age" "55 - 64" "n.dead1" "d17" 0 0 25806.5 16
+"male" 2012 "age" "55 - 64" "n.dead30" "d17" 0 0 16129 10
+"male" 2012 "age" "55 - 64" "n.dead5" "d17" 0 0 38709.7 24
+"male" 2012 "age" "55 - 64" "n.incidence" "d17" 0 0 17.7 62
+"male" 2012 "age" "55 - 64" "n.prevalence" "d17" 0 0 70.1 245
+"male" 2012 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 15.7 55
+"male" 2012 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 39506.2 32
+"male" 2012 "age" "35 - 44" "n.admissions" "d17" 0 0 10.8 38
+"male" 2012 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.1 18
+"male" 2012 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2012 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2012 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2012 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2012 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"male" 2012 "age" "35 - 44" "n.prevalence" "d17" 0 0 20.9 74
+"male" 2012 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 4.2 15
+"male" 2012 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2012 "national" "national" "n.admissions" "d17" 0 1 49.4 688
+"male" 2012 "national" "national" "n.admissions.ppl" "d17" 0 1 32.9 452
+"male" 2012 "national" "national" "n.dead.year" "d17" 0 1 4.3 52
+"male" 2012 "national" "national" "n.dead1" "d17" 0 1 25693.4 119
+"male" 2012 "national" "national" "n.dead30" "d17" 0 1 12094.4 62
+"male" 2012 "national" "national" "n.dead5" "d17" 0 1 44588.7 186
+"male" 2012 "national" "national" "n.incidence" "d17" 0 1 25.2 336
+"male" 2012 "national" "national" "n.prevalence" "d17" 0 1 84.3 1171
+"male" 2012 "national" "national" "n.readmissions.30" "d17" 0 1 19.7 272
+"male" 2012 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 38448.5 174
+"male" 2012 "region" "1" "n.admissions" "d17" 1 1 63.8 238
+"male" 2012 "region" "1" "n.admissions.ppl" "d17" 1 1 34.8 129
+"male" 2012 "region" "1" "n.dead.year" "d17" 1 1 3.8 13
+"male" 2012 "region" "1" "n.dead1" "d17" 1 1 30969.2 31
+"male" 2012 "region" "1" "n.dead30" "d17" 1 1 12624.8 17
+"male" 2012 "region" "1" "n.dead5" "d17" 1 1 43693.1 50
+"male" 2012 "region" "1" "n.incidence" "d17" 1 1 25.1 91
+"male" 2012 "region" "1" "n.prevalence" "d17" 1 1 88.4 333
+"male" 2012 "region" "1" "n.readmissions.30" "d17" 1 1 33.2 124
+"male" 2012 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 56954.3 70
+"male" 2012 "region" "4" "n.admissions" "d17" 1 1 36.8 85
+"male" 2012 "region" "4" "n.admissions.ppl" "d17" 1 1 25.3 56
+"male" 2012 "region" "4" "n.dead.year" "d17" 1 1 2.6 5
+"male" 2012 "region" "4" "n.dead1" "d17" 1 1 20940.4 13
+"male" 2012 "region" "4" "n.dead30" "d17" 1 1 13057.9 7
+"male" 2012 "region" "4" "n.dead5" "d17" 1 1 32060.7 19
+"male" 2012 "region" "4" "n.incidence" "d17" 1 1 17.5 38
+"male" 2012 "region" "4" "n.prevalence" "d17" 1 1 75.1 165
+"male" 2012 "region" "4" "n.readmissions.30" "d17" 1 1 16.3 38
+"male" 2012 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 49972.9 24
+"male" 2012 "region" "5" "n.admissions" "d17" 1 1 33.4 102
+"male" 2012 "region" "5" "n.admissions.ppl" "d17" 1 1 29.1 89
+"male" 2012 "region" "5" "n.dead.year" "d17" 1 1 4.6 13
+"male" 2012 "region" "5" "n.dead1" "d17" 1 1 36095.1 30
+"male" 2012 "region" "5" "n.dead30" "d17" 1 1 19088.1 16
+"male" 2012 "region" "5" "n.dead5" "d17" 1 1 48475.6 42
+"male" 2012 "region" "5" "n.incidence" "d17" 1 1 22.7 69
+"male" 2012 "region" "5" "n.prevalence" "d17" 1 1 78.7 251
+"male" 2012 "region" "5" "n.readmissions.30" "d17" 1 1 7.3 22
+"male" 2012 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 20653.3 19
+"male" 2012 "region" "2" "n.admissions" "d17" 1 1 40.5 117
+"male" 2012 "region" "2" "n.admissions.ppl" "d17" 1 1 30.3 90
+"male" 2012 "region" "2" "n.dead.year" "d17" 1 1 3.2 8
+"male" 2012 "region" "2" "n.dead1" "d17" 1 1 26396 22
+"male" 2012 "region" "2" "n.dead30" "d17" 1 1 11976 9
+"male" 2012 "region" "2" "n.dead5" "d17" 1 1 51081.7 38
+"male" 2012 "region" "2" "n.incidence" "d17" 1 1 23.5 68
+"male" 2012 "region" "2" "n.prevalence" "d17" 1 1 77.1 231
+"male" 2012 "region" "2" "n.readmissions.30" "d17" 1 1 13.5 37
+"male" 2012 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 27300.4 27
+"male" 2012 "region" "3" "n.admissions" "d17" 1 1 25.8 40
+"male" 2012 "region" "3" "n.admissions.ppl" "d17" 1 1 21.6 33
+"male" 2012 "region" "3" "n.dead.year" "d17" 1 1 3 4
+"male" 2012 "region" "3" "n.dead1" "d17" 1 1 15576 8
+"male" 2012 "region" "3" "n.dead30" "d17" 1 1 NA NA
+"male" 2012 "region" "3" "n.dead5" "d17" 1 1 48146.5 14
+"male" 2012 "region" "3" "n.incidence" "d17" 1 1 18.1 27
+"male" 2012 "region" "3" "n.prevalence" "d17" 1 1 89.6 138
+"male" 2012 "region" "3" "n.readmissions.30" "d17" 1 1 5.8 9
+"male" 2012 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 25621.5 8
+"male" 2012 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2012 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2013 "age" "85+" "n.admissions" "d17" 0 0 156.6 57
+"male" 2013 "age" "85+" "n.admissions.ppl" "d17" 0 0 137.4 50
+"male" 2013 "age" "85+" "n.dead.year" "d17" 0 0 46.7 17
+"male" 2013 "age" "85+" "n.dead1" "d17" 0 0 79166.7 38
+"male" 2013 "age" "85+" "n.dead30" "d17" 0 0 35416.7 17
+"male" 2013 "age" "85+" "n.dead5" "d17" 0 0 95833.3 46
+"male" 2013 "age" "85+" "n.incidence" "d17" 0 0 131.9 48
+"male" 2013 "age" "85+" "n.prevalence" "d17" 0 0 294 107
+"male" 2013 "age" "85+" "n.readmissions.30" "d17" 0 0 35.7 13
+"male" 2013 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 26000 13
+"male" 2013 "age" "65 - 74" "n.admissions" "d17" 0 0 74.5 215
+"male" 2013 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 46.8 135
+"male" 2013 "age" "65 - 74" "n.dead.year" "d17" 0 0 5.2 15
+"male" 2013 "age" "65 - 74" "n.dead1" "d17" 0 0 31481.5 34
+"male" 2013 "age" "65 - 74" "n.dead30" "d17" 0 0 18518.5 20
+"male" 2013 "age" "65 - 74" "n.dead5" "d17" 0 0 56481.5 61
+"male" 2013 "age" "65 - 74" "n.incidence" "d17" 0 0 37.4 108
+"male" 2013 "age" "65 - 74" "n.prevalence" "d17" 0 0 135.9 392
+"male" 2013 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 26.3 76
+"male" 2013 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 27407.4 37
+"male" 2013 "age" "75 - 84" "n.admissions" "d17" 0 0 143.2 182
+"male" 2013 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 99.1 126
+"male" 2013 "age" "75 - 84" "n.dead.year" "d17" 0 0 17.3 22
+"male" 2013 "age" "75 - 84" "n.dead1" "d17" 0 0 44036.7 48
+"male" 2013 "age" "75 - 84" "n.dead30" "d17" 0 0 29357.8 32
+"male" 2013 "age" "75 - 84" "n.dead5" "d17" 0 0 73394.5 80
+"male" 2013 "age" "75 - 84" "n.incidence" "d17" 0 0 85.7 109
+"male" 2013 "age" "75 - 84" "n.prevalence" "d17" 0 0 220.3 280
+"male" 2013 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 48.8 62
+"male" 2013 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 33333.3 42
+"male" 2013 "age" "45 - 54" "n.admissions" "d17" 0 0 18.8 76
+"male" 2013 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 12.9 52
+"male" 2013 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2013 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2013 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2013 "age" "45 - 54" "n.dead5" "d17" 0 0 36111.1 13
+"male" 2013 "age" "45 - 54" "n.incidence" "d17" 0 0 8.9 36
+"male" 2013 "age" "45 - 54" "n.prevalence" "d17" 0 0 38.1 154
+"male" 2013 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 6.7 27
+"male" 2013 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 38461.5 20
+"male" 2013 "age" "55 - 64" "n.admissions" "d17" 0 0 33.3 115
+"male" 2013 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 22.9 79
+"male" 2013 "age" "55 - 64" "n.dead.year" "d17" 0 0 3.5 12
+"male" 2013 "age" "55 - 64" "n.dead1" "d17" 0 0 35483.9 22
+"male" 2013 "age" "55 - 64" "n.dead30" "d17" 0 0 25806.5 16
+"male" 2013 "age" "55 - 64" "n.dead5" "d17" 0 0 54838.7 34
+"male" 2013 "age" "55 - 64" "n.incidence" "d17" 0 0 17.9 62
+"male" 2013 "age" "55 - 64" "n.prevalence" "d17" 0 0 74.4 257
+"male" 2013 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 11.3 39
+"male" 2013 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 30379.7 24
+"male" 2013 "age" "35 - 44" "n.admissions" "d17" 0 0 13.3 46
+"male" 2013 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.5 19
+"male" 2013 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2013 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2013 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2013 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2013 "age" "35 - 44" "n.incidence" "d17" 0 0 3.5 12
+"male" 2013 "age" "35 - 44" "n.prevalence" "d17" 0 0 20.2 70
+"male" 2013 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 6.3 22
+"male" 2013 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2013 "national" "national" "n.admissions" "d17" 0 1 49.4 691
+"male" 2013 "national" "national" "n.admissions.ppl" "d17" 0 1 33.9 461
+"male" 2013 "national" "national" "n.dead.year" "d17" 0 1 6.1 75
+"male" 2013 "national" "national" "n.dead1" "d17" 0 1 28584.1 153
+"male" 2013 "national" "national" "n.dead30" "d17" 0 1 18307.6 92
+"male" 2013 "national" "national" "n.dead5" "d17" 0 1 45277 238
+"male" 2013 "national" "national" "n.incidence" "d17" 0 1 28.1 375
+"male" 2013 "national" "national" "n.prevalence" "d17" 0 1 89.6 1260
+"male" 2013 "national" "national" "n.readmissions.30" "d17" 0 1 16.6 239
+"male" 2013 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 34314.8 145
+"male" 2013 "region" "1" "n.admissions" "d17" 1 1 74.9 284
+"male" 2013 "region" "1" "n.admissions.ppl" "d17" 1 1 40.1 149
+"male" 2013 "region" "1" "n.dead.year" "d17" 1 1 5.2 17
+"male" 2013 "region" "1" "n.dead1" "d17" 1 1 29507.4 41
+"male" 2013 "region" "1" "n.dead30" "d17" 1 1 14044.1 21
+"male" 2013 "region" "1" "n.dead5" "d17" 1 1 43046.5 63
+"male" 2013 "region" "1" "n.incidence" "d17" 1 1 28.7 104
+"male" 2013 "region" "1" "n.prevalence" "d17" 1 1 92.2 350
+"male" 2013 "region" "1" "n.readmissions.30" "d17" 1 1 37.3 143
+"male" 2013 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 56639.9 76
+"male" 2013 "region" "4" "n.admissions" "d17" 1 1 38.9 91
+"male" 2013 "region" "4" "n.admissions.ppl" "d17" 1 1 24.8 56
+"male" 2013 "region" "4" "n.dead.year" "d17" 1 1 3.2 6
+"male" 2013 "region" "4" "n.dead1" "d17" 1 1 23029.9 13
+"male" 2013 "region" "4" "n.dead30" "d17" 1 1 15967.6 8
+"male" 2013 "region" "4" "n.dead5" "d17" 1 1 35195.4 21
+"male" 2013 "region" "4" "n.incidence" "d17" 1 1 17.4 39
+"male" 2013 "region" "4" "n.prevalence" "d17" 1 1 77.6 172
+"male" 2013 "region" "4" "n.readmissions.30" "d17" 1 1 15.9 38
+"male" 2013 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 45459.3 22
+"male" 2013 "region" "5" "n.admissions" "d17" 1 1 37.5 118
+"male" 2013 "region" "5" "n.admissions.ppl" "d17" 1 1 31.7 99
+"male" 2013 "region" "5" "n.dead.year" "d17" 1 1 5.8 17
+"male" 2013 "region" "5" "n.dead1" "d17" 1 1 38802 35
+"male" 2013 "region" "5" "n.dead30" "d17" 1 1 24316.8 23
+"male" 2013 "region" "5" "n.dead5" "d17" 1 1 52047.6 52
+"male" 2013 "region" "5" "n.incidence" "d17" 1 1 27.2 84
+"male" 2013 "region" "5" "n.prevalence" "d17" 1 1 80.9 262
+"male" 2013 "region" "5" "n.readmissions.30" "d17" 1 1 7.3 23
+"male" 2013 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 19069.5 19
+"male" 2013 "region" "2" "n.admissions" "d17" 1 1 40.6 121
+"male" 2013 "region" "2" "n.admissions.ppl" "d17" 1 1 31.3 93
+"male" 2013 "region" "2" "n.dead.year" "d17" 1 1 4 11
+"male" 2013 "region" "2" "n.dead1" "d17" 1 1 31370.8 27
+"male" 2013 "region" "2" "n.dead30" "d17" 1 1 15089.8 13
+"male" 2013 "region" "2" "n.dead5" "d17" 1 1 54057.2 44
+"male" 2013 "region" "2" "n.incidence" "d17" 1 1 25.9 76
+"male" 2013 "region" "2" "n.prevalence" "d17" 1 1 82.3 251
+"male" 2013 "region" "2" "n.readmissions.30" "d17" 1 1 13.6 39
+"male" 2013 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 29120.2 30
+"male" 2013 "region" "3" "n.admissions" "d17" 1 1 26.7 41
+"male" 2013 "region" "3" "n.admissions.ppl" "d17" 1 1 23.7 36
+"male" 2013 "region" "3" "n.dead.year" "d17" 1 1 3.4 5
+"male" 2013 "region" "3" "n.dead1" "d17" 1 1 22679.7 10
+"male" 2013 "region" "3" "n.dead30" "d17" 1 1 11875.6 5
+"male" 2013 "region" "3" "n.dead5" "d17" 1 1 54147.5 16
+"male" 2013 "region" "3" "n.incidence" "d17" 1 1 19.5 30
+"male" 2013 "region" "3" "n.prevalence" "d17" 1 1 93.3 145
+"male" 2013 "region" "3" "n.readmissions.30" "d17" 1 1 5.6 9
+"male" 2013 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 16994.5 8
+"male" 2013 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2013 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2014 "age" "85+" "n.admissions" "d17" 0 0 138.9 52
+"male" 2014 "age" "85+" "n.admissions.ppl" "d17" 0 0 109.5 41
+"male" 2014 "age" "85+" "n.dead.year" "d17" 0 0 32.1 12
+"male" 2014 "age" "85+" "n.dead1" "d17" 0 0 62162.2 23
+"male" 2014 "age" "85+" "n.dead30" "d17" 0 0 40540.5 15
+"male" 2014 "age" "85+" "n.dead5" "d17" 0 0 89189.2 33
+"male" 2014 "age" "85+" "n.incidence" "d17" 0 0 98.8 37
+"male" 2014 "age" "85+" "n.prevalence" "d17" 0 0 320.5 120
+"male" 2014 "age" "85+" "n.readmissions.30" "d17" 0 0 45.4 17
+"male" 2014 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 31707.3 13
+"male" 2014 "age" "65 - 74" "n.admissions" "d17" 0 0 71.7 213
+"male" 2014 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 49.5 147
+"male" 2014 "age" "65 - 74" "n.dead.year" "d17" 0 0 4 12
+"male" 2014 "age" "65 - 74" "n.dead1" "d17" 0 0 27358.5 29
+"male" 2014 "age" "65 - 74" "n.dead30" "d17" 0 0 15094.3 16
+"male" 2014 "age" "65 - 74" "n.dead5" "d17" 0 0 44339.6 47
+"male" 2014 "age" "65 - 74" "n.incidence" "d17" 0 0 35.7 106
+"male" 2014 "age" "65 - 74" "n.prevalence" "d17" 0 0 138 410
+"male" 2014 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 26.2 78
+"male" 2014 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 35374.1 52
+"male" 2014 "age" "75 - 84" "n.admissions" "d17" 0 0 104.9 138
+"male" 2014 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 77.5 102
+"male" 2014 "age" "75 - 84" "n.dead.year" "d17" 0 0 12.2 16
+"male" 2014 "age" "75 - 84" "n.dead1" "d17" 0 0 49382.7 40
+"male" 2014 "age" "75 - 84" "n.dead30" "d17" 0 0 19753.1 16
+"male" 2014 "age" "75 - 84" "n.dead5" "d17" 0 0 80246.9 65
+"male" 2014 "age" "75 - 84" "n.incidence" "d17" 0 0 61.6 81
+"male" 2014 "age" "75 - 84" "n.prevalence" "d17" 0 0 250.1 329
+"male" 2014 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 32.7 43
+"male" 2014 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 36274.5 37
+"male" 2014 "age" "45 - 54" "n.admissions" "d17" 0 0 20.9 85
+"male" 2014 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 12.5 51
+"male" 2014 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2014 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2014 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2014 "age" "45 - 54" "n.dead5" "d17" 0 0 46875 15
+"male" 2014 "age" "45 - 54" "n.incidence" "d17" 0 0 7.9 32
+"male" 2014 "age" "45 - 54" "n.prevalence" "d17" 0 0 36.9 150
+"male" 2014 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 8.6 35
+"male" 2014 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 33333.3 17
+"male" 2014 "age" "55 - 64" "n.admissions" "d17" 0 0 37.5 129
+"male" 2014 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 23.3 80
+"male" 2014 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2014 "age" "55 - 64" "n.dead1" "d17" 0 0 18644.1 11
+"male" 2014 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2014 "age" "55 - 64" "n.dead5" "d17" 0 0 35593.2 21
+"male" 2014 "age" "55 - 64" "n.incidence" "d17" 0 0 17.2 59
+"male" 2014 "age" "55 - 64" "n.prevalence" "d17" 0 0 76.7 264
+"male" 2014 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 14.5 50
+"male" 2014 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 32500 26
+"male" 2014 "age" "35 - 44" "n.admissions" "d17" 0 0 8.5 29
+"male" 2014 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 6.1 21
+"male" 2014 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2014 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2014 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2014 "age" "35 - 44" "n.dead5" "d17" 0 0 NA NA
+"male" 2014 "age" "35 - 44" "n.incidence" "d17" 0 0 4.4 15
+"male" 2014 "age" "35 - 44" "n.prevalence" "d17" 0 0 19.5 67
+"male" 2014 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2014 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2014 "national" "national" "n.admissions" "d17" 0 1 44.7 646
+"male" 2014 "national" "national" "n.admissions.ppl" "d17" 0 1 31.1 442
+"male" 2014 "national" "national" "n.dead.year" "d17" 0 1 4 50
+"male" 2014 "national" "national" "n.dead1" "d17" 0 1 24908.4 113
+"male" 2014 "national" "national" "n.dead30" "d17" 0 1 14849.1 60
+"male" 2014 "national" "national" "n.dead5" "d17" 0 1 43485.7 185
+"male" 2014 "national" "national" "n.incidence" "d17" 0 1 23.7 330
+"male" 2014 "national" "national" "n.prevalence" "d17" 0 1 94 1340
+"male" 2014 "national" "national" "n.readmissions.30" "d17" 0 1 15.7 230
+"male" 2014 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 35276.3 152
+"male" 2014 "region" "1" "n.admissions" "d17" 1 1 75.7 297
+"male" 2014 "region" "1" "n.admissions.ppl" "d17" 1 1 41.4 157
+"male" 2014 "region" "1" "n.dead.year" "d17" 1 1 4.8 16
+"male" 2014 "region" "1" "n.dead1" "d17" 1 1 28011.3 39
+"male" 2014 "region" "1" "n.dead30" "d17" 1 1 14311.1 20
+"male" 2014 "region" "1" "n.dead5" "d17" 1 1 43138.1 64
+"male" 2014 "region" "1" "n.incidence" "d17" 1 1 29.3 108
+"male" 2014 "region" "1" "n.prevalence" "d17" 1 1 97.8 373
+"male" 2014 "region" "1" "n.readmissions.30" "d17" 1 1 35.2 142
+"male" 2014 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 55354.3 75
+"male" 2014 "region" "4" "n.admissions" "d17" 1 1 37.4 89
+"male" 2014 "region" "4" "n.admissions.ppl" "d17" 1 1 24.6 57
+"male" 2014 "region" "4" "n.dead.year" "d17" 1 1 3.3 7
+"male" 2014 "region" "4" "n.dead1" "d17" 1 1 NA 13
+"male" 2014 "region" "4" "n.dead30" "d17" 1 1 NA 7
+"male" 2014 "region" "4" "n.dead5" "d17" 1 1 NA 19
+"male" 2014 "region" "4" "n.incidence" "d17" 1 1 16.5 37
+"male" 2014 "region" "4" "n.prevalence" "d17" 1 1 80.1 180
+"male" 2014 "region" "4" "n.readmissions.30" "d17" 1 1 12.7 31
+"male" 2014 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 38781.8 20
+"male" 2014 "region" "5" "n.admissions" "d17" 1 1 37.5 121
+"male" 2014 "region" "5" "n.admissions.ppl" "d17" 1 1 31.8 101
+"male" 2014 "region" "5" "n.dead.year" "d17" 1 1 6 17
+"male" 2014 "region" "5" "n.dead1" "d17" 1 1 27394.3 35
+"male" 2014 "region" "5" "n.dead30" "d17" 1 1 20070.5 22
+"male" 2014 "region" "5" "n.dead5" "d17" 1 1 42593 53
+"male" 2014 "region" "5" "n.incidence" "d17" 1 1 27.9 87
+"male" 2014 "region" "5" "n.prevalence" "d17" 1 1 86.2 283
+"male" 2014 "region" "5" "n.readmissions.30" "d17" 1 1 8 26
+"male" 2014 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 19134.5 22
+"male" 2014 "region" "2" "n.admissions" "d17" 1 1 40.8 122
+"male" 2014 "region" "2" "n.admissions.ppl" "d17" 1 1 31.3 95
+"male" 2014 "region" "2" "n.dead.year" "d17" 1 1 4.5 12
+"male" 2014 "region" "2" "n.dead1" "d17" 1 1 24627.9 28
+"male" 2014 "region" "2" "n.dead30" "d17" 1 1 13718.9 15
+"male" 2014 "region" "2" "n.dead5" "d17" 1 1 45986.1 46
+"male" 2014 "region" "2" "n.incidence" "d17" 1 1 26.3 79
+"male" 2014 "region" "2" "n.prevalence" "d17" 1 1 87.5 272
+"male" 2014 "region" "2" "n.readmissions.30" "d17" 1 1 14.4 40
+"male" 2014 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 30879.6 33
+"male" 2014 "region" "3" "n.admissions" "d17" 1 1 29.8 46
+"male" 2014 "region" "3" "n.admissions.ppl" "d17" 1 1 26.9 42
+"male" 2014 "region" "3" "n.dead.year" "d17" 1 1 4.7 7
+"male" 2014 "region" "3" "n.dead1" "d17" 1 1 NA 13
+"male" 2014 "region" "3" "n.dead30" "d17" 1 1 NA 7
+"male" 2014 "region" "3" "n.dead5" "d17" 1 1 NA 21
+"male" 2014 "region" "3" "n.incidence" "d17" 1 1 23.4 36
+"male" 2014 "region" "3" "n.prevalence" "d17" 1 1 94.2 149
+"male" 2014 "region" "3" "n.readmissions.30" "d17" 1 1 4.8 7
+"male" 2014 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 11651.9 7
+"male" 2014 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.dead5" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2014 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2015 "age" "85+" "n.admissions" "d17" 0 0 90.7 35
+"male" 2015 "age" "85+" "n.admissions.ppl" "d17" 0 0 85.5 33
+"male" 2015 "age" "85+" "n.dead.year" "d17" 0 0 28.5 11
+"male" 2015 "age" "85+" "n.dead1" "d17" 0 0 58823.5 20
+"male" 2015 "age" "85+" "n.dead30" "d17" 0 0 47058.8 16
+"male" 2015 "age" "85+" "n.incidence" "d17" 0 0 88.1 34
+"male" 2015 "age" "85+" "n.prevalence" "d17" 0 0 344.8 133
+"male" 2015 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2015 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2015 "age" "65 - 74" "n.admissions" "d17" 0 0 85.6 260
+"male" 2015 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 60.3 183
+"male" 2015 "age" "65 - 74" "n.dead.year" "d17" 0 0 4.6 14
+"male" 2015 "age" "65 - 74" "n.dead1" "d17" 0 0 32846.7 45
+"male" 2015 "age" "65 - 74" "n.dead30" "d17" 0 0 14598.5 20
+"male" 2015 "age" "65 - 74" "n.incidence" "d17" 0 0 45.1 137
+"male" 2015 "age" "65 - 74" "n.prevalence" "d17" 0 0 148.2 450
+"male" 2015 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 31.9 97
+"male" 2015 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 35519.1 65
+"male" 2015 "age" "75 - 84" "n.admissions" "d17" 0 0 140.6 192
+"male" 2015 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 109.8 150
+"male" 2015 "age" "75 - 84" "n.dead.year" "d17" 0 0 11.7 16
+"male" 2015 "age" "75 - 84" "n.dead1" "d17" 0 0 46153.8 54
+"male" 2015 "age" "75 - 84" "n.dead30" "d17" 0 0 24786.3 29
+"male" 2015 "age" "75 - 84" "n.incidence" "d17" 0 0 85.7 117
+"male" 2015 "age" "75 - 84" "n.prevalence" "d17" 0 0 233.6 319
+"male" 2015 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 41 56
+"male" 2015 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 28666.7 43
+"male" 2015 "age" "45 - 54" "n.admissions" "d17" 0 0 13.2 54
+"male" 2015 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 11 45
+"male" 2015 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2015 "age" "45 - 54" "n.dead1" "d17" 0 0 29411.8 10
+"male" 2015 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2015 "age" "45 - 54" "n.incidence" "d17" 0 0 8.3 34
+"male" 2015 "age" "45 - 54" "n.prevalence" "d17" 0 0 38.2 156
+"male" 2015 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3.4 14
+"male" 2015 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 22222.2 10
+"male" 2015 "age" "55 - 64" "n.admissions" "d17" 0 0 36.6 126
+"male" 2015 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 22.9 79
+"male" 2015 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2015 "age" "55 - 64" "n.dead1" "d17" 0 0 29629.6 16
+"male" 2015 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2015 "age" "55 - 64" "n.incidence" "d17" 0 0 15.7 54
+"male" 2015 "age" "55 - 64" "n.prevalence" "d17" 0 0 79 272
+"male" 2015 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 12.8 44
+"male" 2015 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 29113.9 23
+"male" 2015 "age" "35 - 44" "n.admissions" "d17" 0 0 7.9 27
+"male" 2015 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 6.4 22
+"male" 2015 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2015 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2015 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2015 "age" "35 - 44" "n.incidence" "d17" 0 0 4.4 15
+"male" 2015 "age" "35 - 44" "n.prevalence" "d17" 0 0 20.5 70
+"male" 2015 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2015 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2015 "national" "national" "n.admissions" "d17" 0 1 46.9 694
+"male" 2015 "national" "national" "n.admissions.ppl" "d17" 0 1 35.1 512
+"male" 2015 "national" "national" "n.dead.year" "d17" 0 1 3.8 50
+"male" 2015 "national" "national" "n.dead1" "d17" 0 1 28278.2 146
+"male" 2015 "national" "national" "n.dead30" "d17" 0 1 14653.3 80
+"male" 2015 "national" "national" "n.incidence" "d17" 0 1 27.2 391
+"male" 2015 "national" "national" "n.prevalence" "d17" 0 1 96.1 1400
+"male" 2015 "national" "national" "n.readmissions.30" "d17" 0 1 15 225
+"male" 2015 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 27985.4 153
+"male" 2015 "region" "1" "n.admissions" "d17" 1 1 74.3 294
+"male" 2015 "region" "1" "n.admissions.ppl" "d17" 1 1 43.5 166
+"male" 2015 "region" "1" "n.dead.year" "d17" 1 1 4.6 15
+"male" 2015 "region" "1" "n.dead1" "d17" 1 1 24651.9 44
+"male" 2015 "region" "1" "n.dead30" "d17" 1 1 13400.1 23
+"male" 2015 "region" "1" "n.incidence" "d17" 1 1 31.5 118
+"male" 2015 "region" "1" "n.prevalence" "d17" 1 1 102.4 398
+"male" 2015 "region" "1" "n.readmissions.30" "d17" 1 1 32.5 133
+"male" 2015 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 47802.5 71
+"male" 2015 "region" "4" "n.admissions" "d17" 1 1 38 94
+"male" 2015 "region" "4" "n.admissions.ppl" "d17" 1 1 25.8 63
+"male" 2015 "region" "4" "n.dead.year" "d17" 1 1 3.1 6
+"male" 2015 "region" "4" "n.dead1" "d17" 1 1 NA 14
+"male" 2015 "region" "4" "n.dead30" "d17" 1 1 NA 6
+"male" 2015 "region" "4" "n.incidence" "d17" 1 1 16.5 39
+"male" 2015 "region" "4" "n.prevalence" "d17" 1 1 81.5 186
+"male" 2015 "region" "4" "n.readmissions.30" "d17" 1 1 11.1 29
+"male" 2015 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 NA 19
+"male" 2015 "region" "5" "n.admissions" "d17" 1 1 37.9 124
+"male" 2015 "region" "5" "n.admissions.ppl" "d17" 1 1 32 104
+"male" 2015 "region" "5" "n.dead.year" "d17" 1 1 5.9 17
+"male" 2015 "region" "5" "n.dead1" "d17" 1 1 29139.5 36
+"male" 2015 "region" "5" "n.dead30" "d17" 1 1 20397.7 24
+"male" 2015 "region" "5" "n.incidence" "d17" 1 1 28.1 89
+"male" 2015 "region" "5" "n.prevalence" "d17" 1 1 92.2 306
+"male" 2015 "region" "5" "n.readmissions.30" "d17" 1 1 8 27
+"male" 2015 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 17081.5 22
+"male" 2015 "region" "2" "n.admissions" "d17" 1 1 37.5 116
+"male" 2015 "region" "2" "n.admissions.ppl" "d17" 1 1 30.6 95
+"male" 2015 "region" "2" "n.dead.year" "d17" 1 1 4.6 14
+"male" 2015 "region" "2" "n.dead1" "d17" 1 1 28792.8 30
+"male" 2015 "region" "2" "n.dead30" "d17" 1 1 16176.2 18
+"male" 2015 "region" "2" "n.incidence" "d17" 1 1 26.2 81
+"male" 2015 "region" "2" "n.prevalence" "d17" 1 1 91.5 291
+"male" 2015 "region" "2" "n.readmissions.30" "d17" 1 1 11.9 35
+"male" 2015 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 34177.3 31
+"male" 2015 "region" "3" "n.admissions" "d17" 1 1 31 48
+"male" 2015 "region" "3" "n.admissions.ppl" "d17" 1 1 28 44
+"male" 2015 "region" "3" "n.dead.year" "d17" 1 1 4.2 6
+"male" 2015 "region" "3" "n.dead1" "d17" 1 1 26492 13
+"male" 2015 "region" "3" "n.dead30" "d17" 1 1 15989.6 7
+"male" 2015 "region" "3" "n.incidence" "d17" 1 1 24.7 38
+"male" 2015 "region" "3" "n.prevalence" "d17" 1 1 95.5 152
+"male" 2015 "region" "3" "n.readmissions.30" "d17" 1 1 4.8 7
+"male" 2015 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 11850.2 7
+"male" 2015 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2015 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2016 "age" "85+" "n.admissions" "d17" 0 0 116.9 46
+"male" 2016 "age" "85+" "n.admissions.ppl" "d17" 0 0 81.3 32
+"male" 2016 "age" "85+" "n.dead.year" "d17" 0 0 NA NA
+"male" 2016 "age" "85+" "n.dead1" "d17" 0 0 70000 21
+"male" 2016 "age" "85+" "n.dead30" "d17" 0 0 40000 12
+"male" 2016 "age" "85+" "n.incidence" "d17" 0 0 76.2 30
+"male" 2016 "age" "85+" "n.prevalence" "d17" 0 0 317.5 125
+"male" 2016 "age" "85+" "n.readmissions.30" "d17" 0 0 45.7 18
+"male" 2016 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 37500 12
+"male" 2016 "age" "65 - 74" "n.admissions" "d17" 0 0 64 198
+"male" 2016 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 43 133
+"male" 2016 "age" "65 - 74" "n.dead.year" "d17" 0 0 5.5 17
+"male" 2016 "age" "65 - 74" "n.dead1" "d17" 0 0 32407.4 35
+"male" 2016 "age" "65 - 74" "n.dead30" "d17" 0 0 16666.7 18
+"male" 2016 "age" "65 - 74" "n.incidence" "d17" 0 0 34.9 108
+"male" 2016 "age" "65 - 74" "n.prevalence" "d17" 0 0 157.5 487
+"male" 2016 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 22 68
+"male" 2016 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 31578.9 42
+"male" 2016 "age" "75 - 84" "n.admissions" "d17" 0 0 137.1 195
+"male" 2016 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 99.8 142
+"male" 2016 "age" "75 - 84" "n.dead.year" "d17" 0 0 12 17
+"male" 2016 "age" "75 - 84" "n.dead1" "d17" 0 0 44036.7 48
+"male" 2016 "age" "75 - 84" "n.dead30" "d17" 0 0 22018.3 24
+"male" 2016 "age" "75 - 84" "n.incidence" "d17" 0 0 76.6 109
+"male" 2016 "age" "75 - 84" "n.prevalence" "d17" 0 0 243.3 346
+"male" 2016 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 39.4 56
+"male" 2016 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 26760.6 38
+"male" 2016 "age" "45 - 54" "n.admissions" "d17" 0 0 11.8 48
+"male" 2016 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 9.6 39
+"male" 2016 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2016 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2016 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2016 "age" "45 - 54" "n.incidence" "d17" 0 0 6.9 28
+"male" 2016 "age" "45 - 54" "n.prevalence" "d17" 0 0 38.9 159
+"male" 2016 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3.4 14
+"male" 2016 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 28205.1 11
+"male" 2016 "age" "55 - 64" "n.admissions" "d17" 0 0 33.5 116
+"male" 2016 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 22.2 77
+"male" 2016 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2016 "age" "55 - 64" "n.dead1" "d17" 0 0 33333.3 19
+"male" 2016 "age" "55 - 64" "n.dead30" "d17" 0 0 21052.6 12
+"male" 2016 "age" "55 - 64" "n.incidence" "d17" 0 0 16.4 57
+"male" 2016 "age" "55 - 64" "n.prevalence" "d17" 0 0 80.2 278
+"male" 2016 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 13.3 46
+"male" 2016 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 42857.1 33
+"male" 2016 "age" "35 - 44" "n.admissions" "d17" 0 0 10 34
+"male" 2016 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.3 18
+"male" 2016 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2016 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2016 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2016 "age" "35 - 44" "n.incidence" "d17" 0 0 4.1 14
+"male" 2016 "age" "35 - 44" "n.prevalence" "d17" 0 0 20.6 70
+"male" 2016 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 4.4 15
+"male" 2016 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2016 "national" "national" "n.admissions" "d17" 0 1 42.9 637
+"male" 2016 "national" "national" "n.admissions.ppl" "d17" 0 1 29.9 441
+"male" 2016 "national" "national" "n.dead.year" "d17" 0 1 3.9 55
+"male" 2016 "national" "national" "n.dead1" "d17" 0 1 29115.1 134
+"male" 2016 "national" "national" "n.dead30" "d17" 0 1 18543.9 74
+"male" 2016 "national" "national" "n.incidence" "d17" 0 1 23.6 346
+"male" 2016 "national" "national" "n.prevalence" "d17" 0 1 97.8 1465
+"male" 2016 "national" "national" "n.readmissions.30" "d17" 0 1 14.5 217
+"male" 2016 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 30828.7 140
+"male" 2016 "region" "1" "n.admissions" "d17" 1 1 72 290
+"male" 2016 "region" "1" "n.admissions.ppl" "d17" 1 1 43.4 170
+"male" 2016 "region" "1" "n.dead.year" "d17" 1 1 3.8 13
+"male" 2016 "region" "1" "n.dead1" "d17" 1 1 27995.5 44
+"male" 2016 "region" "1" "n.dead30" "d17" 1 1 16499.8 23
+"male" 2016 "region" "1" "n.incidence" "d17" 1 1 31.5 121
+"male" 2016 "region" "1" "n.prevalence" "d17" 1 1 107 425
+"male" 2016 "region" "1" "n.readmissions.30" "d17" 1 1 30.2 125
+"male" 2016 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 41873.4 70
+"male" 2016 "region" "4" "n.admissions" "d17" 1 1 34.8 88
+"male" 2016 "region" "4" "n.admissions.ppl" "d17" 1 1 24.5 61
+"male" 2016 "region" "4" "n.dead.year" "d17" 1 1 2.2 5
+"male" 2016 "region" "4" "n.dead1" "d17" 1 1 NA 12
+"male" 2016 "region" "4" "n.dead30" "d17" 1 1 NA 6
+"male" 2016 "region" "4" "n.incidence" "d17" 1 1 15.5 38
+"male" 2016 "region" "4" "n.prevalence" "d17" 1 1 80.7 189
+"male" 2016 "region" "4" "n.readmissions.30" "d17" 1 1 10 26
+"male" 2016 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 27812.9 20
+"male" 2016 "region" "5" "n.admissions" "d17" 1 1 34.1 112
+"male" 2016 "region" "5" "n.admissions.ppl" "d17" 1 1 29.1 95
+"male" 2016 "region" "5" "n.dead.year" "d17" 1 1 4.6 15
+"male" 2016 "region" "5" "n.dead1" "d17" 1 1 33362.1 33
+"male" 2016 "region" "5" "n.dead30" "d17" 1 1 21183.3 20
+"male" 2016 "region" "5" "n.incidence" "d17" 1 1 24.4 78
+"male" 2016 "region" "5" "n.prevalence" "d17" 1 1 96.9 326
+"male" 2016 "region" "5" "n.readmissions.30" "d17" 1 1 8.4 28
+"male" 2016 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 21915.3 22
+"male" 2016 "region" "2" "n.admissions" "d17" 1 1 36.6 118
+"male" 2016 "region" "2" "n.admissions.ppl" "d17" 1 1 29.2 95
+"male" 2016 "region" "2" "n.dead.year" "d17" 1 1 4.5 13
+"male" 2016 "region" "2" "n.dead1" "d17" 1 1 26655.8 30
+"male" 2016 "region" "2" "n.dead30" "d17" 1 1 14345.4 16
+"male" 2016 "region" "2" "n.incidence" "d17" 1 1 24.4 79
+"male" 2016 "region" "2" "n.prevalence" "d17" 1 1 92.9 303
+"male" 2016 "region" "2" "n.readmissions.30" "d17" 1 1 11.6 36
+"male" 2016 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 31086.2 29
+"male" 2016 "region" "3" "n.admissions" "d17" 1 1 31.8 51
+"male" 2016 "region" "3" "n.admissions.ppl" "d17" 1 1 27.1 44
+"male" 2016 "region" "3" "n.dead.year" "d17" 1 1 4 6
+"male" 2016 "region" "3" "n.dead1" "d17" 1 1 23262.8 12
+"male" 2016 "region" "3" "n.dead30" "d17" 1 1 15500.6 7
+"male" 2016 "region" "3" "n.incidence" "d17" 1 1 24.2 39
+"male" 2016 "region" "3" "n.prevalence" "d17" 1 1 97.6 158
+"male" 2016 "region" "3" "n.readmissions.30" "d17" 1 1 5.6 9
+"male" 2016 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 14646.8 8
+"male" 2016 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2016 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2017 "age" "85+" "n.admissions" "d17" 0 0 133.7 54
+"male" 2017 "age" "85+" "n.admissions.ppl" "d17" 0 0 113.9 46
+"male" 2017 "age" "85+" "n.dead.year" "d17" 0 0 24.8 10
+"male" 2017 "age" "85+" "n.dead1" "d17" 0 0 65000 26
+"male" 2017 "age" "85+" "n.dead30" "d17" 0 0 35000 14
+"male" 2017 "age" "85+" "n.incidence" "d17" 0 0 99 40
+"male" 2017 "age" "85+" "n.prevalence" "d17" 0 0 321.9 130
+"male" 2017 "age" "85+" "n.readmissions.30" "d17" 0 0 37.1 15
+"male" 2017 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 28260.9 13
+"male" 2017 "age" "65 - 74" "n.admissions" "d17" 0 0 62 194
+"male" 2017 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 53 166
+"male" 2017 "age" "65 - 74" "n.dead.year" "d17" 0 0 4.8 15
+"male" 2017 "age" "65 - 74" "n.dead1" "d17" 0 0 28030.3 37
+"male" 2017 "age" "65 - 74" "n.dead30" "d17" 0 0 14393.9 19
+"male" 2017 "age" "65 - 74" "n.incidence" "d17" 0 0 42.2 132
+"male" 2017 "age" "65 - 74" "n.prevalence" "d17" 0 0 156.8 491
+"male" 2017 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 18.5 58
+"male" 2017 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 32530.1 54
+"male" 2017 "age" "75 - 84" "n.admissions" "d17" 0 0 112.5 167
+"male" 2017 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 97 144
+"male" 2017 "age" "75 - 84" "n.dead.year" "d17" 0 0 12.8 19
+"male" 2017 "age" "75 - 84" "n.dead1" "d17" 0 0 45454.5 55
+"male" 2017 "age" "75 - 84" "n.dead30" "d17" 0 0 28099.2 34
+"male" 2017 "age" "75 - 84" "n.incidence" "d17" 0 0 81.5 121
+"male" 2017 "age" "75 - 84" "n.prevalence" "d17" 0 0 268.9 399
+"male" 2017 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 27.6 41
+"male" 2017 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 23611.1 34
+"male" 2017 "age" "45 - 54" "n.admissions" "d17" 0 0 13.9 57
+"male" 2017 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 11.9 49
+"male" 2017 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2017 "age" "45 - 54" "n.dead1" "d17" 0 0 NA NA
+"male" 2017 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2017 "age" "45 - 54" "n.incidence" "d17" 0 0 9.7 40
+"male" 2017 "age" "45 - 54" "n.prevalence" "d17" 0 0 37.8 155
+"male" 2017 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3.4 14
+"male" 2017 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 22449 11
+"male" 2017 "age" "55 - 64" "n.admissions" "d17" 0 0 29.2 102
+"male" 2017 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 25.5 89
+"male" 2017 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2017 "age" "55 - 64" "n.dead1" "d17" 0 0 18032.8 11
+"male" 2017 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2017 "age" "55 - 64" "n.incidence" "d17" 0 0 17.5 61
+"male" 2017 "age" "55 - 64" "n.prevalence" "d17" 0 0 76.4 267
+"male" 2017 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 9.2 32
+"male" 2017 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 30337.1 27
+"male" 2017 "age" "35 - 44" "n.admissions" "d17" 0 0 6.3 21
+"male" 2017 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 5.7 19
+"male" 2017 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2017 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2017 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2017 "age" "35 - 44" "n.incidence" "d17" 0 0 3.6 12
+"male" 2017 "age" "35 - 44" "n.prevalence" "d17" 0 0 21.5 72
+"male" 2017 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2017 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2017 "national" "national" "n.admissions" "d17" 0 1 39.3 595
+"male" 2017 "national" "national" "n.admissions.ppl" "d17" 0 1 33.9 513
+"male" 2017 "national" "national" "n.dead.year" "d17" 0 1 3.8 54
+"male" 2017 "national" "national" "n.dead1" "d17" 0 1 24253.8 138
+"male" 2017 "national" "national" "n.dead30" "d17" 0 1 15320.7 82
+"male" 2017 "national" "national" "n.incidence" "d17" 0 1 27.1 406
+"male" 2017 "national" "national" "n.prevalence" "d17" 0 1 99.5 1514
+"male" 2017 "national" "national" "n.readmissions.30" "d17" 0 1 10.7 164
+"male" 2017 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 25345 143
+"male" 2017 "region" "1" "n.admissions" "d17" 1 1 64 259
+"male" 2017 "region" "1" "n.admissions.ppl" "d17" 1 1 42 168
+"male" 2017 "region" "1" "n.dead.year" "d17" 1 1 3.7 14
+"male" 2017 "region" "1" "n.dead1" "d17" 1 1 29645.3 47
+"male" 2017 "region" "1" "n.dead30" "d17" 1 1 16124.8 25
+"male" 2017 "region" "1" "n.incidence" "d17" 1 1 31.1 123
+"male" 2017 "region" "1" "n.prevalence" "d17" 1 1 111.7 454
+"male" 2017 "region" "1" "n.readmissions.30" "d17" 1 1 25 103
+"male" 2017 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 35288.7 63
+"male" 2017 "region" "4" "n.admissions" "d17" 1 1 32.7 82
+"male" 2017 "region" "4" "n.admissions.ppl" "d17" 1 1 25.3 63
+"male" 2017 "region" "4" "n.dead.year" "d17" 1 1 2.8 7
+"male" 2017 "region" "4" "n.dead1" "d17" 1 1 30731.3 16
+"male" 2017 "region" "4" "n.dead30" "d17" 1 1 17679.2 9
+"male" 2017 "region" "4" "n.incidence" "d17" 1 1 16.8 41
+"male" 2017 "region" "4" "n.prevalence" "d17" 1 1 78.4 189
+"male" 2017 "region" "4" "n.readmissions.30" "d17" 1 1 8.9 23
+"male" 2017 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 25730.6 18
+"male" 2017 "region" "5" "n.admissions" "d17" 1 1 36 119
+"male" 2017 "region" "5" "n.admissions.ppl" "d17" 1 1 30.7 102
+"male" 2017 "region" "5" "n.dead.year" "d17" 1 1 4.3 14
+"male" 2017 "region" "5" "n.dead1" "d17" 1 1 30280.7 34
+"male" 2017 "region" "5" "n.dead30" "d17" 1 1 19901.7 21
+"male" 2017 "region" "5" "n.incidence" "d17" 1 1 26.8 88
+"male" 2017 "region" "5" "n.prevalence" "d17" 1 1 98.2 335
+"male" 2017 "region" "5" "n.readmissions.30" "d17" 1 1 9.6 32
+"male" 2017 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 27677.1 27
+"male" 2017 "region" "2" "n.admissions" "d17" 1 1 36.9 124
+"male" 2017 "region" "2" "n.admissions.ppl" "d17" 1 1 31.6 106
+"male" 2017 "region" "2" "n.dead.year" "d17" 1 1 4.3 13
+"male" 2017 "region" "2" "n.dead1" "d17" 1 1 26576.7 31
+"male" 2017 "region" "2" "n.dead30" "d17" 1 1 12370 17
+"male" 2017 "region" "2" "n.incidence" "d17" 1 1 25.6 86
+"male" 2017 "region" "2" "n.prevalence" "d17" 1 1 94.6 317
+"male" 2017 "region" "2" "n.readmissions.30" "d17" 1 1 9.9 34
+"male" 2017 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 28088.6 27
+"male" 2017 "region" "3" "n.admissions" "d17" 1 1 33.5 57
+"male" 2017 "region" "3" "n.admissions.ppl" "d17" 1 1 29.2 49
+"male" 2017 "region" "3" "n.dead.year" "d17" 1 1 3.9 6
+"male" 2017 "region" "3" "n.dead1" "d17" 1 1 20244.5 12
+"male" 2017 "region" "3" "n.dead30" "d17" 1 1 13985.8 7
+"male" 2017 "region" "3" "n.incidence" "d17" 1 1 25.9 43
+"male" 2017 "region" "3" "n.prevalence" "d17" 1 1 99.9 165
+"male" 2017 "region" "3" "n.readmissions.30" "d17" 1 1 6.3 10
+"male" 2017 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 14238.5 9
+"male" 2017 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2017 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
+"male" 2018 "age" "85+" "n.admissions" "d17" 0 0 135.6 56
+"male" 2018 "age" "85+" "n.admissions.ppl" "d17" 0 0 118.7 49
+"male" 2018 "age" "85+" "n.dead.year" "d17" 0 0 38.7 16
+"male" 2018 "age" "85+" "n.dead1" "d17" 0 0 61538.5 32
+"male" 2018 "age" "85+" "n.dead30" "d17" 0 0 42307.7 22
+"male" 2018 "age" "85+" "n.incidence" "d17" 0 0 125.9 52
+"male" 2018 "age" "85+" "n.prevalence" "d17" 0 0 285.7 118
+"male" 2018 "age" "85+" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2018 "age" "85+" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2018 "age" "65 - 74" "n.admissions" "d17" 0 0 68.1 214
+"male" 2018 "age" "65 - 74" "n.admissions.ppl" "d17" 0 0 54.7 172
+"male" 2018 "age" "65 - 74" "n.dead.year" "d17" 0 0 4.1 13
+"male" 2018 "age" "65 - 74" "n.dead1" "d17" 0 0 36434.1 47
+"male" 2018 "age" "65 - 74" "n.dead30" "d17" 0 0 16279.1 21
+"male" 2018 "age" "65 - 74" "n.incidence" "d17" 0 0 41 129
+"male" 2018 "age" "65 - 74" "n.prevalence" "d17" 0 0 154.3 485
+"male" 2018 "age" "65 - 74" "n.readmissions.30" "d17" 0 0 19.7 62
+"male" 2018 "age" "65 - 74" "n.readmissions.ppl.30" "d17" 0 0 27325.6 47
+"male" 2018 "age" "75 - 84" "n.admissions" "d17" 0 0 119.8 188
+"male" 2018 "age" "75 - 84" "n.admissions.ppl" "d17" 0 0 104.5 164
+"male" 2018 "age" "75 - 84" "n.dead.year" "d17" 0 0 15.3 24
+"male" 2018 "age" "75 - 84" "n.dead1" "d17" 0 0 42537.3 57
+"male" 2018 "age" "75 - 84" "n.dead30" "d17" 0 0 26119.4 35
+"male" 2018 "age" "75 - 84" "n.incidence" "d17" 0 0 85.4 134
+"male" 2018 "age" "75 - 84" "n.prevalence" "d17" 0 0 293.8 461
+"male" 2018 "age" "75 - 84" "n.readmissions.30" "d17" 0 0 22.3 35
+"male" 2018 "age" "75 - 84" "n.readmissions.ppl.30" "d17" 0 0 17682.9 29
+"male" 2018 "age" "45 - 54" "n.admissions" "d17" 0 0 16.8 69
+"male" 2018 "age" "45 - 54" "n.admissions.ppl" "d17" 0 0 13.6 56
+"male" 2018 "age" "45 - 54" "n.dead.year" "d17" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.dead1" "d17" 0 0 26315.8 10
+"male" 2018 "age" "45 - 54" "n.dead30" "d17" 0 0 NA NA
+"male" 2018 "age" "45 - 54" "n.incidence" "d17" 0 0 9.2 38
+"male" 2018 "age" "45 - 54" "n.prevalence" "d17" 0 0 39.2 161
+"male" 2018 "age" "45 - 54" "n.readmissions.30" "d17" 0 0 3.9 16
+"male" 2018 "age" "45 - 54" "n.readmissions.ppl.30" "d17" 0 0 25000 14
+"male" 2018 "age" "55 - 64" "n.admissions" "d17" 0 0 24.9 88
+"male" 2018 "age" "55 - 64" "n.admissions.ppl" "d17" 0 0 19.3 68
+"male" 2018 "age" "55 - 64" "n.dead.year" "d17" 0 0 NA NA
+"male" 2018 "age" "55 - 64" "n.dead1" "d17" 0 0 23636.4 13
+"male" 2018 "age" "55 - 64" "n.dead30" "d17" 0 0 NA NA
+"male" 2018 "age" "55 - 64" "n.incidence" "d17" 0 0 15.6 55
+"male" 2018 "age" "55 - 64" "n.prevalence" "d17" 0 0 82.7 292
+"male" 2018 "age" "55 - 64" "n.readmissions.30" "d17" 0 0 5.4 19
+"male" 2018 "age" "55 - 64" "n.readmissions.ppl.30" "d17" 0 0 22058.8 15
+"male" 2018 "age" "35 - 44" "n.admissions" "d17" 0 0 4 13
+"male" 2018 "age" "35 - 44" "n.admissions.ppl" "d17" 0 0 3.1 10
+"male" 2018 "age" "35 - 44" "n.dead.year" "d17" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.dead1" "d17" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.dead30" "d17" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.incidence" "d17" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.prevalence" "d17" 0 0 21.1 69
+"male" 2018 "age" "35 - 44" "n.readmissions.30" "d17" 0 0 NA NA
+"male" 2018 "age" "35 - 44" "n.readmissions.ppl.30" "d17" 0 0 NA NA
+"male" 2018 "national" "national" "n.admissions" "d17" 0 1 40.3 628
+"male" 2018 "national" "national" "n.admissions.ppl" "d17" 0 1 33.6 519
+"male" 2018 "national" "national" "n.dead.year" "d17" 0 1 4.5 63
+"male" 2018 "national" "national" "n.dead1" "d17" 0 1 28219.3 160
+"male" 2018 "national" "national" "n.dead30" "d17" 0 1 12076.6 90
+"male" 2018 "national" "national" "n.incidence" "d17" 0 1 27.5 416
+"male" 2018 "national" "national" "n.prevalence" "d17" 0 1 101.6 1586
+"male" 2018 "national" "national" "n.readmissions.30" "d17" 0 1 9 145
+"male" 2018 "national" "national" "n.readmissions.ppl.30" "d17" 0 1 24034.4 118
+"male" 2018 "region" "1" "n.admissions" "d17" 1 1 54.1 224
+"male" 2018 "region" "1" "n.admissions.ppl" "d17" 1 1 37.8 156
+"male" 2018 "region" "1" "n.dead.year" "d17" 1 1 4.6 17
+"male" 2018 "region" "1" "n.dead1" "d17" 1 1 31629.5 44
+"male" 2018 "region" "1" "n.dead30" "d17" 1 1 15759 22
+"male" 2018 "region" "1" "n.incidence" "d17" 1 1 27.4 111
+"male" 2018 "region" "1" "n.prevalence" "d17" 1 1 114.2 474
+"male" 2018 "region" "1" "n.readmissions.30" "d17" 1 1 19.1 80
+"male" 2018 "region" "1" "n.readmissions.ppl.30" "d17" 1 1 30410.2 52
+"male" 2018 "region" "4" "n.admissions" "d17" 1 1 29.3 72
+"male" 2018 "region" "4" "n.admissions.ppl" "d17" 1 1 23.6 57
+"male" 2018 "region" "4" "n.dead.year" "d17" 1 1 2.8 7
+"male" 2018 "region" "4" "n.dead1" "d17" 1 1 27969.9 15
+"male" 2018 "region" "4" "n.dead30" "d17" 1 1 14822.3 10
+"male" 2018 "region" "4" "n.incidence" "d17" 1 1 17.7 43
+"male" 2018 "region" "4" "n.prevalence" "d17" 1 1 77 191
+"male" 2018 "region" "4" "n.readmissions.30" "d17" 1 1 7.3 19
+"male" 2018 "region" "4" "n.readmissions.ppl.30" "d17" 1 1 27471.6 16
+"male" 2018 "region" "5" "n.admissions" "d17" 1 1 39.1 133
+"male" 2018 "region" "5" "n.admissions.ppl" "d17" 1 1 33.2 113
+"male" 2018 "region" "5" "n.dead.year" "d17" 1 1 4.1 13
+"male" 2018 "region" "5" "n.dead1" "d17" 1 1 26673 35
+"male" 2018 "region" "5" "n.dead30" "d17" 1 1 18771.4 21
+"male" 2018 "region" "5" "n.incidence" "d17" 1 1 29.7 100
+"male" 2018 "region" "5" "n.prevalence" "d17" 1 1 100.8 350
+"male" 2018 "region" "5" "n.readmissions.30" "d17" 1 1 10 34
+"male" 2018 "region" "5" "n.readmissions.ppl.30" "d17" 1 1 31712.3 30
+"male" 2018 "region" "2" "n.admissions" "d17" 1 1 39.1 133
+"male" 2018 "region" "2" "n.admissions.ppl" "d17" 1 1 33.8 115
+"male" 2018 "region" "2" "n.dead.year" "d17" 1 1 4.2 13
+"male" 2018 "region" "2" "n.dead1" "d17" 1 1 21378.6 33
+"male" 2018 "region" "2" "n.dead30" "d17" 1 1 11457.6 19
+"male" 2018 "region" "2" "n.incidence" "d17" 1 1 27.3 92
+"male" 2018 "region" "2" "n.prevalence" "d17" 1 1 96.4 332
+"male" 2018 "region" "2" "n.readmissions.30" "d17" 1 1 9.2 32
+"male" 2018 "region" "2" "n.readmissions.ppl.30" "d17" 1 1 23459.6 26
+"male" 2018 "region" "3" "n.admissions" "d17" 1 1 33.4 58
+"male" 2018 "region" "3" "n.admissions.ppl" "d17" 1 1 28.9 50
+"male" 2018 "region" "3" "n.dead.year" "d17" 1 1 4.5 7
+"male" 2018 "region" "3" "n.dead1" "d17" 1 1 NA 17
+"male" 2018 "region" "3" "n.dead30" "d17" 1 1 NA 10
+"male" 2018 "region" "3" "n.incidence" "d17" 1 1 25.4 44
+"male" 2018 "region" "3" "n.prevalence" "d17" 1 1 103.4 175
+"male" 2018 "region" "3" "n.readmissions.30" "d17" 1 1 6.4 11
+"male" 2018 "region" "3" "n.readmissions.ppl.30" "d17" 1 1 NA 10
+"male" 2018 "region" "9" "n.admissions" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.admissions.ppl" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.dead.year" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.dead1" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.dead30" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.incidence" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.prevalence" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.readmissions.30" "d17" 1 1 NA NA
+"male" 2018 "region" "9" "n.readmissions.ppl.30" "d17" 1 1 NA NA
