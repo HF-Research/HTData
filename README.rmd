@@ -1,0 +1,161 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# HjerteTal
+
+HjerteTal (HT) consists of four main components:
+
+1.  DST project 706322
+
+2.  github repository HF-Research/HTData
+
+3.  github repository HF-Research/ht2
+
+4.  hjertetal.dk
+
+Here we describe the workflow from the raw register data to the public
+shiny app which needs to be run at every update.
+
+1.  DST project 706322: At the moment it is places in the folder
+    V:\\Data\\Workdata\\706322\\MariannaMeaidi\\HJERTETAL_V2.\
+    For now we have only updated the numbers for cardiovascular disease,
+    and not congenital heart defects (the next step in the future). Both
+    projects are constructed using the {targets} package. (see
+    [https://books.ropensci.org/targets/](https://books.ropensci.org/drake/){.uri}).
+    The definitions of all the outcomes (diseases, operations and
+    medications) are kept in CSV files in the ‘input/’ directory, called
+    ‘diag_ht2_table_ny, ‘behandling_table’, and ‘med_table’
+    respectively. These tables contain the ICD/SKS/ATC definition, along
+    with the patient type (ambulatory/admitted) and diagnosis type.
+    Additionally, all outcomes are assigned a “HjerteTal code” or
+    identifier that I use to refer to them in the R code (to avoid
+    writing out the full name every time).
+
+The export files that we use in the Shiny app are kept in TXT files in
+the ‘output/’ directory. One file for each disease-group, one file for
+the operations and one file for the medications. There is one file for
+the output combos aswell.
+
+When your programming is done and validated, you need to export the
+export files out of DST and into GitHub.\
+
+The final product - The Shiny App - is maintained on GitHub, which can
+be found here: <https://github.com/HF-Research/ht2>. (Clone it to your
+local machine to get started) . In the HTData folder you will find the
+export data that will be used in the Shiny App. If you are unfamiliar
+with Shiny, please start with this: <https://mastering-shiny.org/>.
+There is lots and LOTS of tutorials online if you get stuck. This app is
+developed and tested on a local machine before it is deployed to
+shinyapps.io where it is hosted to be viable to the public. Both the
+server code and the ui code are broken into separate files, one for each
+“page” of the app (technically, one for each ‘NavbarPage’). There are 2
+projects that are needed to run the Shiny app:
+
+2.  GitHub repository HF-Research/HTData: The R package that holds all
+    HjeteTal’s data exported from DST.
+
+3.  Github repository HF-Research/ht2: The project that contains all the
+    Shiny code. To update data in HjeteTal (for example, when a new year
+    of data become available), the data is first put into a separate
+    package called HTData. The process for updating the data for this
+    package is:
+
+-   Dump the .txt files exported from DST into the ‘inst/extdata’
+    directory
+
+-   Run the R scripts found in ‘data-raw’ directory (Note, these need to
+    be modified/added to if there are changes to the format in which
+    data from DST is exported)
+
+-   Re-build the package and push the changes
+
+-   In the ‘ht2’ package, re-run the data pre-processing.R script
+
+-   Check that everything works by running locally
+
+-   Check that everything works on the server by deploying to ‘ht-dev’
+    (see the ‘deploy.R’ script)
+
+-   Deploy to the production (see the same ‘deploy.R’ script)
+
+PROJECT FOLDER STRUCTURE IN HT2:
+
+Below is a description of each folder in the shiny project
+
+• www/ contains various icon files and JS files for doing things like:
+checking if the user is using Internet Explorer, Google analytics code –
+note this is associated with the hf_forsking Google account
+
+• ui/ contains the shiny code for the UI. Each navBar page has its own
+script, and language specific objects are kept in their own language ui
+script.
+
+• server/ contains the code for the server logic. Like the UI code, each
+navBar page has its own script.
+
+• rsconnect/ This folder is automatically generate and updated when
+deploying – do not manually edit
+
+• R/ contains all the functions that are used in both the server and ui
+scripts
+
+• pre-processing/ contains the data-pre-processing script. All the other
+scripts are not used
+
+• language/ contains data files made during the pre-processing step.
+These are made to reduce the time on start-up of the app for the
+end-user.
+
+• input_ui_text/ contains the CSV files that control the text show to
+the user in both English and Danish. Not all the columns in each file
+are used, some were added, but never ended up in the final version
+
+o variable_ui_chd: contains the text for the description of the events
+for congenital heart diseases (prevalence, incidence, etc)
+
+o variable_ui: contain contains the text for the description of the
+events for acquired heart diseases (prevalence, incidence, etc)
+
+o update_descriptions_chd: describes any updated we make to the CHD
+database. This is important as sometimes new data, or new methods mean
+that the numbers might change, even for year back. This can cause worry
+among users sometimes, so it is nice to explain why things change
+
+o update_descriptions: Same as above, but for acquired CVDs
+
+o ui_about_text_chd: contains the text for the ‘About’ or ‘Vejledning’
+section o ui_about_text: same as above but for acquired CVDS o
+outcome_descriptions_chd: contain the name, and description of the
+outcomes (ie the diseases, procedures, or medications).
+
+o outcome_descriptions: same as above but for acquired CVDs
+
+o faq_chd: contains text for the FAQ table for CHDs
+
+o faq: same as above but for acquired CVDs o ethnicity: contains
+description for how ethnicity is defined in HjerteTal
+
+o edu_description: contains description for how education groups are
+defined in HjerteTal • inti/ contains the code for deploying the app to
+shinyapps.io
+
+• documentation/ I believe nothing in here is used anywhere
+
+• data/ contains various data file that are use by the
+data-preprocessing step (i.e. geographic data for the maps,
+valid_output_combos (see 1.1.2 for a description of that file). Files
+that are .rda or .fst file are datafiles created during the
+data-preprocessing step. This folder is a bit of a mess, and there are
+probably item that could be deleted
+
+THINGS TO NOTE When you deploy to shinyapps.io, the shiny app will be
+running on a Unix machine. Because this is different than the Windows
+machine you will presumably be developing the app on, this can sometimes
+cause bugs. One example, the way windows encodes non-latin characters is
+different than Unix (I spent A LOT of time on this!), so when using
+Danish-specific letters, it can be tricky. That’s why you often see
+‘enc2utf8()’ surrounding Danish text. I do not entirely understand any
+of this...
