@@ -80,7 +80,7 @@ projects that are needed to run the Shiny app:
     Check if the newest version of HTData is loaded:
     packageVersion('HTData')
 
--   Check that everything works by running locally
+-   Check that everything works by running locally by running global.R and run runApp()
 
 -   Check that everything works on the server by deploying to ‘ht-dev’
     (see the ‘deploy.R’ script)
