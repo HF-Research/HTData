@@ -54,25 +54,31 @@ server code and the ui code are broken into separate files, one for each
 “page” of the app (technically, one for each ‘NavbarPage’). There are 2
 projects that are needed to run the Shiny app:
 
-2.  GitHub repository HF-Research/HTData: The R package that holds all
+-   GitHub repository HF-Research/HTData: The R package that holds all
     HjeteTal’s data exported from DST.
 
-3.  Github repository HF-Research/ht2: The project that contains all the
+    -   Dump the .txt files exported from DST into the ‘inst/extdata’
+        directory
+
+    -   Run the R scripts found in ‘data-raw’ directory (Note, these
+        need to be modified/added to if there are changes to the format
+        in which data from DST is exported)
+
+    -   Re-build the package and push the changes (R-studio -\> Build
+        -\> more -\> build source package). Remember to change the
+        version number in the file DESCRIPTION.
+
+    -   Install the package –\> Install –\> Install Package
+
+-   Github repository HF-Research/ht2: The project that contains all the
     Shiny code. To update data in HjeteTal (for example, when a new year
     of data become available), the data is first put into a separate
     package called HTData. The process for updating the data for this
     package is:
 
--   Dump the .txt files exported from DST into the ‘inst/extdata’
-    directory
-
--   Run the R scripts found in ‘data-raw’ directory (Note, these need to
-    be modified/added to if there are changes to the format in which
-    data from DST is exported)
-
--   Re-build the package and push the changes
-
--   In the ‘ht2’ package, re-run the data pre-processing.R script
+-   In the ‘ht2’ projekct, re-run the data pre-processing.R script.
+    Check if the newest version of HTData is loaded:
+    packageVersion('HTData')
 
 -   Check that everything works by running locally
 
