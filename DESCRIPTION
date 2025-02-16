@@ -1,7 +1,7 @@
 Package: HTData
 Type: Package
 Title: Provides data for HjerteTal
-Version: 2025.02.14
+Version: 2025.02.16
 Author: Marianna Meaidi
 Maintainer: Marianna Meaidi <mmeaidi@hjerteforeningen.dk>
 Description: More about what it does (maybe more than one line)
