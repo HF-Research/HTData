@@ -1,9 +1,9 @@
 Package: HTData
 Type: Package
 Title: Provides data for HjerteTal
-Version: 2025.05.22
+Version: 2025.12.16
 Author: Marianna Meaidi
-Maintainer: Marianna Meaidi <mmeaidi@hjerteforeningen.dk>
+Maintainer: Caecilie Stilling Denholt <caecilie.stilling.denholt.01@regionh.dk>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: GPL-3
